@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+ <eadheader audience="external" countryencoding="iso3166-1"
+ dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"
+ relatedencoding="DC" scriptencoding="iso15924"> 
+ <eadid countrycode="us"
+ publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::B68-14::Roberts-Sidway-Spaulding Papers)//EN"
+ mainagencycode="NBuHi" encodinganalog="identifier">bechs_b68_14</eadid> 
+ <filedesc> 
+ <titlestmt> 
+ <titleproper encodinganalog="title"> Finding Aid for the
+ Roberts-Sidway-Spaulding Papers, 
+ <date type="inclusive" normal="1850/1936" era="ce"
+ calendar="gregorian" encodinganalog="date">1850-1936</date> </titleproper> 
+ <titleproper altrender="nodisplay"
+ type="filing">Roberts-Sidway-Spaulding Papers</titleproper> 
+ <author encodinganalog="contributor">Finding aid prepared by Peter
+ Nelson.</author> 
+ <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor> 
+ </titlestmt> 
+ <publicationstmt> 
+ <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher> 
+ <address> 
+ <addressline>1 Museum Court</addressline> 
+ <addressline>Buffalo, NY 14216</addressline> 
+ <addressline>Phone: 716-873-9644 ext. 306</addressline> 
+ <addressline>Fax: 716-873-8754</addressline> 
+ <addressline>Email: <emph render="bold"> 
+ <extref actuate="onrequest" show="new"
+ href="mail-to:library@buffalohistory.org">library@buffalohistory.org</extref></emph></addressline>
+ 
+ <addressline>URI: <emph render="bold"> 
+ <extref actuate="onrequest" show="new"
+ href="http://www.buffalohistory.org">http://www.buffalohistory.org</extref></emph></addressline>
+ 
+ </address> 
+ <p>© 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p> 
+ </publicationstmt> 
+ </filedesc> 
+ <profiledesc> 
+ <creation>Finding aid encoded in EAD by Kuniko Simon, March
+ 2008.</creation> 
+ <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng"
+ encodinganalog="language">English</language>.</langusage> 
+ <descrules>Finding aid prepared using local best practices. </descrules> 
+ </profiledesc> 
+ </eadheader> 
+ <archdesc level="collection" type="inventory" relatedencoding="MARC21"> 
+ <did> 
+ <head>Collection Overview</head> 
+ <unittitle encodinganalog="245$a" label="Title">Roberts-Sidway-Spaulding
+ Papers, 
+ <unitdate type="inclusive" encodinganalog="245$f"
+ normal="1850/1936">1850-1936</unitdate> </unittitle> 
+ <unitid encodinganalog="099" label="Collection Number"
+ repositorycode="NBuHi" countrycode="US">Mss. B68-14</unitid> 
+ <origination label="Creator"> 
+ <persname encodinganalog="100" source="lcnaf" role="creator">Roberts,
+ James A. (James Arthur), 1847-1922</persname> </origination> 
+ <physdesc label="Extent"><extent unit="box" encodinganalog="300">4
+ boxes</extent> <extent unit="linear foot" encodinganalog="300">(2 linear
+ feet)</extent> </physdesc> 
+ <langmaterial label="Language of Material"
+ encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English.</language>
+ </langmaterial> 
+ <repository label="Repository" encodinganalog="852"> 
+ <corpname>Buffalo History Museum.<subarea>Research
+ Library</subarea></corpname> </repository> 
+ <abstract encodinganalog="520" label="Abstract">Personal papers and
+ correspondence of James A. Roberts, Franklin and Frank S. Sidway, and E.G.
+ Spaulding.</abstract> 
+ </did> 
+ <descgrp type="admininfo"> 
+ <head>Administrative Information</head>  
+ <prefercite encodinganalog="524"> 
+ <head>Preferred Citation</head> 
+ <p>[Description and dates], Box/folder number, Mss. B68-14,
+ Roberts-Sidway-Spaulding Papers, 1850-1936, Research Library, Buffalo History Museum.</p> 
+ </prefercite> 
+ <accessrestrict encodinganalog="506"> 
+ <head>Terms of Access</head> 
+ <p>Roberts-Sidway-Spaulding Papers, 1850-1936, are open for
+ research.</p> 
+ </accessrestrict> 
+ <userestrict encodinganalog="540"> 
+ <head>Copyright</head> 
+ <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p> 
+ </userestrict> 
+ </descgrp> 
+ <descgrp type="admininfo"> 
+ <head>Administrative Information</head> 
+ <acqinfo encodinganalog="541"> 
+ <head>Acquisition Information</head> 
+ <p>Please see librarian for acquisition information.</p> 
+ </acqinfo> 
+ <accruals encodinganalog="584"> 
+ <head>Accruals and Additions</head> 
+ <p>No further accruals are expected to this collection.</p> 
+ </accruals> 
+ <processinfo encodinganalog="583"> 
+ <head>Processing Information</head> 
+ <p>Collection processed by Peter Nelson, April 1993.</p> 
+ </processinfo> 
+ </descgrp> 
+ <bioghist encodinganalog="545"> 
+ <head>Biographical Note </head> 
+ <bioghist encodinganalog="545"> 
+ <head>James A. Roberts, 1847-1938</head> 
+ <p>A Buffalo and New York City lawyer and financier, Roberts was born
+ in Waterboro, York County, Maine in 1847. He served in the Civil War in the 7th
+ Maine Battery from 1864 to 1865 before entering Bowdoin College. He earned an
+ A.B. from Bowdoin in 1870, an A.M. in 1873, and an LL.D. in 1898. From the time
+ he was admitted to the bar in 1875 until 1894, Roberts practiced law in
+ Buffalo. He was a member of the New York State Assembly, 1879-1880, and Buffalo
+ Parks Commissioner, 1891-1893. In 1894, he left Buffalo to serve as New York
+ State comptroller until 1899. From 1902 to his death, Roberts lived in New York
+ City. He was married twice, to Minnie Pineo in 1871 and to Martha Dresser in
+ 1884. </p> 
+ </bioghist> 
+ <bioghist encodinganalog="545"> 
+ <head>Frank St. John Sidway, 1869-1938 </head> 
+ <p>A prominent figure in legal, military, and civic affairs in Buffalo
+ and a member of an early Buffalo family, Frank S. Sidway was related to James
+ A. Roberts by his marriage to Roberts' daughter Amelia in 1903. Sidway was the
+ son of Franklin Sidway (1834-1920), a Buffalo merchant and banker.</p> 
+ <p>Frank S. Sidway was educated at Buffalo public schools and Phillips
+ Exeter Academy (N.H.). He enrolled at Harvard College in the class of 1893 but
+ left before graduating. He then attended the University of Buffalo Law School,
+ where he received his degree in 1894. After studying law in the offices of
+ Lewis, Moot and Lewis, he practiced for three years in the firm of Sprague,
+ Moot, Sprague and Brownell. From 1897 until his death, Sidway practiced law
+ privately. He developed an extensive clientele, and his practice was
+ substantially devoted to real estate investments.</p> 
+ <p>Sidway's military career began in 1894 when he was commissioned a
+ second lieutenant in the 74th Infantry Regiment of the New York National Guard;
+ by 1897 he had been promoted to captain. In 1898, in the war with Spain, he was
+ commissioned a captain in the 202nd New York Infantry Regiment; he raised a
+ company within weeks and was one of the first captains mustered into U.S.
+ service. Sidway and his regiment sailed for Cuba and fought through the entire
+ campaign; they were the first U.S. troops to enter Havana. On his return to the
+ U.S. in 1899, he was mustered out, but later was elected captain of the 74th
+ infantry. He resigned that commission in 1902. His military career resumed
+ during World War I, when he was made a major of the depot battery of the 74th
+ Regiment. In 1917, with the rank of lieutenant colonel, Sidway organized the
+ command that replaced the regular regiment after it was mobilized.</p> 
+ <p>As an attorney, he was responsible for all Sidway family interests
+ in Buffalo, including the management of the Sidway building at Main and Goodell
+ Streets. He was vice-president of Robertson Cataract Electric Company and
+ chairman of the Erie County Republican Committee (1909-1910). He also served as
+ president of the Building Manufacturers Association (1926-1927) and the Main
+ Street Association (1936-1937), and was a member of the New York State
+ Historical Society, the Buffalo Historical Society, as well as several social
+ and fraternal organizations.</p> 
+ </bioghist> 
+ <bioghist encodinganalog="545"> 
+ <head>Franklin Sidway, 1834-1920</head> 
+ <p>The father of Frank S. Sidway, Franklin Sidway was born in Buffalo.
+ After returning from European travels in 1853, he organized the Buffalo firm of
+ Sidway, Skinner &amp; Moore, general ship chandlers and grocers. This firm
+ ceased operations sometime during the Civil War. During the war he was
+ commissioned a colonel with authority to raise a regiment; Sidway recruited
+ many companies of soldiers but they were later transferred to another regiment.
+ He married Charlotte Spaulding, the daughter of E.G. Spaulding, who was
+ president of Farmers and Mechanics National Bank. Sidway became a cashier in
+ the bank and later served as vice-president until 1898. He was a trustee of
+ Buffalo Savings Bank and Forest Lawn Cemetery, as well as president of the
+ Buffalo and Falconwood Clubs. In addition to a son, Frank S., Franklin Sidway
+ had a daughter, Mrs. Edith Gardner.</p> 
+ </bioghist> 
+ <bioghist encodinganalog="545"> 
+ <head>Elbridge Gerry Spaulding, 1809-1897</head> 
+ <p>Lawyer, banker, alderman, mayor, assemblyman, state treasurer, and a
+ three-term member of Congress, E.G. Spaulding had a distinguished and varied
+ career. He studied law in Batavia and came to Buffalo in 1834, eventually
+ entering into successive partnerships with George R. Babcock, Herman B. Potter,
+ and John Ganson. About the time he retired from the legal progression (1848),
+ Spaulding was instrumental in moving Farmers and Mechanics Bank from Batavia to
+ Buffalo; soon thereafter he became its president and remained in that position
+ all his active life.</p> 
+ <p>Spaulding began his career in public life as city clerk in 1836. In
+ 1841, as an alderman, he served as chairman of the city's finance committee; he
+ was elected mayor of Buffalo in 1847; he entered the state assembly in 1848,
+ where he was chairman of the Canal Committee; and he was elected to the 31st
+ U.S. Congress in 1849. In 1853, Spaulding served as state treasurer and was
+ active for several years on the Republican State Central Committee. In 1858, he
+ was again elected to the House of Representatives, serving in both the 36th and
+ 37th U.S. Congresses during the critical period of the Civil War. He is most
+ widely known as "Father of the Greenback" for his initiative on the House Ways
+ and Means Committee in overseeing the passage of bills he introduced in
+ Congress to issue new U.S. treasury notes during the Civil War.</p> 
+ <p>Spaulding owned a 315-acre farm, "River Lawn", on Grand Island. He
+ was the father of two sons, Edward R. and Samuel S. Spaulding, and a daughter,
+ Charlotte Spaulding, who married Franklin Sidway.</p> 
+ </bioghist> 
+ </bioghist> 
+ <scopecontent encodinganalog="520"> 
+ <head>Scope and Content Note</head> 
+ <p>Correspondence, 1887-1922, and other papers related to legal and
+ business affairs of James A. Roberts; papers concerning Erie Canal, 1894- 1897;
+ court records and other legal documents, 1908-1915, concerning United States
+ Light and Heating Corporation; financial records, including stock certificates,
+ receipts, statements, and account books, 1890-1922; and a Roberts family
+ genealogy, 1913. Papers of Frank S. Sidway include correspondence, 1904-1936,
+ mainly concerning alumni affairs of Phillips Exeter Academy; military oaths of
+ office, 1916-1919; clippings, 1919-1933; an undated roster of the 74th and
+ 202nd Regiments N.Y.; petitions regarding the proposed site of railroad
+ terminals in Buffalo, 1907; and an account book of his father's firm Sidway,
+ Skinner &amp; Moore, 1861-1862. E.G. Spaulding papers include correspondence,
+ 1877-1881, an inventory of books, 1856, and invoices related to the
+ construction of a house on Grand Island, 1877-1882. Also, deeds, mortgages,
+ title searches, estate papers, and other legal papers pertaining to real estate
+ transactions, 1850-1919.</p> 
+ </scopecontent> 
+ <arrangement encodinganalog="351"> 
+ <head>Arrangement</head> 
+ <p>Organized into five series: 
+ <list> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series1">I. Correspondence of James A. Roberts and Frank S. Sidway,
+ 1887-1936</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series2">II. James A. Roberts Papers, 1890-1922</ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series3">III. Franklin and Frank S. Sidway Papers,
+ 1861-1933</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series4">IV. E.G. Spaulding Papers, 1856-1922</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series5">V. Deeds, Mortgages, Title Searches, Estate Papers, etc.,
+ 1850-1919.</ref></item> 
+ </list>Chronological arrangement within series.</p> 
+ </arrangement> 
+ <dsc type="combined"> 
+ <head>Container List </head> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series1">I.</unitid> 
+ <unittitle>Correspondence of James A. Roberts and Frank S. Sidway, 
+ <unitdate normal="1887/1936" type="inclusive">1887-1936
+ </unitdate></unittitle> 
+ </did> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series1a">I.A.</unitid> 
+ <unittitle>Combined correspondence, 
+ <unitdate normal="1893/1936"
+ type="inclusive">1893-1936</unitdate></unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged chronologically.</p> 
+ </arrangement> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.1</container> 
+ <unittitle>James A. Roberts letter copybook, 
+ <unitdate>1893-1900</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.2</container> 
+ <unittitle>James A. Roberts correspondence, 
+ <unitdate> 1887-1903</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.3-2.9</container> 
+ <unittitle>James A. Roberts and Frank S. Sidway correspondence, 
+ <unitdate>1904-1922</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.10</container> 
+ <unittitle>Frank S. Sidway correspondence, 
+ <unitdate>1923-1936</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.11</container> 
+ <unittitle>James A. Roberts correspondence, 
+ <unitdate>undated</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series1b">I.B.</unitid> 
+ <unittitle>Roberts correspondence from Henry W. Box and Box estate,
+ 
+ <unitdate normal="1892/1920" type="inclusive">1892</unitdate>, 
+ <unitdate normal="1892/1920"
+ type="inclusive">1906-1920</unitdate></unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.1</container> 
+ <unittitle> 
+ <unitdate>1906-1908 </unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <p>Includes memorandum of agreement, 1892</p> 
+ </scopecontent> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.2-3.3</container> 
+ <unittitle>1909-1920</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series2">II.</unitid> 
+ <unittitle>James A. Roberts Papers, 
+ <unitdate normal="1890/1922"
+ type="inclusive">1890-1922</unitdate></unittitle> 
+ </did> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series2a">II.A.</unitid> 
+ <unittitle>Genealogy</unittitle> 
+ <unitdate normal="1913" type="inclusive">1913</unitdate> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.4</container> 
+ <unittitle>Roberts family genealogy, 
+ <unitdate>1913</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series2b">II.B.</unitid> 
+ <unittitle>New York State Comptroller, 
+ <unitdate type="inclusive"
+ certainty="approximate">undated</unitdate></unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.5</container> 
+ <unittitle> Canal papers</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series2c">II.C.</unitid> 
+ <unittitle>Legal records Concerning United States Light and Heating
+ Company, 
+ <unitdate normal="1908/1914"
+ type="inclusive">1908-1914</unitdate></unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.6</container> 
+ <unittitle>Records regarding purchase of Bliss Electric Car
+ Lighting Co. and Cutler-Hammer Mfg. Co., 
+ <unitdate>1908-1909</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.7</container> 
+ <unittitle>Pitcher Lead Co., et al. vs. United States Light and
+ Heating Co., U.S. District Court, Western District, 
+ <unitdate> July 1914 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.8</container> 
+ <unittitle>Central Trust Co. of New York vs. United States Light
+ and Heating Co.~ U.S. District Court of New York, Western District, 
+ <unitdate>July-October 1914 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.9-3.10</container> 
+ <unittitle>[Bliss Electric Car Lighting Co.] daily financial
+ reports, 
+ <unitdate>July 20, 1914-June 11, 1915</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.11</container> 
+ <unittitle>United States Light and Heating Co., 
+ <unitdate>October-December 1914</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.12</container> 
+ <unittitle>Statements regarding United States Light and Heating
+ Co., 
+ <unitdate>1914</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series2d">II.D.</unitid> 
+ <unittitle>Financial records, 
+ <unitdate normal="1890/1922"
+ type="inclusive">1890-1922</unitdate></unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.13</container> 
+ <unittitle>Financial record books, 
+ <unitdate>1890-1907</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.1-4.2</container> 
+ <unittitle>Receipts and other financial records, 
+ <unitdate>circa 1905-1922</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.3</container> 
+ <unittitle>Miscellaneous financial statements, 
+ <unitdate>circa 1906-1922</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.4</container> 
+ <unittitle>Stock certificates of Clarissa Tunnel Co. and Richmond
+ Gold Mine Co., 
+ <unitdate>1900-1902</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.5</container> 
+ <unittitle>Cancelled checks, 
+ <unitdate>1902-1903</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series2e">II.E.</unitid> 
+ <unittitle>Writings, 
+ <unitdate certainty="approximate"
+ type="inclusive">undated</unitdate></unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.6</container> 
+ <unittitle> Book reviews, 
+ <unitdate>undated</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series3">III.</unitid> 
+ <unittitle>Franklin and Frank S. Sidway Papers, 
+ <unitdate normal="1861/1933"
+ type="inclusive">1861-1933</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.7</container> 
+ <unittitle>Oaths of office as major, lieutenant colonel, and
+ colonel, 
+ <date>1916-1919</date> 74th Regiment roster, 
+ <unitdate>undated </unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.8</container> 
+ <unittitle>Account book of Sidway, Skinner &amp; Moore, 
+ <unitdate>1861-1862</unitdate> </unittitle> 
+ </did> 
+ <note> 
+ <p>(later used as expense record book for building project,
+ 1884-1902)</p> 
+ </note> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.9</container> 
+ <unittitle>Petition and memoranda presented by Citizens Union of
+ Buffalo (Frank S. Sidway, secretary) regarding proposed site of railroad
+ terminals in Buffalo, 
+ <unitdate>1907 </unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.10</container> 
+ <unittitle>Clippings regarding 74th Regiment, 
+ <unitdate>1919</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.11</container> 
+ <unittitle>Clippings regarding 202nd Regiment, 
+ <unitdate>1925</unitdate>, 
+ <unitdate>1933</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series4">IV.</unitid> 
+ <unittitle>E.G. Spaulding papers, 
+ <unitdate normal="1856/1882"
+ type="inclusive">1856-1882</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.12</container> 
+ <unittitle>Correspondence, 
+ <unitdate>1877-1881</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.13</container> 
+ <unittitle>List of law books and general library, 
+ <unitdate>1856</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.14</container> 
+ <unittitle>Invoices related to construction of house on Grand
+ Island, 
+ <unitdate>1877-1882</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series5">V.</unitid> 
+ <unittitle>Deeds, Mortgages, Title Searches, Estate Papers, etc., 
+ <unitdate normal="1850/1919"
+ type="inclusive">1850-1919</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.15</container> 
+ <unittitle> 
+ <unitdate>1850-1884</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.16</container> 
+ <unittitle> 
+ <unitdate>1884-1899</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.17</container> 
+ <unittitle> 
+ <unitdate>1901-1919</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ </dsc> 
+ <controlaccess> 
+ <head>Search Terms</head> 
+ <note> 
+ <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p> 
+ </note> 
+ <controlaccess> 
+ <head>Contributors</head> 
+ <persname encodinganalog="700" rules="aacr2">Box, Henry W.,
+ 1836-1909</persname> 
+ <persname encodinganalog="700" rules="aacr2">Alexander, D.S. (DeAlva
+ Stanwood), 1845-1925</persname> 
+ <persname source="lcnaf" encodinganalog="700">Urban, George,
+ 1850-1928</persname> 
+ <persname encodinganalog="700" rules="aacr2">Sidway, Frank S. (Frank
+ St. John), 1869-1938.</persname> 
+ <persname source="lcnaf" encodinganalog="700">Spaulding, E.G. (Elbridge
+ Gerry), 1809-1897</persname> 
+ <persname encodinganalog="700" rules="aacr2">Sidway, Franklin,
+ 1834-1920</persname> 
+ <corpname encodinganalog="710" rules="aacr2">Sidway, Skinner &amp;
+ Moore (Buffalo, N.Y.)</corpname> 
+ <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum </corpname> 
+ </controlaccess> 
+ <controlaccess> 
+ <head>Subject Terms</head> 
+ <famname encodinganalog="600" role="subject" rules="aacr2">Roberts
+ family</famname> 
+ <corpname encodinganalog="610" rules="aacr2" role="subject">New York
+ (State). National Guard. Infantry Regiment, 74th</corpname> 
+ <corpname encodinganalog="610" rules="aacr2" role="subject">New York
+ (State). National Guard. Infantry Regiment, 202nd</corpname> 
+ <corpname encodinganalog="610" rules="aacr2" role="subject">United
+ States Light and Heating Corporation (Niagara Falls, N.Y.)</corpname> 
+ <corpname source="lcnaf" encodinganalog="610" role="subject">Phillips
+ Exeter Academy</corpname> 
+ <subject source="lcsh" encodinganalog="650">Real property--New York
+ (State)--Erie County</subject> 
+ <geogname source="lcnaf" encodinganalog="651">Erie Canal
+ (N.Y.)</geogname> 
+ </controlaccess> 
+ <controlaccess> 
+ <head>Genre Terms</head> 
+ <genreform source="aat" encodinganalog="655">Stock
+ certificates</genreform> 
+ <genreform source="aat" encodinganalog="655">Judicial
+ records</genreform> 
+ <genreform source="aat" encodinganalog="655">Genealogies</genreform> 
+ <genreform source="aat" encodinganalog="655">Deeds</genreform> 
+ </controlaccess> 
+ </controlaccess> 
+ </archdesc> 
+</ead>

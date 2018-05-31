@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead>
+ <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601"
+  langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC"
+  scriptencoding="iso15924">
+  <eadid countrycode="us" mainagencycode="NBuHi" encodinganalog="identifier"
+   publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::B00-11::A. Conger Goodyear War of 1812 Manuscripts)//EN"
+   >bechs_b00_11</eadid>
+
+  <filedesc>
+   <titlestmt>
+    <titleproper encodinganalog="title">Finding Aid for the A. Conger Goodyear War of 1812
+     Manuscripts, <date type="inclusive" normal="1779/1862" encodinganalog="date">1779-1862</date>
+    </titleproper>
+    <titleproper altrender="nodisplay" type="filing">Goodyear (A. Conger) War of 1812
+     Manuscripts</titleproper>
+    <author encodinganalog="contributor">Finding aid prepared by Buffalo History Museum
+     staff.</author>
+    <sponsor encodinganalog="contributor">Funding for the initial encoding was provided through the
+     Regional Bibliographic Databases Program administered by the Western New York Library Resources
+     Council.</sponsor>
+   </titlestmt>
+   <publicationstmt>
+    <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher>
+    <address> 
+ <addressline>1 Museum Court</addressline> 
+ <addressline>Buffalo, NY 14216</addressline> 
+ <addressline>Phone: 716-873-9644 ext. 306</addressline> 
+ <addressline>Fax: 716-873-8754</addressline> 
+ <addressline><emph render="bold">Email: 
+ <extref actuate="onrequest" show="new" href="mail-to:library@buffalohistory.org">library@buffalohistory.org</extref></emph></addressline>
+ 
+ <addressline><emph render="bold">URI: 
+ <extref actuate="onrequest" show="new" href="http://www.buffalohistory.org">http://www.buffalohistory.org</extref></emph></addressline>
+ 
+ </address>
+    <p>© <date encodinganalog="date" type="publication">2017</date>. Buffalo History Museum. All
+     rights reserved.</p>
+   </publicationstmt>
+  </filedesc>
+  <profiledesc>
+   <creation>Finding aid encoded in EAD by Kuniko Simon, March 2008.</creation>
+   <langusage altrender="nodisplay">Finding aid written in <language langcode="eng"
+     encodinganalog="language">English</language>. </langusage>
+   <descrules>Finding aid prepared using local best practices. </descrules>
+  </profiledesc>
+  <revisiondesc>
+     <change>
+    <date normal="2017">2017
+    </date>
+      <item>The collection was moved from 3 to 4 boxes and the volume numbers were modified. </item>
+    
+   </change>
+  </revisiondesc>
+ </eadheader>
+ <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+  <did>
+   <head>Collection Overview</head>
+   <unittitle encodinganalog="245$a" label="Title">A. Conger Goodyear War of 1812 Manuscripts,
+     <unitdate type="inclusive" encodinganalog="245$f" normal="1779/1862" datechar="creation"
+     calendar="gregorian" era="ce">1779-1862</unitdate>
+   </unittitle>
+   <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US"
+    >Mss. B00-11</unitid>
+   <origination label="Creator">
+    <persname encodinganalog="100" source="lcnaf" role="creator">Goodyear, A. Conger (Anson Conger),
+     1877-1964</persname>
+   </origination>
+   <physdesc label="Extent"><extent unit="box" encodinganalog="300">4 boxes</extent>
+    <extent encodinganalog="300" unit="linear foot">(2 linear feet)</extent></physdesc>
+   <langmaterial label="Language of Material" encodinganalog="546">Collection material in <language
+     encodinganalog="041" langcode="eng">English</language>.</langmaterial>
+   <repository label="Repository" encodinganalog="852">
+    <corpname>Buffalo History Museum. <subarea>Research Library</subarea></corpname>
+   </repository>
+   <abstract encodinganalog="520" label="Abstract">Papers pertaining to the War of 1812.</abstract>
+  </did>
+  <descgrp type="admininfo">
+   <head>Administrative Information</head>
+   <prefercite encodinganalog="524">
+    <head>Preferred Citation</head>
+    <p>[Specified item], Mss. B00-11, A. Conger Goodyear War of 1812 Manuscripts Collection,
+     Research Library, Buffalo History Museum.</p>
+   </prefercite>
+   <accessrestrict encodinganalog="506">
+    <head>Terms of Access</head>
+    <p>The A. Conger Goodyear War of 1812 Manuscripts, 1779-1862, are open for research.</p>
+    <p>Researchers wishing to access this collection must apply for a Scholar Pass and present valid photo ID upon arrival to the library.</p>
+   </accessrestrict>
+   <userestrict encodinganalog="540">
+    <head>Copyright</head>
+    <p>Copyright of papers in the collection may be held by their authors, or the authors' heirs or
+     assigns. Researchers must obtain the written permission of the holder(s) of copyright and the
+     Buffalo History Museum before publishing quotations from materials in the collection.</p>
+   </userestrict>
+  </descgrp>
+  <descgrp type="admininfo">
+   <head>Administrative Information</head>
+   <acqinfo encodinganalog="541">
+    <head>Acquisition Information</head>
+    <p>The War of 1812 Manuscripts were donated by A. Conger Goodyear.</p>
+   </acqinfo>
+   <accruals encodinganalog="584">
+    <head>Accruals and Additions</head>
+    <p>No further accruals are expected to this collection.</p>
+   </accruals>
+   <altformavail encodinganalog="530">
+    <head>Alternate Forms</head>
+    <p>Microfilm copy available ( <num type="microfilm reel">M2008-1</num>). </p>
+   </altformavail>
+   <processinfo encodinganalog="583">
+    <head>Processing Information</head>
+    <p>Collection processed by Buffalo History Museum staff.  Collection was re-processed in November, 1992 by Peter Nelson.</p>
+   </processinfo>
+  </descgrp>
+  <bioghist encodinganalog="545">
+   <head>Biographical Note</head>
+   <p>Anson Conger Goodyear was born to a prominent family in Buffalo, New York in June 20, 1877.
+    After he graduated from Yale in 1899, he began working in his family's lumber business and
+    became president of the firm in 1911. His interests extended beyond his family firm to include
+    railroads, serving as vice-president of the Buffalo and Susquehanna Railroad between 1907 and
+    1910, and president of the New Orleans Great Northern Railroad Company from 1920 to 1930.</p>
+   <p>Goodyear was also known for a patron of the fine arts and collector. Goodyear succeeded his
+    father as a director of the Buffalo Academy of Fine Arts and was appointed in 1929 as the first
+    president of The Museum of Modern Art in New York City. He served in that position until 1939
+    when he was succeeded by Nelson A. Rockefeller. Goodyear continued serving on the acquisitions
+    committee until the 1950s and remained a trustee of the Museum until his death on April 24,
+    1964.</p>
+   <p>Serving in both World Wars I and II, he ended his service with the rank of major general. In
+    1955 Goodyear received the chancellor's Medal from the University of Buffalo for his
+    contribution to the Lockwood Library Collection. </p>
+   <p><emph render="italic">Modified from Biographical note, MoMA The Museum of Fine Art and Buffalo
+     News (08/09/1951 and 04/24/1964), University Archives, University at Buffalo, The State
+     University of New York.</emph></p>
+  </bioghist>
+  <scopecontent encodinganalog="520">
+   <head>Scope and Content Note</head>
+   <p> Miscellaneous War of 1812 manuscripts collected by A. Conger Goodyear, including orderly
+    books of camps Batavia and Buffalo; memoranda from an original journal by Gen. Jacob Brown,
+    1814; letterbooks of Amos Hall and Roger Hale Sheaffe; and letters, documents and maps
+    concerning the Porter- Smyth controversy, the Battle of Black Rock and the destruction of
+    Buffalo, and the battles of Chippewa, Queenstown, Lundy's Lane, Lake Erie, and Fort Erie.
+    Writers include Peter B. Porter and Stephen Van Rensselaer.</p>
+   <p>Manuscripts mounted in bound volumes originally collected by Benson J. Lossing; purchased by
+    A. Conger Goodyear. </p>
+  </scopecontent>
+  <arrangement encodinganalog="351">
+   <head>Arrangement</head>
+   <p>This collection is arranged by volume.</p>
+  </arrangement>
+  <dsc type="combined">
+   <head>Container List </head>
+   <c01 level="file">
+    <did>
+     <container type="box-folder">1.1</container>
+     <container type="volume">1</container>
+     <unittitle>Sir Roger Hale Sheaffe : Letterbook, <unitdate type="inclusive"
+      normal="1812-10/1818-04">October 1812-April 1818</unitdate></unittitle>
+    </did>
+    <scopecontent>
+     <p>Contains copies of letters to and from Sheaffe from the time he assumed command until April
+      13, 1813, with several letters written after the close of the war. Commander of British troops
+      after the fall of Brock at Queenstown.</p>
+    </scopecontent>
+   </c01>  
+   
+   <c01 level="file">
+    <did>
+     <container type="box-folder">1.2</container>
+        <unittitle>Typed copies of selected Letters of Sir Roger Hale Sheaffe, <unitdate
+      type="inclusive" normal="1812/1879"> undated</unitdate></unittitle>
+    </did>
+   </c01>
+   <c01 level="file">
+    <did>
+     <container type="box-folder">1.3</container>
+        <unittitle>Typed copies of selected Letters of Sir Roger Hale Sheaffe, <unitdate
+      type="inclusive" normal="1812/1879"> undated</unitdate></unittitle>
+    </did>
+   </c01>
+   <c01 level="file">
+    <did>
+     <container type="box-folder">1.4</container>
+        <unittitle>Typed copies of selected Letters of Sir Roger Hale Sheaffe, <unitdate
+      type="inclusive" normal="1812/1879"> undated</unitdate></unittitle>
+    </did>
+   </c01> 
+   <c01 level="file">
+    <did>
+     <container type="box">1</container>
+     <container type="volume">2</container>
+     <unittitle>Orderly book, <unitdate type="inclusive" normal="1814-04-06/1814-07-14">April 6-July
+      14, 1814</unitdate>
+     </unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes given passwords, officers of the day, and other regimental details; dated from Camp
+      Batavia and Camp Buffalo.</p>
+    </scopecontent>
+   </c01>
+    <c01 level="file">
+    <did>
+     <container type="box">1</container>
+     <container type="volume">3</container>
+     <unittitle>Memoranda of occurrences &amp;c connected with the Campaign of Niagara, <unitdate
+       type="inclusive" normal="1814">1814</unitdate></unittitle>
+    </did>
+    <scopecontent>
+     <p>Probably copied from an original journal of "Genl. JACOB BRONN." Entries cover the
+      investment of Fort Erie (2 July), Battle of Lundy's Lane (25 July) and the sortie from Fort
+      Erie (17 September). Also copies of correspondence with the Secretary of War and others,
+      1814-1825, and an estimate of the size and distribution of British troops in Upper Canada, 1
+      July 1814.</p>
+    </scopecontent>
+   </c01>
+    <c01 level="file">
+    <did>
+     <container type="box">1</container>
+     <container type="volume">4</container>
+     <unittitle>Major -General AMOS HALL: Letterbook, <unitdate type="inclusive"
+       normal="1812-05/1812-10">May-October 1812.</unitdate></unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes miscellaneous notes on American Indians.</p>
+    </scopecontent>
+   </c01>
+    <c01 level="file">
+    <did>
+     <container type="box">2</container>
+     <container type="volume">5</container>
+     <unittitle>Orderly book, <unitdate type="inclusive" normal="1814-04/1814-08"> April-August,
+       1814. </unitdate></unittitle>
+    </did>
+    <scopecontent>
+     <p>Probably the original orderly book of General Jacob Brown for the Niagara Campaign.</p>
+    </scopecontent>
+   </c01>
+   <c01 level="file">
+    <did>
+     <container type="box">2</container>
+     <container type="volume">6</container>
+     <unittitle>Battle of Black Rock/Destruction of Buffalo, <unitdate type="inclusive"
+       normal="1813">1813</unitdate>
+     </unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes two manuscript narratives (anonymous, undated) of the fall of Fort George (27 May,
+      1813) and the destruction of Buffalo (29-30 December, 1813); and a manuscript narrative by
+      Peter B. Porter describing the Battle of Black Rock (11 July, 1813).</p>
+    </scopecontent>
+   </c01>
+    <c01 level="file">
+    <did>
+     <container type="box">2</container>
+     <container type="volume">7</container>
+     <unittitle>Porter-Smyth Controversy, <unitdate type="inclusive" normal="1812/1879">
+       undated</unitdate></unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes five letters Peter B. Porter, John Levett, and General Solomon Van Rensselaer
+      concerning the case of General Alexander Smyth; and one letter dated Mount Hope, 7 January,
+      1813, stating the circumstances of his duel with Peter B. Porter.</p>
+    </scopecontent>
+   </c01>
+   <c01 level="file">
+    <did>
+     <container type="box">2</container>
+     <container type="volume">8</container>
+     <unittitle>Battle of Queenstown, 1812, <unitdate type="inclusive" normal="1822/1824">
+       1822-1824</unitdate>
+     </unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes six letters by Stephen Van Rensselaer, Solomon Van Rensselaer, H.B. Armstrong,
+      Nicholas Gray, and Thomas Cooper concerning the battle of Queenstown, 1812 and political
+      affairs, 1822-1824.</p>
+    </scopecontent>
+   </c01>
+   
+    <c01 level="file">
+    <did>
+     <container type="box">3</container>
+     <container type="volume">9</container>
+     <unittitle>Armstrong -Brown - Wilkinson - War of 1812, <unitdate type="inclusive"
+       normal="1813/1836"> 1813-1836</unitdate>
+     </unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes a letter signed by General Jacob Brown (1813), General James Wilkinson (1814),
+      General John Armstrong (1814,1836) and Thomas H. Blake (1814); also portraits of Brown,
+      Wilkinson, Izard and Armstrong.</p>
+    </scopecontent>
+   </c01>
+   
+    <c01 level="file">
+    <did>
+     <container type="box">3</container>
+     <container type="volume">10</container>
+     <unittitle>Battle of Lake Erie, 1813 Ms. Accounts, <unitdate type="inclusive"
+       normal="1812/1879"> undated</unitdate>
+     </unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes retrospective narratives of the Battle of Lake Erie by Usher Persons (1860),
+      Ezekiel Fowler (1852) arid John Chapman (1853); and three letters by Stephen Champlin (1862),
+      Jesse Elliot (undated.), and Isaac Chauncey (1826)</p>
+    </scopecontent>
+   </c01>
+    
+  
+   <c01 level="file">
+    <did>
+     <container type="box">3</container>
+     <container type="volume">11</container>
+     <unittitle>Usher Parsons: Diary, <unitdate type="inclusive" normal="1812-11/1814-12"> November
+       1812-December 1814</unitdate>
+     </unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes additional memoranda concerning the history of the Lake Erie squadron, etc, and 11
+      pages of clippings pasted in; a letter from Parsons to Lossing, 17 February 1860, is laid in.
+      Parsons, surgeon on Oliver Hazard Perry's flagship "Lawrence," copied these diary entries for
+      the historian Benson J. Lossing in 1860. </p>
+    </scopecontent>
+   </c01>
+  
+   <c01 level="file">
+    <did>
+     <container type="box">3</container>
+     <container type="volume">12</container>
+     <unittitle><emph>Veterans Correspondence regarding "War of 1812"</emph>, <unitdate
+       type="inclusive" normal="1779/1854">1779-1854</unitdate>
+     </unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes 63 manuscripts concerning the War of 1812, or written by veterans of the war. </p>
+     <list type="simple">
+      <item> Varum, Joseph B., Jr. <list type="simple">
+        <item> Sackets Harbor, April 26,1814 regarding War of 1812</item>
+        <item> Sackets Harbor, May 1,1814 regarding War of 1812</item>
+        <item> Utica, May 24,1814 regarding War of 1812</item>
+        <item> Utica, May 31, 1814 regarding War of 1812</item>
+        <item> Headquarters near Chipaway, July 7,1814 regarding War of 1812</item>
+        <item> Buffalo, July 24,1814 </item>
+        <item> (Marked: "Received August 10") regarding War of 1812</item>
+        <item> Buffalo, August.11,1814 </item>
+        <item> New York, October.9,1815 regarding business dealings</item>
+        <item> New York, November 8,1815 regarding money owed him</item>
+        <item> New York, December 12,1815 regarding Apothecary Dept. of Army</item>
+       </list>
+      </item>
+      <item> Unknown author, letter to Adjunct General (John) Brooke (Adjunct General of
+       Massachusetts 1812-15 and governor 1816-23), dated Boston Sept.16,1814, regarding using a
+       house for hospital, medicines, etc. for sick soldiers.</item>
+      <item> Appleton, (Honorable) William (Autograph only).</item>
+      <item> Barber, (Honorable) John S. A.L.S. Catalpa, June 10,1829 to Major W.B. Lewis stating
+       that he expects to hear from Mr.Madison. <list type="simple">
+        <item> Invoice of merchandise shipped at Marseilles on board the Brig. Nancy, Glover
+         Broughton, Master August 13,1823. </item>
+        <item> Invoice of sugar and hides shipped on Sloop Polly P. Trasher dated Marblehead Oct.
+         6,1826 for account and risk of N.&amp; G. Broughton &amp; Kennedy, consigned to N.
+         Broughton. </item>
+        <item> Invoice of merchandise shipped at Manilla by N. Broughton on board the ship Java
+         dated :Manilla July 4,1821 </item>
+        <item> Invoice of merchandise shipped on Schooner Speedwell, Glover Broughton, Master dated,
+         March 10,1822. </item>
+        <item> Invoice of corks shipped at Marseilles Brig Nancy G. Broughton, Master dated August
+         13,1823.</item>
+        <item> Invoice of Brazilian produce shipped on board Brig Nancy by Glover Broughton, Master
+         for account of Mr. Sam Fortune, July 24, 1825, Sale of Brazilian produce for account of Mr.
+         Sam Fortune. </item>
+        <item> Invoice of dry salted hides shipped on board Brig Nancy by G. Broughton the master
+         for Mr. Sam Fortune, M. Mead dated September 20, 1825. </item>
+        <item> Buffalo, August.11,1814 </item>
+        <item> Account of Mr. Sam Fortune with Glover Broughton dated September 20,1825.</item>
+        <item> Invoice of sugar shipped on board the Brig Nancy, Glover Broughton, Master, for
+         Nicholas Broughton. </item>
+       </list>
+      </item>
+      <item> Butler, John, (Captain)-Return of forage for 59 horses of Butler's troop of U.S. Lt.
+       Dragoons, June 7-30,1813 </item>
+      <item> Cooper, John T. (General War of 1812) autograph letter signed, Albany April 2, 1849 to
+       President &amp; Directors, Albany Gas Company </item>
+      <item> Gibson, John. (Quartermaster General, So.Div.) autograph letter signed New Orleans,
+       April 3,1817 to His Excellency David Holmes, Governor Mississippi Territory regarding payment
+       of old claims.</item>
+      <item> Glen, John V. to Honorable H. Bleecker, Representative in the Congress of the United
+       States, autograph letter signed July 15,1812 ; stating that if he fails to receive
+       appointment in Regular Service he desires appointment in Volunteers. <list type="simple">
+        <item> Autograph letter signed. August 7, 1812 mentions that nomination was withdrawn, asks
+         for explanation. </item>
+        <item> Autograph letter signed, January 20, 1813 requesting "something explanatory in the
+         defeats of my appointment..." </item>
+        <item> Autograph letter signed, October l, 1814, offering himself for service in Corps of
+         Regulars and Minute Men to be raised for protection of Frontiers. </item>
+       </list>
+      </item>
+      <item> Goldsborough, C.(harles) Autograph letter signed Washington August 1, 1813 to Harmanus
+       Bleecker, Esquire, Albany, New York, mentions devastations along Potomac river. <lb/>
+       Autograph letter signed, Cambridge December 9, 1813 mentions his late return to Washington
+       and states "You know that my disposition as a politician has not generally been that of
+       despondency; but I must confess so gloomy do our prospects appear &amp; so distressing have
+       been my anticipations for some time past, that I have endeavored to shut my mind as much as
+       possible against political contemplations." He mentions the failure of the Canada campaign
+       and possible court materials.</item>
+      <item> Granger, Amos P. Autograph letter signed. Syracuse, New York, October 18, 1852 to Simon
+       Draper regarding publicity in Irishman for election. (A notation on reverse, S. Draper to Mr.
+       Greeley) </item>
+      <item> Hayne, A. P. Autograph letter singed. New York October. 23, 1852 to Major Lloyd J.
+       Beale, Albany, New York re-shipment of horses by steamer.</item>
+      <item> Huntington, Gurdon, Autograph letter signed. January 4, 1814 to Messrs. Walter and Geo.
+       Weed, merchants, Albany regarding debt owed to them. <lb/> Autograph letter signed, May
+       26,1814, sending additional payment on account.</item>
+      <item> King, William- Autograph document signed. Fish Kill Landing April 1,1779 certificate
+       that Capt. Ten Eyck and four hands were victualed at post up to and including the 30th inst.
+       (Short typewritten biography of William King, Colonel of United States Army) </item>
+      <item> Knickerbacker, H. Autograph letter signed. Washington City December 25, 1809 to Messrs.
+       Bleecker and Sedgwyck, Albany regarding an impending war with G. Britain</item>
+      <item> Lamb, Anthony (aid de camp) Doc.S., General Orders, Headquarters Albany, June 10, 1811
+       regarding organization of 3rd brigade of Cavalry to be commanded by John I. Van
+       Rensselaer.</item>
+      <item> Lovett, John Autograph letter signed. December 16, 1810 to H. Bleecker, Esquire, Albany
+       regarding sending copies of Laws of last session. <list type="simple">
+        <item> Autograph letter signed. Washington, December 16, 1813 to H. Bleecker, Esquire,
+         stating his political view, etc.</item>
+        <item> Autograph letter signed. Washington Sunday evening 16th October ,1814 regarding
+         politics. </item>
+       </list>
+      </item>
+      <item> Laurence, John Autograph letter signed. Newark, New Jersey, August 26, 1806 to James
+       Greenleaf re papering 2 rooms, etc. </item>
+      <item> Leonard, N(athaniel) Captain. Comg. Fort Niagara April 1812 monthly return of the
+       Garrison. </item>
+      <item> Leonard N(athaniel) Captain Comg. Fort Niagara December 31, 1810- "Return of Ordinance
+       and Military Stores at Fort Niagara" </item>
+      <item> [Macomb, Alexander]- Formal invitation of General and Mrs. Macomb to Major (W.B) Lewis
+       Jan. 15 (no year) </item>
+      <item> Mason, J. (General) 2 letters to Joseph Wilson, C. of the port at Marblehead regarding
+       American prisoners of war, signed, Office of Commissary-General of Prisoners, Washington,
+       November 13, 1813 and February 11 ,1814 </item>
+      <item> McCulloch, Ben. Autograph letter to William B. Lewis re payment for service of horses
+       and wagon, signed, May 1, 1814 </item>
+      <item> Mooers, Benj. (Major General) Autograph letter to Governor Tompkins, reporting calling
+       of all militia for the defense of Plattsburgh. Accompanied by a short field report of
+       movements of the enemy, signed Plattsburgh, September 4, 1814</item>
+      <item> Nicholl, A.Y. (Adjutant General) Autograph endorsement listing promotions in the Army
+       by the President with the consent of the Senate, signed Washington, May 3, 1810 </item>
+      <item> Ogden, Francis B. Certification of affidavit of Edward Akroyd signed Liverpool,
+       February 13, 1840. <lb/> Certification of affidavit of Edward Akroyd signed by Pearce for
+       Ogden, Liverpool, June 7, 1839</item>
+      <item> P(omeroy) J. Autograph letter, regarding Clinton, Fremont, etc., initialed to Honorable
+       Harm Bleecker, Stockbridge November 26, 1812, </item>
+      <item> Reed, William 5 Autograph letters signed to Honorable Harmanus Bleecker, 1814-1829
+        <list type="simple">
+        <item> Washington, February 1, 1814, regarding War of 1812, politics, etc. Boston, November
+         22,1819 invitation to dinner. </item>
+        <item> Marblehead, July 23,1829 personal letter re religious sentiments. </item>
+        <item> Marblehead, August 10, 1824 introducing his nephew, Mr.B. J. Reed, Jr. </item>
+        <item> Marblehead, November 30, 1825 invitation to Bleecker and Mr. Kane to visit the
+         Reed's. </item>
+        <item> Autograph letter unsigned (Frank showing signature of W. Reed) to Honorable Harmanus
+         Bleecker regarding bank bill before Congress. </item>
+       </list>
+      </item>
+      <item> Robinson, J.E. Autograph letter to Elisha Tibbits regarding inability to collect debt
+       of I.&amp; S. Wright because of military service, etc., signed July 19, 1813 </item>
+      <item> Sutherland, Joel B. Autograph letter to Major William B. Lewis regarding Senate action
+       on Mr. Tyson, signed Philadelphia, March 13, 1842 <list type="simple">
+        <item> Autograph letter signed Philadelphia February 28,(no year) to Major Wm.B.Lewis re
+         passing of law relative to at large appointments. </item>
+        <item> Autograph letter unsigned dated October 10,1834 regarding transfer of Colonel Miller
+         of Marine Corps </item>
+       </list>
+      </item>
+      <item> Tallmadge, James Autograph letter to Thurlow Weed introducing Rufus Fancher, signed
+       Poughkeepsie, September 28,1825 </item>
+      <item> Whittlesey, Elisha Autograph letter to Phillip R. Fendall sending copy of a letter from
+       Honnorable James Guthrie, signed November 30,1854 </item>
+     </list>
+    </scopecontent>
+   </c01>
+   <c01 level="file">
+    <did>
+     <container type="box">3</container>
+     <container type="volume">13</container>
+     <unittitle>Battle of Chippewa, 1814 <unitdate type="inclusive" normal="1814/1840">
+       1814-1840</unitdate></unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes one manuscript narrative and two autograph letters signed by Peter B. Porter
+      concerning the Battle of Chippewa.</p>
+    </scopecontent>
+   </c01>
+  
+
+   <c01 level="file">
+    <did>
+     <container type="box">4</container>
+     <container type="volume">14</container>
+     <unittitle>Thomas S. Jesup: "Memoir of the Campaign on the Niagara," <unitdate type="inclusive"
+       normal="1814-07">July 1814</unitdate></unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes narrative of the events in the Niagara campaign, from the Battle of Chippewa (5
+      July 1814) to the Battle of Niagara (25 July 1814).</p>
+    </scopecontent>
+   </c01>
+   <c01 level="file">
+    <did>
+     <container type="box">4</container>
+     <container type="volume">15</container>
+     <unittitle>"Battle of hundy's Lane, 1814-Leavenworth" <unitdate type="inclusive" normal="1814"
+       >1814</unitdate>
+     </unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes miscellaneous maps, documents, and letters from 1808 to1860, a contemporary
+      manuscript account by Colonel Henry Leavenworth and autograph letter signed by Ben Winfield
+      Scott. </p>
+    </scopecontent>
+   </c01>
+   <c01 level="file">
+    <did>
+     <container type="box">4</container>
+     <container type="volume">16</container>
+     <unittitle>Battles of Fort Erie and Niagara, 1814, <unitdate type="inclusive"
+       normal="1812/1862"> undated</unitdate>
+     </unittitle>
+    </did>
+    <scopecontent>
+     <p>Includes two autograph letters signed by Brig. General James Miller and Adjutant General
+      Edward Baynes, 1814; ADS of Peter B. Porter, 1814; and map ("Siege and Defense of Fort Erie"
+      ).</p>
+    </scopecontent>
+   </c01>
+  </dsc>
+  <controlaccess>
+   <head>Search Terms</head>
+   <note>
+    <p>The following terms have been used to index the description of this collection in the
+     Library's online catalog.</p>
+   </note>
+   <controlaccess>
+    <head>Contributors</head>
+    <persname encodinganalog="700" source="lcnaf">Brown, Jacob, 1775-1828</persname>
+    <persname encodinganalog="700" source="lcnaf">Sheaffe, Roger Hale, b. 1763</persname>
+    <persname encodinganalog="700" source="lcnaf">Porter, Peter B. (Peter Buell),
+     1773-1844</persname>
+    <persname encodinganalog="700" source="lcnaf">Van Rensselaer, Stephen, 1764-1839</persname>
+    <persname encodinganalog="700" source="lcnaf">Smyth, Alexander, 1765-1830</persname>
+    <persname encodinganalog="700" source="lcnaf">Hall, Amos, fl. 1812</persname>
+    <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum</corpname>
+   </controlaccess>
+   <controlaccess>
+    <head>Subject Terms</head>
+    <subject encodinganalog="650" source="lcsh">United States--History--War of 1812</subject>
+   </controlaccess>
+   <controlaccess>
+    <head>Genre Terms</head>
+    <genreform source="aat" encodinganalog="655">Autographs (manuscripts)</genreform>
+    <genreform source="aat" encodinganalog="655">Correspondence</genreform>
+
+    <genreform source="aat" encodinganalog="655">Reminiscences</genreform>
+   </controlaccess>
+  </controlaccess>
+ </archdesc>
+</ead>

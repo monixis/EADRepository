@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+ <eadheader audience="external" countryencoding="iso3166-1"
+ dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"
+ relatedencoding="DC" scriptencoding="iso15924"> 
+ <eadid countrycode="us" encodinganalog="identifier"
+ publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::C00-3::Civil War Collection)//EN"
+ mainagencycode="NBuHi">bechs_c00_3</eadid> 
+ <filedesc> 
+ <titlestmt> 
+ <titleproper encodinganalog="title">Finding Aid for the Civil War
+ Collection, 
+ <date type="inclusive" normal="1840/1929" encodinganalog="date"
+ calendar="gregorian" era="ce">1840-1929</date> 
+ <date type="bulk" normal="1861/1865" encodinganalog="date"
+ calendar="gregorian" era="ce">(bulk 1861-1865)</date> </titleproper> 
+ <titleproper altrender="nodisplay" type="filing">Civil War
+ Collection</titleproper> 
+ <author encodinganalog="contributor">Finding aid prepared by Peter
+ Nelson.</author> 
+ <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor> 
+ </titlestmt> 
+ <publicationstmt> 
+ <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher> 
+ <address> 
+ <addressline>1 Museum Court</addressline> 
+ <addressline>Buffalo, NY 14216</addressline> 
+ <addressline>Phone: 716-873-9644 ext. 306</addressline> 
+ <addressline>Fax: 716-873-8754</addressline> 
+ <addressline>Email: <emph render="bold"> 
+ <extref actuate="onrequest" show="new"
+ href="mail-to:library@buffalohistory.org">library@buffalohistory.org</extref></emph></addressline>
+ 
+ <addressline>URI: <emph render="bold"> 
+ <extref actuate="onrequest" show="new"
+ href="http://www.buffalohistory.org">http://www.buffalohistory.org</extref></emph></addressline>
+ 
+ </address> 
+ <p>© 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p> 
+ </publicationstmt> 
+ </filedesc> 
+ <profiledesc> 
+ <creation>Finding aid encoded in EAD by Kuniko Simon, April
+ 2008.</creation> 
+ <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English</language>.
+ </langusage> 
+ <descrules>Finding aid prepared using local best practices. </descrules> 
+ </profiledesc> 
+ </eadheader> 
+ <archdesc level="collection" type="inventory" relatedencoding="MARC21"> 
+ <did> 
+ <head>Collection Overview</head> 
+ <unittitle encodinganalog="245$a" label="Title">Civil War Collection, 
+ <unitdate type="inclusive" encodinganalog="245$f"
+ normal="1840/1929">1840-1929</unitdate> 
+ <unitdate encodinganalog="245$g" type="bulk" normal="1861/1865">(bulk
+ 1861-1865)</unitdate> </unittitle> 
+ <unitid encodinganalog="099" label="Collection Number"
+ repositorycode="NBuHi" countrycode="US">Mss. C00-3</unitid> 
+ <origination label="Creator"> 
+ <corpname encodinganalog="110" role="creator" rules="aacr2"> Buffalo History Museum. <subarea> Research Library
+ </subarea></corpname> </origination> 
+ <physdesc label="Extent"><extent unit="box" encodinganalog="300">5
+ boxes</extent> <extent unit="linear foot" encodinganalog="300">(2.5 linear
+ feet)</extent></physdesc> 
+ <langmaterial label="Language of Material"
+ encodinganalog="546">Collection material in
+ <language encodinganalog="041"
+ langcode="eng">English</language>.</langmaterial> 
+ <repository label="Repository" encodinganalog="852"> 
+ <corpname>Buffalo History Museum<subarea>Research
+ Library</subarea></corpname> </repository> 
+ <abstract encodinganalog="520" label="Abstract">Contains civil war period
+ documents and materials reflective of the Western New York area.</abstract> 
+ </did> 
+ <descgrp type="admininfo"> 
+ <head>Administrative Information</head>  
+ <prefercite encodinganalog="524"> 
+ <head>Preferred Citation</head> 
+ <p>[Description and dates], Box/folder number, Mss. C00-3, Civil War
+ Collection, 1840-1929 (bulk 1861-1865), Research Library, Buffalo History Museum.</p> 
+ </prefercite> 
+ <accessrestrict encodinganalog="506"> 
+ <head>Terms of Access</head> 
+ <p>The Civil War Collection, 1840-1929, is open for research.</p> 
+ </accessrestrict> 
+ <userestrict encodinganalog="540"> 
+ <head>Copyright</head> 
+ <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p> 
+ </userestrict> 
+ </descgrp> 
+ <descgrp type="admininfo"> 
+ <head>Administrative Information</head> 
+ <acqinfo encodinganalog="541"> 
+ <head>Acquisition Information</head> 
+ <p>Specimens of Civil War envelopes; Thrasher, Thomas (The Hawks Book
+ Store); gift; 1886/07/22; unknown</p> 
+ <p> Confederate order book and memoranda of discharged soldiers Howe,
+ Sallie Barry; gift; 1889/07/22; unknown</p> 
+ <p>W.W. Potter reminiscences Bowden, Margaret; gift; 1912/03/00;
+ unknown</p> 
+ <p>Madison Buell scrapbook of recollections re: Civil War telegraphy;
+ Buell, Lesley D.; unknown; 1932/09/29; unknown</p> 
+ <p>John Ketchum collection of Civil War emblems Plimpton, Mrs.;
+ unknown; 0000/00/00; unknown</p> 
+ <p>L.L. Barney, pocket remembrances for 1863 Goering, G.E.; unknown;
+ 0000/00/00; unknown</p> 
+ </acqinfo> 
+ <accruals encodinganalog="584"> 
+ <head>Accruals and Additions</head> 
+ <p>No further accruals are expected to this collection.</p> 
+ </accruals> 
+ <altformavail encodinganalog="530"> 
+ <head>Alternate Forms</head> 
+ <p>W.W. Potter, "Three Years with the Army of the Potomac" (box 5,
+ folder 9) available on microfilm (M88-1).</p> 
+ </altformavail> 
+ <processinfo encodinganalog="583"> 
+ <head>Processing Information</head> 
+ <p>Collection reprocessed and retroconverted by Peter Nelson, 26 July
+ 1993.</p> 
+ </processinfo> 
+ </descgrp> 
+ <bioghist encodinganalog="545"> 
+ <head>Historical Note</head> 
+ <p>"Experts agree that it took a plentiful supply of the Four M's: Men,
+ Money, Material, and Morale. Erie County, New York played a part if the victory
+ by contributing its share of the 4 M's to the Union Cause."</p> 
+ <p>-- Brown, R. C. (1973). 
+ <title type="book">Erie County and the Civil War</title>. 
+ <title type="book">Adventures in Western New York History</title>, v. 18.
+ [Buffalo, N.Y.]: Buffalo History Museum. 
+ <extref actuate="onrequest" role="text/html" show="new"
+ href="http://bechsed.nylearns.org/pdf/Erie_County_and_The_Civil_War.pdf">Available
+ online</extref>.</p> 
+ </bioghist> 
+ <scopecontent encodinganalog="520"> 
+ <head>Scope and Content Note</head> 
+ <p>Muster rolls, histories, diaries and other official and personal
+ papers concerning various New York regiments and naval operations, including
+ the 3rd, 20th, 21st, 49th, 94th, 100th, ll6th and 179th Infantry; 11th and 12th
+ Cavalry; 1st Light Artillery (Wiedrich's Battery), 12th Light Artillery, 27th
+ Light Artillery (Eaton's Battery), and 16th Heavy Artillery, as well as some
+ non-New York military units. Also included are passes used by Samuel Wilkeson
+ for reporting for the New York Tribune, 1861; personal letters, 1840-1882;
+ Confederate muster rolls and other records; documentation of war dead,
+ particularly from Orleans County, New York.; muster and descriptive rolls of
+ Erie County: W.T. Anderson collection of Civil War autographs, communications
+ and maps; reminiscences by Madison Buell and W.W. Potter, M.D.; and other
+ materials, including autographs, emblems, soldiers' ballots and excerpts from
+ diaries and letters of Elizabeth Knowles.</p> 
+ </scopecontent> 
+ <arrangement encodinganalog="351"> 
+ <head>Arrangement</head> 
+ <p>This collection is arranged in fourteen series: 
+ <list> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series1">I. New York Infantry Regiments</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series2">II. New York Cavalry Regiments</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series3">III. New York Artillery Regiments</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series4">IV. Sharpshooters and Mounted Rifles Units</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series5">V. Naval Activities</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series6">VI. Non-New York Military Regiments</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series7">VII. Samuel Wilkeson Papers</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series8">VIII. Personal Letters</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series9">IX. Confederate Manuscripts</ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series10">X. Records of War Dead</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series11">XI. Muster and Descriptive Rolls for Erie County</ref></item>
+ 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series12">XII. Reminiscences</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series13">XIII. W.A. Anderson Collection</ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series14">XIV. Diary Excerpts, Autographs, Emblems, and Papers
+ Concerning Unidentified Regiments</ref>.</item> 
+ </list></p> 
+ <p>I-IV arranged consecutively by regiment number.</p> 
+ </arrangement> 
+ <dsc type="combined"> 
+ <head>Container List </head> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series1">I.</unitid> 
+ <unittitle>New York Infantry Regiments, 
+ <unitdate normal="1861/1929"
+ type="inclusive">1861-1929</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.1</container> 
+ <unittitle>3rd Regiment - Company B (Excelsior or Sickles Brigade),
+ 
+ <unitdate>circa 1860- 1861 </unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Muster - In Rolls: Company A (Captain Robert Gardner);
+ Company C (Captain Jeremiah Washburn); Company D (Captain Win. Alberger);
+ Company E (Captain James Strong); Company G (Captain Edward Lee); Company H
+ (Captain Elisha Hayward); Company I (Captain Horace Thomas) Company K (Captain
+ John Layton) add Field and Staff, May, 1861 </item> 
+ <item>Muster - In Roll of Major Chester Sternberg, September,
+ 1862; Provision Returns (Hospital): 21stRegiment from February 16-20; February
+ 21-28; March 1-5; March 6-10; March 11-15; March 16-20; and March 21-25, 1863;
+ Mustering - Out of Service of Lt. Colonel Chester Sternberg, May, 1863 </item> 
+ <item>Muster - Out Rolls: Company A, Captain Levi Vallier (Late
+ Captain Gardner's Company), Company C, Captain George Remington" (Late Captain
+ Washburn's Company); Company D, Captain Byron Schermerhorn (Late Captain
+ Alberger's Company); Company E, Captain Allen Adams (Late Captain Strong's
+ Company); Company G, Captain Daniel Myers; Company H. Captain Peter Doyle (Late
+ Captain Hayward's Company); Company I, Captain Robert Gardner; Company K,
+ Captain John Layton and Field aud Staff, May, 1863</item> 
+ <item>Constitution of Veterans Club of 21st Regiment, N.Y.S.
+ Volunteers [18__or early 1900's?]</item> 
+ <item>Plan for Re-organization Of Veterans Club of 21st Regiment,
+ N.Y.S. Volunteers [18__ or early 1900's]?</item> 
+ <item>Civil War Pensioners: 21st Regiment, New York Infantry;
+ also 33rd Infantry. Battery, New York Light Artillery, June, 1929 Records
+ [Manuscript enclosed as miscellaneous material] Miscellaneous Folder </item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.2</container> 
+ <unittitle>20th Regiment, N.Y.S.M., 
+ <unitdate>1863</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Muster - In Rolls [2years: Company F - 21st Regiment,
+ Folder #2 Captain George Dewitt Clinton, April, May, 1861 [Manuscripts enclosed
+ as miscellaneous material-some duplication] </item> 
+ <item>Various Returns or Reports of Captain George Clinton; May,
+ June, July, October, December, 1861 and February and 1862 [Manuscript enclosed
+ as miscellaneous material-some duplication] </item> 
+ <item>Invoices of Commissary Property turned George Clinton by
+ Lt. Colonel Porter; February 15; March 29, 1863 </item> 
+ <item>Invoices of Subsistence Stores turned over to, Clinton by
+ Captain Doyle, February 15, 1863; by Captain February 16 and March 31, 1863; by
+ Captain Doyle, February 23, March l, 3, 7, 14, 20, 28, 1863</item> 
+ <item>Acknowledgment of payment rec'd from Captain George Clinton
+ by Non-Commissioned officers, musicians and privates from extra duty in
+ Subsistence Department, November and December 1862, January, 1863 and February,
+ 1863</item> 
+ <item>Acknowledgment of payment record from Captain George
+ Clinton by privates for extra duty in Subsistence Department December, 1862 and
+ January and February, 1863 and February, 1863</item> 
+ <item>Provisions Issued to Hospital (Dr. Fry, Surgeon), by
+ Captain George Clinton, February 7 to February 28, 1863, March 1 to March 31,
+ 1863</item> 
+ <item>Provisions issued to Volunteers by Captain Clinton, Folder
+ #2 February 7 to February 28, 1863; March 1 to March 31, 1863 [copy]
+ [Manuscripts enclosed as miscellaneous material] Disbursements by Captain
+ Clinton to Nicholas Morris, et February and March, 1863, [Manuscripts enclosed
+ as miscellaneous materiel] Summary Statement of Funds record, disbursed, and
+ transferred by Captain George Clinton, February and March, 1863, [Manuscripts
+ enclosed as miscellaneous material] </item> 
+ <item>Return of Provisions to Captain Doyle and Captain Benedict
+ by Captain George Clinton, February and March, 1863 [copy] [Manuscripts
+ enclosed as miscellaneous material] </item> 
+ <item>Provisions Issued to Hospital (Dr. Loughran, Surgeon) by
+ Captain Clinton, March 1 to March 31, 1863 [Manuscript enclosed as
+ miscellaneous material]</item> 
+ <item>Abstract Special Requisition by Captain Clinton (not
+ approved), March 17, 1863 [Enclosure]</item> 
+ <item>Return of Subsistence Property by Captain Clinton
+ Lieutenant Colonel A. P. Porter (Issued by Lieutenant Treligh and Bingham),
+ March 31, 1863 [Manuscripts enclosed as miscellaneous material] </item> 
+ <item>Consolidated Abstract of Provisions Sold to Officers by
+ Captain Clinton, March, 1863 [Manuscripts enclosed as miscellaneous material]
+ </item> 
+ <item>Letter to Colonel Rogers from Captain Clinton, stating need
+ for appointment of officer to Quarter Master Department, May, 1863 [Manuscripts
+ enclosed as miscellaneous material]</item> 
+ <item>History of Company F: Its Organization and Changes since
+ May, 1861; [1862] [Manuscripts enclosed as miscellaneous material]</item> 
+ <item>Allotment Roll. [186 ?]</item> 
+ <item>Muster - Out Roll - Captain Clinton, May, 1863 [Manuscripts
+ enclosed as miscellaneous material]</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.3</container> 
+ <unittitle>21st Regiment, N.Y.C., 
+ <unitdate>1861-1929</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Muster - In Roll - Company B; Captain Henry Gaylord,
+ May,1861</item> 
+ <item>Muster - Out Roll, Company. B; Captain Algar Wheeler [Late
+ Captain Gaylord's Company]; May, 1863 </item> 
+ <item>John Hayward Papers - Company B.; Donated, October, 1886
+ [Includes Chronicles of 21st Regiment.]</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.4</container> 
+ <unittitle>21st Regiment- Company F, 
+ <unitdate>1861-1929</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Soldier's Power of Attorney (October 12, 1864) and
+ affidavit of absent voter, Brig. General Daniel D. Bidwell &amp; 9 th Regiment,
+ October 2, 1864 </item> 
+ <item>Muster - Out Roll of Company D (Captain William Wheeler) of
+ &amp; 49th Regiment, October 31, [1864]?</item> 
+ <item>Proof of Death of Frank Motch of Company F, 49 th Regiment;
+ also disregarding claim of Abigail Motch regarding pension, July 26,
+ 1866</item> 
+ <item>Newspaper clippings regarding Services of 49th Regiment [no
+ date] [Manuscript on reverse side] . </item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.5</container> 
+ <unittitle>21st Regiment- Company F, 
+ <unitdate>1861-1929</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Affidavits of absent voters (Soldiers) 116th William Husted
+ (October 20, 1864 in duplicate); Orton Clark, October 21,1864</item> 
+ <item>Special Order #95: Private H. G. Emerson (116th Regiment)
+ detached from Regiment to join Captain J. F. Ernst, Quarter Master Corps,
+ November 24, 186h</item> 
+ <item>Request to Assistant. Adjutant General by Captain Ernst
+ that Private H. G. Emerson, 116th Regiment., be retained in Quarter Master's
+ Department as clerk, June 1, 1865</item> 
+ <item>Letter to Honorable Millard Fillmore of B.H.S. from
+ Regiment. Members regarding disposition of 2nd Battle Flag (116th Regiment.) to
+ B.H.S.; also History of Regiment. Flag, August 9, 1867</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.6-1.7</container> 
+ <unittitle>21st Regiment- Company F, 
+ <unitdate>1861-1929</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.8</container> 
+ <unittitle>21st Regiment-Company B </unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.9</container> 
+ <unittitle>21st Regiment-muster rolls, </unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.10</container> 
+ <unittitle>21st Regiment, John Hayward papers, 
+ <unitdate>1863</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.1</container> 
+ <unittitle>21st Regiment, N.Y. - miscellaneous</unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Application for Company Organization; Company H, 100th
+ Folder #1 Regiment with list of names, July 25, 1861; Also Muster Roll from
+ April 30, 1862 to June 30, 1862 </item> 
+ <item>C. E. Walbridge to Colonel W. W, H. Davis accepting
+ appointment as acting Brigade Quarter Master, January 7, 1862</item> 
+ <item>Morning Reports - April 12 and 19, 1862; August l, 12 and
+ 30, 1862; December 10, 11, 24 and 29, 1863; January l, 1864, February 18, 1864;
+ March 21, 186h and April l, 1864 </item> 
+ <item>Reports of Field Officer of Day; Camp Scott May l, 1862;
+ Gloucester Point, September 26 and October 26, and November 17, 1862 </item> 
+ <item>Letter: Sergeant Leopold Evert to Brig. General H, M.
+ Naglee regarding Court Martial trial, June 19, 1862</item> 
+ <item>List of Commissioned Officers, July 17, 1862 [Manuscript
+ enclosed as miscellaneous material - duplication]</item> 
+ <item> Extract from Special Orders 247 - George B. Dandy,
+ appointed Colonel of 100th New York Volunteers, ordered to join Regiment,
+ August 29, 1862 </item> 
+ <item>Provision Returns: October 7-10, 1862; March 1-10, March
+ 1-31; March 21-31, 1863 </item> 
+ <item>Communication to Capt. Johnston from Colonel G. B. Dandy,
+ regarding prisoner, George Parks, October 27, 1862 </item> 
+ <item>Request for Commissary Stores; November l, 4,?, 1862 and
+ March,1863</item> 
+ <item>Letter to adjutant 104thRegiment. from Colonel Dandy,
+ regarding volley of musketry November 6, 1862 </item> 
+ <item>Charges of Leopold Evert against Private Robert Wiggins,
+ November 17, 1862</item> 
+ <item>Reports: Best Shots by Guard 100 the Regiment. for week
+ ending November 29, 1862 and December13, 1862</item> 
+ <item>Charges Preferred Against Lieutenant Newall, December 16
+ Folder#l or 17(?), 1862 </item> 
+ <item>Report of Men on Extra Duty, December 26, 1862</item> 
+ <item>Report of Officers and Men Ready to march by Lieut, Colonel
+ C. N. Otis, December, 1862</item> 
+ <item>General Order #24 - Trials and Sentences of Three Soldiers,
+ January17, 1863 </item> 
+ <item>General Order#6 - Appointment of Captain M. H. Tapping as
+ Provost Marshall, January 24, 1863 </item> 
+ <item>Returns of the l00thRegiment of Infantry, New York
+ Volunteers; February, 1863; November, 1863; December, 1863 and February,
+ l864</item> 
+ <item>Special Order #14; Lt. I. H. Dandy relieved from Court
+ Martial Duty, March 13, 1863</item> 
+ <item>Appointment of General Court Martial for trial of Colonel.
+ B. Dandy, September 14, 1863 </item> 
+ <item>Roster of Commissioned Officers, November 24, 1863; January
+ 1864 and February 1864</item> 
+ <item>Reports of Brigade Officer of Day (Headquarters, 2nd
+ Brigade): November 28, 1863 Morris Island, January 4, 31; February. 9, March
+ 20, 25, and 28, 1864</item> 
+ <item>100th Regiment on Folly Island - from Diaries of Private
+ George N. Stoddard, 1863; [Extract from Special Order 13: Notice of Dismissal
+ of E, L. Bishop for Absence without authority, January 9, 1864</item> 
+ <item>Inspection Report of Food For Soldiers, March 7, 18, 24,
+ and 25, 1864; Soldiers Power of Attorney, October, 1864; and Affidavits absent
+ voters (Soldiers), November, 1864 </item> 
+ <item>Reunion and Dedication of Memorial to 100th New York Folder
+ #1 Volunteer Infantry (Duplicate Copies), September 25, 1916</item> 
+ <item>Proceedings of 31st and 32nd Annual Reunions of 100th New
+ York Veteran Association at Buffalo, August 16, 1917 and July 18, 1818
+ [Manuscripts enclosed as miscellaneous material]</item> 
+ <item>Letter from War Dept. Stating Military Records of Soldiers
+ of 100th New York Veterans Association of Buffalo, September. 10, 1918
+ Enclosure]</item> 
+ <item>Colonel James Malcolm Brown Papers (100th Regiment
+ commander)</item> 
+ <item>Papers of Captain C. Henshaw's Company K, 100th
+ Regiment.</item> 
+ <item>Warren Granger Letterbook (Special Interest in 100th
+ Regiment)</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.2</container> 
+ <unittitle>21st Regiment, N.Y.V.-Diary of Charles E.
+ Johnson</unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Substitutes Credited to Erie Company; also names of
+ principles, November 1864</item> 
+ <item>Roll of Recruits and Substitutes of Erie Company,
+ 1864</item> 
+ <item>Muster and Descriptive Roll of Substitutes Mustered into
+ Service from November, 1864 to April, 1865</item> 
+ <item>Muster and Descriptive Roll of Substitutes, June 7, 1865
+ </item> 
+ <item>Muster and Descriptive Roll of Enlistments for September
+ and October, June 7, 1865 </item> 
+ <item>Muster mud Descriptive Rolls of Volunteers - no date
+ [Manuscript enclosed as miscellaneous material] </item> 
+ <item>Muster and Descriptive Rolls of Draftees, June 1865 </item>
+ 
+ <item>List of Persons Liable to Do Military Duty (Town of Brant),
+ 1866</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.3</container> 
+ <unittitle>49th Regiment, N.Y.V., 
+ <unitdate>1864-1866</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.4-2.6</container> 
+ <unittitle>94th Regiment, N.Y.V., 
+ <unitdate>1864-1865</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.1</container> 
+ <unittitle>100th Regiment, N.Y.V., 
+ <unitdate>1861-1865</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <p>Includes papers of Captain James Brown (General): Commander of
+ Third Regiment, Company B (Excelsior or Sickles Brigade)</p> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.2</container> 
+ <unittitle>100th Regiment, N.Y.V., 
+ <unitdate>1861-1865</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Consolidated Provision Return for 20th Regiment, N.Y.S.M.;
+ February 16-28; March 1-10; March 11-20; March 21, 31, 1863</item> 
+ <item>Special Requisition for 20th Regiment: (Lieutenant Freligh)
+ February 17, 27 (2 copies), 1863; Also March 17, 1863 (not approved - in
+ triplicate)</item> 
+ <item>Note regarding Hospital Fund (Captain Benedict) February
+ 28, 1863 </item> 
+ <item>Provision Return (Hospital): 20th Regiment; March 1-5,
+ March 6-10, March 11-15, March 16-20, March 21-25, and March 26-31, 1863</item>
+ 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.3</container> 
+ <unittitle>100th Regiment, N.Y.V., Veterans' reunions and
+ memorials, 
+ <unitdate>1915-1918</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item> Muster - In Roll of Captain Daniel Blackford, (179th
+ Folder #3 Regiment.), May 16, 1864</item> 
+ <item>Muster Roll of Captain Daniel Blackford, (179 Regiment)
+ June 30, 1864</item> 
+ <item>Muster Roll of Captain Louis Ottenst (179Regiment) August
+ 31, 1864</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.4</container> 
+ <unittitle>100th Regiment, N.Y.V., Colonel James Malcolm Brown
+ papers, 
+ <unitdate>1861-1862</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item> General Order #36: Farewell Address Of Colonel Adrian Root
+ (94th Regiment) to 3rd Brigade of 2nd Division, 1st Army Corps, May 21,
+ 1863</item> 
+ <item>Soldier's Power Of Attorney; affidavit of absent Soldier
+ voters: Colonel Adrian Root, of 94th Regiment, Nov. l, 1864</item> 
+ <item>Muster -Out Rolls of Captain Orlo Mason (Company A);Captain
+ Dexter Sears (Company B); Captain Chauncey Kilbarn (Company C); Captain Jos.
+ Mollison (Company D); Captain Charles Parker (Company E); Captain Augustus
+ Fields (Company F); Captain Walter Chester (Company G); Lieut, James Thomas
+ (Company H); Captain C. V. Mesler (Company I); Captain Michael Leonard (Company
+ K); Field and Staff, Colonel Adrian Root, , July, 1865 </item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.5</container> 
+ <unittitle>100th Regiment, N.Y.V., Company K (Eagle
+ Brigade)</unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Letter from Major E. Po Chapin of 44th Regiment, May, 1862
+ [Manuscript enclosed as miscellaneous materials</item> 
+ <item>Contribution to Ellsworth's Assn. of N.Y.S. to organize
+ People's Regiment (44th) in honor of late Colonel Ellsworth, no date</item> 
+ <item>Provision Return (35th Regiment):February 7-28, 1863</item>
+ 
+ <item>Signatures of Corporal Commanders, February 12, 1863
+ [Presented to B.H.S. by George Wright, Lt. 35th Regiment] </item> 
+ <item>Special Requisition for 35th Regiment - no date [duplicate
+ Copy]</item> 
+ <item>Special Requisition for Lieutenant Bingham, 23rd Regiment,
+ March 27, 1863</item> 
+ <item>Muster - Out Roll of Captain George Baker's Company D, 74th
+ Regiment, August 3, 1863</item> 
+ <item>Payment claims due Mrs. John Dennison (husband war prisoner
+ - 155th Regiment), October 11, 1864 [Manuscript enclosed as miscellaneous
+ material]</item> 
+ <item>Proof of death of pensioner, Sarah Krein (husband in 33rd
+ Regiment); no further interest in pension claim of guardian: County Clerks
+ Office, May 21, 1866</item> 
+ <item>Letter to C. L. Dayton [from Enrolling Officer, Captain E.
+ B. Miller, regarding delinquents in 98th Regiment, October 1866</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.6</container> 
+ <unittitle>100th Regiment, N.Y.V., Diary of George N.
+ Stoddard</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.7</container> 
+ <unittitle>100th Regiment, N.Y.V., Warren Granger letterbook
+ (mainly concerning 100th Regiment) </unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.8</container> 
+ <unittitle>116th Regiment, N.Y.V., 
+ <unitdate>1864-1867</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.9</container> 
+ <unittitle>179th Regiment, N.Y.,V., 
+ <unitdate>circa 1864</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.10</container> 
+ <unittitle>Other New York infantry regiments (11th, 23rd, 33rd,
+ 35th, 44th, 74th, 98th, 155th) </unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series2">II.</unitid> 
+ <unittitle>New York Cavalry Regiments, 
+ <unitdate normal="1864/1865"
+ type="inclusive">1864-1865</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.10A</container> 
+ <unittitle>10th Regiment, Company C L.L. Barney, Daily Remembrance
+ for 
+ <unitdate>1863</unitdate></unittitle> 
+ <physdesc>(diary)</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.11</container> 
+ <unittitle>11th Regiment (Samuel H. Wilkeson papers), 
+ <unitdate>1864</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.12</container> 
+ <unittitle>12th Regiment, 
+ <unitdate>1865</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.13</container> 
+ <unittitle>Other New York Cavalry regiments (2nd, 5th,
+ 16th)</unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series3">III.</unitid> 
+ <unittitle>Artillery Regiments, 
+ <unitdate normal="1861/1889"
+ type="inclusive">1861-1908</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.14</container> 
+ <unittitle>1st Regiment Light Artillery - Battery I (Wiedrich's
+ Battery), 
+ <unitdate>1861-1889 </unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.15</container> 
+ <unittitle>12th New York Independent Battery Light Artillery
+ history, 
+ <unitdate>circa 1862-1908</unitdate> </unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.0</container> 
+ <unittitle>12th New York. Independent Battery Light Artillery -
+ muster-out roll, 
+ <unitdate>1865 </unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.1</container> 
+ <unittitle>127th New York Independent Battery Light Artillery
+ (Eaton's Battery) regimental histories, 
+ <unitdate>circa 1861-1908 </unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Supplies In Possession of Captain H. Hascall, Company I,
+ 1st Regiment Artillery, August, 1861 </item> 
+ <item>First Regiment Artillery (Light; Veteran) Muster - Roll' of
+ Battery I (Captain Michael Wiedrick), October 16, 1861 [Manuscripts enclosed as
+ miscellaneous material</item> 
+ <item>Letters to Brig. General A. V. Steinwehr from Captain
+ Michael Wiedrick, regarding report of Battery's action: May 10 and July 1, 2,
+ and 3 at Gettysburg, 1863 [Manuscripts en- " closed as miscellaneous material]
+ </item> 
+ <item>Civil War Record of 2nd Lieutenant Jacob Schenkelberger,
+ 1st Regiment, Battery I, Light Artillery (186_?)</item> 
+ <item>Subscription Lists of Contributors to Wiedrick's Battery
+ Fund to enable veterans to attend dedication of monument at Gettysburg, April,
+ 1889 [Manuscripts enclosed as miscellaneous material] </item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.2</container> 
+ <unittitle>127th New York Independent Battery Light Artillery,
+ Journal of [John B. Eaton ?], 
+ <unitdate>January 1861-April 1865</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item> Morning Report Book of 27th New York Light Battery,
+ 1862-1865</item> 
+ <item>John B. Eaton's History of 27th Battery (Captain Eaton in
+ command) New York Light Artillery, April, 1888 [Manuscripts enclosed as
+ miscellaneous material]</item> 
+ <item>Roster of Commissioned Officers of 27th Independent Battery
+ of New York light Artillery prepared by Captain John B. Eaton, March, 1889;
+ Muster - Out Roll of 12th Independent Battery Light Artillery - Captain Charles
+ A. Clark, June, 1865; History of 12th New York Battery by Charles A. Clark - no
+ date [All above material gift of Charles A. Clark, March, 1908]</item> 
+ <item>Letter to Mr. F. H. Severance of B.H.S. from Charles A.
+ Clark (Lt. 27th Battery; Later Captain 12th Battery) regarding donation of
+ material. March 18, 1908 [Enclosure]</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.3</container> 
+ <unittitle>127th New York Independent Battery Light Artillery,
+ Journal of [John B. Eaton ?], 
+ <unitdate>April 1865-May 1867</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Pass to Samuel Wilkeson from Secretary of War Cameron
+ (August 1861) and General Winfield Scott (September 1861) [Manuscripts enclosed
+ as miscellaneous material - duplication] </item> 
+ <item>Soldier's Power of Attorney and affidavit envelope for
+ absent voters (Soldiers): Samuel H. Wilkeson, 11th Cavalry Regiment, October
+ 1862 [Duplication of Manuscript] </item> 
+ <item>Members of New York Delegation in Congress request 10th New
+ York Cavalry be mounted, April 24, 1862 </item> 
+ <item>Special Order #25 to Colonel James Savage (12th New York
+ Cavalry)defining duties of his troops Folder #3 in North Carolina, May 7, 1865
+ [Manuscript enclosed] </item> 
+ <item>Special Order #32 to Major R. Taylor (12th New York
+ Cavalry) regarding information of Home Guard Organizations in Halifax and
+ Northampton Counties (North Carolina) by order of Colonel James Savage, May 23,
+ 1865 </item> 
+ <item>Orders to Major R. M. Taylor (12th New York Cavalry) from
+ Colonel James regarding duties in area under his command June 9, 1865 </item> 
+ <item>Request from W. Holden to Major General Cox for ammunition
+ for county police in Halifax and Northampton Counties, June 26, 1865</item> 
+ <item>Order to Muster out of service Major R. M. Taylor's command
+ (12th New York Cavalry) also commendation for his services from Brig. General
+ Thomas Heath, July 26, 1865 </item> 
+ <item>Letter to President Andrew Johnson from Mayor William Fargo
+ (Buffalo) regarding Major R. M. Taylor's request for clemency for soldiers,
+ October 26, 1865</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.4</container> 
+ <unittitle>16th New York Heavy Artillery regiment, 
+ <unitdate>1865-1866</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <p> First Regiment United States Sharpshooters: Special Order
+ Folder #4 his command by Colonel Hiram Berdan 1861</p> 
+ </scopecontent> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series4">IV.</unitid> 
+ <unittitle>Sharpshooters and Mounted Rifle Units, 
+ <unitdate normal="1861/1864"
+ type="inclusive">1861-1864</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.5</container> 
+ <unittitle>2nd Regiment, New York Mounted Rifles, 
+ <unitdate>1864</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <p>Soldier's Power of Attorney: Absent voters (Sol-Folder #5 diets)
+ - Jerry P. Fairman of 2nd Regiment of New York Mounted Rifles, October 15, 1864
+ [Manuscript enclosed as miscellaneous material - duplication] </p> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.6</container> 
+ <unittitle>1st Regiment, United States Sharpshooters, 
+ <unitdate>1861</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Letter written by Lt. Com. Budd, U.S.N., February 25,
+ Folder #6 1862 [Enclosure]</item> 
+ <item>A. C. Stimer's Description of fight between Merrimac and
+ Monitor; May 5, 1862 [Duplicate Manuscript and enclosures] Donated by Mr. Frank
+ Blakeslee, June 27, 1877</item> 
+ <item>Copy of Lieutenant Commanders Perkin's Report regarding
+ Action of Chickasaw, United States Ship at Battle of Mobile Bay, to Admiral
+ Farragut, August 7, 1864</item> 
+ <item>Sailor's Absentee vote (Power of Attorney): Charles
+ Fosdick, United States Ship. Samson, October 22, 1864</item> 
+ <item>Telegram from Major General Herron to Colonel W. H. Dickey,
+ May 20, 1865</item> 
+ <item>Comments on Battle of Mobile Bay (Chickasaw, United States
+ Ship) by Edmund S. Wheeler, U.S.N. co F. H. Gibbens, August 11, 1911
+ [Enclosures] Gift of Nelson S. Taylor, December 1941</item> 
+ <item>Description of United States Ship Chickasaw -
+ undated</item> 
+ <item>Agreement between Continental Iron Works and Captain
+ Erickson, et all, regarding Iron Battery Hall, undated</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series5">V.</unitid> 
+ <unittitle>Naval Activities, 
+ <unitdate normal="1861/1911"
+ type="inclusive">1861-1911</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.7</container> 
+ <unittitle>1861-1911</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.8</container> 
+ <unittitle>Naval recruiting rosters (C.E. Young papers), 
+ <unitdate>1864-1865</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series6">VI.</unitid> 
+ <unittitle>Non-New York Military Regiments, 
+ <unitdate normal="1861/1863"
+ type="inclusive">1861-1863</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.9</container> 
+ <unittitle>1861-1863</unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series7">VII.</unitid> 
+ <unittitle>Samuel Wilkeson Papers 
+ <unitdate normal="1861"
+ type="inclusive">1861</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.10</container> 
+ <unittitle>Passes issued from War Department and Army for newspaper
+ reporting, 
+ <unitdate>1861</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series8">VIII.</unitid> 
+ <unittitle>Personal Letters 
+ <unitdate normal="1840/1882"
+ type="inclusive">1840-1882</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.11</container> 
+ <unittitle>circa 1840-1865 (includes letters of Carl
+ Matteson)</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.12</container> 
+ <unittitle>1861-1865, 1882 and undated</unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series9">IX.</unitid> 
+ <unittitle>Confederate Manuscripts, 
+ <unitdate normal="1861/1865"
+ type="inclusive">1861-1865</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.1</container> 
+ <unittitle>Muster rolls, list of officers and Mississippi secession
+ ordinance, 
+ <unitdate>1861-1865</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Personal Letters (miscellaneous) 1840-1865</item> 
+ <item>Personal Letters, 1861-1864 [Gift of Mrs. L.
+ Marvin,-Buffalo B.H.S.]</item> 
+ <item>Letters by Captain E. C. Parker, prisoner in Libby Prison.
+ November 1863</item> 
+ <item>Carl Matteson's Letters, 1865-1865 </item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.1A</container> 
+ <unittitle>Confederate order book and memoranda of discharged
+ soldiers, 
+ <unitdate>1861-1863</unitdate>, belonging to a Georgia regiment
+ and captured in Sherman's "March to the Sea" </unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series10">X.</unitid> 
+ <unittitle>Records of War Dead, 
+ <unitdate normal="1861/1875"
+ type="inclusive">1861-1875</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.2</container> 
+ <unittitle>Affidavits [for pension requests, etc.], 
+ <unitdate>1865-1875</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Collection of C. E. Young Papers</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.3</container> 
+ <unittitle>Lists of war dead from Orleans County</unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Civil War Journals, 1861-1866</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series11">XI.</unitid> 
+ <unittitle>Muster and Descriptive Rolls for Erie County, 
+ <unitdate normal="1861/1865"
+ type="inclusive">1861-1865</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.4</container> 
+ <unittitle>3-year enlistments and soldiers' oaths, 
+ <unitdate>1861-1862</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Letter to General Barry regarding artillery from Governor
+ Folder #4 Washburn (Maine), November 23, 1861</item> 
+ <item>Letter to Captain Caldwell (5th N. Hampshire Volunteers)
+ regarding need for equipment by various officers, October 25, 1862</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.5</container> 
+ <unittitle>Muster and descriptive roll, Erie County, 
+ <unitdate>1865</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Names of Soldiers Who Died from Orleans County (Civil War)
+ [Gift of E. T. Coann. Albion, New York]</item> 
+ <item>Proofs of Deaths of Civil War Pensioners: Michael
+ Schweickhart (April 1865); Thomas Fleming (August, 1866); Sarah Hebard (July
+ 1867); Levi Bishop (August 1869); George Kaph (March 1870) John Gleason
+ (December, 1871) mud Marias Von Holsh (May 1875)</item> 
+ <item>Roll of Honor (Deaths; 1897-1898)</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.6</container> 
+ <unittitle>Muster and descriptive roll, Erie County, 
+ <unitdate>1864-1865</unitdate></unittitle> 
+ </did> 
+ <scopecontent> 
+ <list> 
+ <item>Ordinance (Facsimile): Secession of Mississippi, January 9,
+ 1861</item> 
+ <item>List of Confederate Infantry Officers at Gloucester Pt.,
+ Virginia, July 9, 1861 [Enclosure] [Donated to B.H.S. by Jabich Harris (?)
+ February 24, 1890]</item> 
+ <item>Muster Roll of Company C, l3th Regiment of North Carolina
+ Troops, June 30, 1862</item> 
+ <item>Muster Roll of Company D, 11th Regiment, Arkansas
+ Volunteers, February 28, 1863 [Enclosure] </item> 
+ <item>Muster Roll of Company K, 53th Regiment, N. C. [?] Troops,
+ August, 1863</item> 
+ <item>Muster Roll of Company K, Phillips Regiment, March 1, 1864
+ [Gift of Charles Gibson, Buffalo, June 9, 1891] </item> 
+ <item>Muster Roll of Company E, Third. Regiment, Alabama
+ Volunteers, November 1, 1864 [from Eaten Papers - enclosure]</item> 
+ <item>Letter to B.H.S. from George Williams, describing seizure
+ of "Queen of West" Stemmer by Confederate Sympathizers; Presentation of
+ Confederate Flag to B.H.S., March 13, 1900</item> 
+ </list> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.7</container> 
+ <unittitle>Other military recruitment papers, 
+ <unitdate>1862-1864</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series12">XII.</unitid> 
+ <unittitle>Reminiscences, 
+ <unitdate normal="1887/1891"
+ type="inclusive">1887-1891</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.8</container> 
+ <unittitle>Madison Buell: Mounted clippings of published
+ recollections of his involvement in Civil War telegraphy, 
+ <unitdate>1887-1891</unitdate> </unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.9</container> 
+ <unittitle>W.W. Potter, M.D.: 
+ <title render="italic">"Three Years with the Army of the Potomac:
+ A Personal Military History,"</title> 
+ <unitdate>1888</unitdate></unittitle> 
+ <physdesc>(typescript)</physdesc> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series13">XIII.</unitid> 
+ <unittitle>W.T. Anderson Collection, 
+ <unitdate normal="1861/1865"
+ type="inclusive">1861-1865</unitdate></unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.1</container> 
+ <unittitle>Autographs and communications from prominent military
+ [and non-military] persons in the service of the United [and Confederate]
+ States during the Great Rebellion, 
+ <unitdate>1861- 1865 </unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.2</container> 
+ <unittitle>Maps of the Battles of Bull Run and Chattanooga; blank
+ Confederate commissioning certificate for vessels, 
+ <unitdate>1861</unitdate>; oil requisition form, 
+ <unitdate>1861 </unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series14">XIV.</unitid> 
+ <unittitle>Diary Excerpts, Autographs, Emblems, and Papers Concerning
+ Unidentified Regiments and Soldiers </unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.3</container> 
+ <unittitle>Excerpts from diary and letters of Elizabeth Knowles
+ (wife of R. Wells Knowles, Orleans County) 
+ <unitdate>1861-1863</unitdate> </unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.4</container> 
+ <unittitle>Autographs, 
+ <unitdate>undated</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.5</container> 
+ <unittitle>2nd Army Corps, subsistence account book, Brooks
+ Station, 
+ <unitdate>April-May 1863 </unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.6</container> 
+ <unittitle>John Ketchum collection of Civil War emblems</unittitle>
+ 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.7</container> 
+ <unittitle>Mounted specimens of Civil War envelopes and
+ emblems</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.8</container> 
+ <unittitle>Miscellaneous (War record of Edward Annis Merrill,
+ [1864] passes; ballets; scripture passages; subscription coupons: letters;
+ etc.) </unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ </dsc> 
+ <controlaccess> 
+ <head>Search Terms</head> 
+ <note> 
+ <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p> 
+ </note> 
+ <controlaccess> 
+ <head>Contributors</head> 
+ <persname source="lcnaf" encodinganalog="700">Wilkeson, Samuel,
+ 1817-1889</persname> 
+ <persname encodinganalog="700" rules="aacr2">Matteson, Carl</persname> 
+ <persname encodinganalog="700" rules="aacr2">Eaton, John B.</persname> 
+ <persname source="lcnaf" encodinganalog="700">Knowles,
+ Elizabeth</persname> 
+ <persname encodinganalog="700" rules="aacr2">Stoddard, George
+ N.</persname> 
+ <persname source="lcnaf" encodinganalog="700">Hayward, John
+ A.</persname> 
+ <persname source="lcnaf" encodinganalog="700">Johnson, Charles
+ E.</persname> 
+ <persname encodinganalog="700" rules="aacr2">Brown, James Malcolm, d.
+ 1862</persname> 
+ <persname encodinganalog="700" rules="aacr2">Granger, Warren</persname>
+ 
+ <persname encodinganalog="700" rules="aacr2">Barney, L.L.</persname> 
+ <persname encodinganalog="700" rules="aacr2">Buell, Madison, b.
+ 1834</persname> 
+ <persname encodinganalog="700" rules="aacr2">Potter, William Warren,
+ 1837-1911</persname> 
+ <corpname source="lcnaf" encodinganalog="710">Confederate States of
+ America. Army</corpname> 
+ <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum</corpname> 
+ </controlaccess> 
+ <controlaccess> 
+ <head>Subject Terms</head> 
+ <subject source="lcsh" encodinganalog="650">Veterans--New York
+ (State)</subject> 
+ <subject source="lcsh" encodinganalog="650">United
+ States--History--Civil War, 1861-1865</subject> 
+ <corpname source="lcnaf" encodinganalog="610">United States.
+ Army--Recruiting, enlistment, etc.--Civil War, 1861-1865</corpname> 
+ <geogname encodinganalog="651" source="lcsh">Orleans County
+ (N.Y.)--History--Civil War, 1861-1865</geogname> 
+ </controlaccess> 
+ <controlaccess> 
+ <head>Genre Terms</head> 
+ <genreform source="aat" encodinganalog="655">Muster rolls</genreform> 
+ <genreform source="aat" encodinganalog="655">Diaries</genreform> 
+ <genreform source="aat" encodinganalog="655">Discharges</genreform> 
+ <genreform source="aat" encodinganalog="655">Autographs</genreform> 
+ <genreform source="aat" encodinganalog="655">Maps</genreform> 
+ <genreform source="aat" encodinganalog="655">Reminiscences</genreform> 
+ <genreform source="aat" encodinganalog="655">Military
+ records</genreform> 
+ </controlaccess> 
+ </controlaccess> 
+ </archdesc> 
+</ead>

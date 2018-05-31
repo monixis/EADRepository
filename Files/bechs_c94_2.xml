@@ -1,0 +1,5736 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+ <eadheader audience="external" countryencoding="iso3166-1"
+ dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"
+ relatedencoding="DC" scriptencoding="iso15924"> 
+ <eadid countrycode="us" mainagencycode="NBuHi"
+ publicid="-//Buffalo History Museum::Research Library//TEXT(US::NBuHi::C94-2::Adeline Levine Love Canal Collection)//EN"
+ encodinganalog="identifier">bechs_c94_2</eadid> 
+ <filedesc> 
+ <titlestmt> 
+ <titleproper encodinganalog="title">Finding Aid for the Adeline Levine
+ Love Canal Collection, 
+ <date type="inclusive" era="ce" calendar="gregorian"
+ normal="1893/1995" encodinganalog="date">1893-1995</date> 
+ <date type="bulk" era="ce" calendar="gregorian" normal="1978/1995"
+ encodinganalog="date">(bulk 1978-1995)</date> </titleproper> 
+ <titleproper type="filing" altrender="nodisplay">Levine (Adeline) Love
+ Canal Collection</titleproper> 
+ <author encodinganalog="contributor">Finding aid prepared by Buffalo History Museum staff.</author> 
+ <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor> 
+ </titlestmt> 
+ <publicationstmt> 
+ <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher> 
+ <address> 
+ <addressline>1 Museum Court</addressline> 
+ <addressline>Buffalo, NY 14216</addressline> 
+ <addressline>Phone: 716-873-9644 ext. 306</addressline> 
+ <addressline>Fax: 716-873-8754</addressline> 
+ <addressline>Email: <emph render="bold"> 
+ <extref actuate="onrequest" show="new"
+ href="mail-to:library@buffalohistory.org">library@buffalohistory.org</extref></emph></addressline>
+ 
+ <addressline>URI: <emph render="bold"> 
+ <extref actuate="onrequest" show="new"
+ href="http://www.buffalohistory.org">http://www.buffalohistory.org</extref></emph></addressline>
+ 
+ </address> 
+ <p>© 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p> 
+ </publicationstmt> 
+ </filedesc> 
+ <profiledesc> 
+ <creation>Finding aid encoded in EAD by Nathan Tallman, July
+ 2008.</creation> 
+ <langusage>Finding aid written in
+ <language langcode="eng" encodinganalog="language">English.</language>
+ </langusage> 
+ <descrules>Finding aid prepared using local best practices.</descrules> 
+ </profiledesc> 
+ </eadheader> 
+ <archdesc level="collection" type="inventory" relatedencoding="MARC21"> 
+ <did> 
+ <head>Collection Overview</head> 
+ <unittitle encodinganalog="245$a" label="Title">Adeline Levine Love Canal
+ Collection, 
+ <unitdate type="inclusive" encodinganalog="245$f" datechar="creation"
+ normal="1893/1995">1893-1995</unitdate> 
+ <unitdate type="bulk" datechar="creation"
+ encodinganalog="245$g" normal="1978/1995">(bulk 1978-1995)</unitdate>
+ </unittitle> 
+ <unitid encodinganalog="099" label="Collection Number"
+ repositorycode="NBuHi" countrycode="US">Mss. C94-2</unitid> 
+ <origination label="Creator"> 
+ <persname encodinganalog="100" source="lcnaf" role="creator">Levine,
+ Adeline</persname> </origination> 
+ <physdesc label="Extent"><extent unit="box" encodinganalog="300">54
+ boxes</extent>, <extent encodinganalog="300" unit="audiocassette">24 audio
+ cassettes</extent>, and <extent encodinganalog="300" unit="videocassette">4
+ video cassettes</extent> <extent unit="linear foot" encodinganalog="300">(26
+ linear feet)</extent> </physdesc> 
+ <langmaterial label="Language of Material"
+ encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language>.
+ </langmaterial> 
+ <repository label="Repository" encodinganalog="852"> 
+ <corpname>Buffalo History Museum. <subarea>Research
+ Library</subarea></corpname> </repository> 
+ <abstract encodinganalog="520" label="Abstract">Contains research,
+ reports, papers, and articles, 1978-1990; newspaper clippings, 1978-1999, with
+ index, 1978-1995; photographs and slides, 1978-1989; audio and video cassettes,
+ 1978-1986; personal interviews and field notes, 1978-1987; correspondence and
+ materials relating to environmental activists and organizations, including Lois
+ Gibbs and the Citizen's Clearinghouse for Hazardous Wastes, Inc., 1978-1989,
+ 1995.</abstract> 
+ </did> 
+ <descgrp type="admininfo"> 
+ <head>Administrative Information</head>  
+ <prefercite encodinganalog="524"> 
+ <head>Preferred Citation</head> 
+ <p>[Description and dates], Box/folder number, Mss. C94-2, Adeline
+ Levine Love Canal Collection, 1893-1995 (bulk 1978-1995), Research Library,
+ Buffalo History Museum.</p> 
+ </prefercite> 
+ <accessrestrict encodinganalog="506"> 
+ <head>Terms of Access</head> 
+ <p>I and II are open by special permission only. Users must
+ present scholarly credentials and sign an authorization form, stating that
+ identities of participants will not be revealed. A copy of the authorization
+ form will be retained by BECHS and Dr. Levine. The materials shall not be
+ reproduced by any means (photographs, photocopies, or electronic scanning).
+ These requirements will remain in force until 2045, or until such time as the
+ Archivist or Dr. Levine see fit.</p> 
+ </accessrestrict> 
+ <userestrict encodinganalog="540"> 
+ <head>Copyright</head> 
+ <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p> 
+ </userestrict> 
+  
+ <acqinfo encodinganalog="541"> 
+ <head>Acquisition Information</head> 
+ <p>This collection was donated by Dr. Levine over the period 1993-1995.
+ The slide show and audio cassette tapes for "Love Canal: The Issues and The
+ Controversies" were donated by the State University of New York at Buffalo,
+ along with video cassette tape no. 3, "Love Canal" (undated). </p> 
+ <p>Acc. no. 93-63.</p> 
+ </acqinfo> 
+ <accruals encodinganalog="584"> 
+ <head>Accruals and Additions</head> 
+ <p>No further accruals are expected to this collection.</p> 
+ </accruals> 
+ <processinfo encodinganalog="583"> 
+ <head>Processing Information</head> 
+ <p>Processed by Buffalo History Museum staff,
+ February 1995.</p> 
+ </processinfo> 
+ </descgrp> 
+ <bioghist encodinganalog="545"> 
+ <head>Biographical and Historical Note</head> 
+ <p>Dr. Adeline Levine was a professor of sociology at the State
+ University of New York at Buffalo from 1968 to 1990. She conducted research on
+ the sociological aspects of the Love Canal controversy from 1978 on. She has
+ written many papers and articles on Love Canal, and in 1982, she published 
+ <title type="book">Love Canal: Science, Politics, and People</title>
+ (available in the BECHS library).</p> 
+ <p>The Love Canal is an area of land located in the city of Niagara
+ Falls, New York. In the 1800's William Love attempted, unsuccessfully, to dig a
+ canal linking his lands with the Niagara River. Hooker Chemical and Plastics
+ Corporation gained title to the land, and allegedly used the site as a toxic
+ waste dump. In 1953, Hooker transferred the parcel to the Niagara Falls Board
+ of Education. The land was subsequently zoned residential, and part of the
+ parcel was used to build the 99th Street School. The impact of toxic chemicals
+ on the health of area residents became a topic of controversy, and the site was
+ declared a federal emergency disaster area. Residents, Hooker, and state and
+ federal governmental agencies became embroiled in disputes over scientific
+ studies and proposed courses of action. The area was declared, habitable in
+ July of 1982. A 1994 decision in 
+ <title type="journal">U.S. v. Hooker</title> denied punitive damages for
+ Love Canal residents. Legislation is still ongoing.</p> 
+ </bioghist> 
+ <scopecontent encodinganalog="520"> 
+ <head>Scope and Content Note</head> 
+ <p>The bulk of the collection consists of materials from 1978-1995, but a
+ few materials on Niagara Falls history, Hooker Chemical Corporation, and the
+ land transfer of the Love Canal, pre-date the 1970's.</p> 
+ <p>The first series of the collection consists of the interviews of Love
+ Canal residents conducted by Levine in 1978 and 1979. The second series
+ contains field notes written by Levine (and others) covering the period August
+ 15, 1978 to 1987. These notes describe events and experiences relating to Love
+ Canal, and contain correspondence, ephemera, and various other materials. These
+ two series are open by special permission only (see below for more
+ information).</p> 
+ <p>The third series contains miscellaneous materials collected by Levine
+ while at Love Canal, including forms and questionnaires distributed to
+ residents; information on liver tests and compound testing; and maps.</p> 
+ <p>IV contains Levine's own research on Love Canal. Materials from
+ a 1978-1979 seminar conducted by Levine at the University at Buffalo, including
+ students' papers, make up the first subseries. Levine's own papers, talks, and
+ published articles, including manuscript drafts and notes, are arranged
+ chronologically. The series also contains materials relating to the writing,
+ publication and publicity of Levine's book, 
+ <title type="book">Love Canal: Science, Politics, and People</title>, and
+ her slide presentation, "Love Canal: The Issues and The Controversies". Lastly,
+ copies of materials donated to the University at Buffalo archives are included,
+ and are arranged alphabetically by correspondent.</p> 
+ <p>The fifth series contains information on citizens' groups and
+ grassroots environmental organizations; the Love Canal Homeowners Association,
+ and Lois Gibb's activities at Love Canal; Citizen's Clearinghouse for Hazardous
+ Wastes, Inc., organized by Gibbs; the Ecumenical Task Force; and materials and
+ newsletters from various other groups.</p> 
+ <p>VI contains reports, advertisements, and publications by and
+ about Hooker Chemical and the Chemical Manufacturer's Association. Series VII
+ includes census information for Niagara Falls, information on the history of
+ the area and on William Love, and materials on the Niagara Falls Board of
+ Education. Series VIII contains transcripts of testimony and other materials
+ relating to state and congressional hearings on Love Canal, and copies of
+ lawsuits and complaints filed by various parties.</p> 
+ <p>The ninth series is made up of documents and correspondence produced
+ by governmental agencies; it includes the New York State Department of Health
+ Collected Documents on Love Canal. The tenth series contains reports and
+ research produced by scholars and governmental agencies from 1977-1983, and
+ articles clipped by Levine for her own research. Subseries X.B. includes
+ reports from Beverly Paigen, a cancer research scientist at Roswell Park
+ Memorial Institute, who volunteered her services to the Love Canal
+ homeowners.</p> 
+ <p> Photographs, as well as negatives and slides, taken of the Love Canal
+ area and residents, from 1978-1989 make up Series XI. The twelfth series
+ contains newspaper clippings, 1978-1995. The articles cover all aspects of the
+ Love Canal disaster and persons involved, as well as news on other
+ environmental disasters and toxic pollution. The articles have been taken from 
+ <title type="journal">Buffalo Evening News</title>, 
+ <title type="journal">Buffalo Courier-Express</title>, 
+ <title type="journal">Niagara Gazette</title>, 
+ <title type="journal">New York Times</title>, 
+ <title type="journal">Washington Post</title>, 
+ <title type="journal">St. Louis Post-Dispatch</title>, and a number of
+ other papers. Levine's article index is included, and notations have been made
+ to indicate which articles are contained in the collection.</p> 
+ <p>The last series contains audio cassettes of Levine and others,
+ 1978-1983; and video cassettes, including 
+ <title type="book">In Our Own Backyard</title> by Lynn Corcoran.</p> 
+ </scopecontent> 
+ <arrangement encodinganalog="351"> 
+ <head>Arrangement</head> 
+ <p>This collection is arranged in thirteen Series: 
+ <list> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series1">I. Interviews</ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series2">II. Field Notes</ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series3">III. Collected Materials</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series4">IV. Levine Research</ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series5">V. Citizens Groups</ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series6">VI. Hooker and Chemical Manufacturers Association</ref>
+ </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series7">VII. Niagara Falls and William Love</ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series8">VIII. Legal Aspects</ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series9">IX. Government Documents </ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series10">X. Research and Reports</ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series11">XI. Photographs, Negatives, and Slides</ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series12">XII. Newspaper Clippings</ref> </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series13">XIII. Audio and Video Cassettes.</ref></item> 
+ </list></p> 
+ </arrangement> 
+ <dsc type="combined"> 
+ <head>Container List</head> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series1">I.</unitid> 
+ <unittitle>Interviews</unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.1</container> 
+ <unittitle> Blank forms and questionnaires</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.2</container> 
+ <unittitle> Key</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.3</container> 
+ <unittitle> 101</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.4</container> 
+ <unittitle> 102</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.5</container> 
+ <unittitle> 103</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.6</container> 
+ <unittitle> 104</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.7</container> 
+ <unittitle> 105</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.8</container> 
+ <unittitle> 106</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.9</container> 
+ <unittitle> 107</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.10</container> 
+ <unittitle> 108</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.11</container> 
+ <unittitle> 109</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.12</container> 
+ <unittitle> 110</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.13</container> 
+ <unittitle> 111</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.14</container> 
+ <unittitle> 112</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.15</container> 
+ <unittitle> 113</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.16</container> 
+ <unittitle> 114</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.17</container> 
+ <unittitle> 115</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.18</container> 
+ <unittitle> 116</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.19</container> 
+ <unittitle> 117</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.20</container> 
+ <unittitle> 118</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.21</container> 
+ <unittitle> 119</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.22</container> 
+ <unittitle> 120</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.23</container> 
+ <unittitle> 121</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.24</container> 
+ <unittitle> 122</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.25</container> 
+ <unittitle> 123</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.1</container> 
+ <unittitle> 124</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.2</container> 
+ <unittitle> 125</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.3</container> 
+ <unittitle> 126</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.4</container> 
+ <unittitle> 127</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.5</container> 
+ <unittitle> 128</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.6</container> 
+ <unittitle> 129</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.7</container> 
+ <unittitle> 134</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.8</container> 
+ <unittitle> 135</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.9</container> 
+ <unittitle> 136</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.10</container> 
+ <unittitle> 137</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.11</container> 
+ <unittitle> 138</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.12</container> 
+ <unittitle> 139</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.13</container> 
+ <unittitle> 140</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.14</container> 
+ <unittitle> 141</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.15</container> 
+ <unittitle> 142</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.16</container> 
+ <unittitle> 143</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.17</container> 
+ <unittitle> 144</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.18</container> 
+ <unittitle> 145, 245 (combined)</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.1</container> 
+ <unittitle> 146, 246 (combined)</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.2</container> 
+ <unittitle> 147</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.3</container> 
+ <unittitle> 148</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.4</container> 
+ <unittitle> 149</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.5</container> 
+ <unittitle> 150, 151 (combined)</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.6</container> 
+ <unittitle> 152, 153 (combined)</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.7</container> 
+ <unittitle> 154</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.8</container> 
+ <unittitle> 155</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.9</container> 
+ <unittitle> 356, 256 (combined)</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.10</container> 
+ <unittitle> 157, 158 (combined)</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.11</container> 
+ <unittitle> 159, 259 (combined)</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.12</container> 
+ <unittitle> 160</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.13</container> 
+ <unittitle> 161</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">3.14</container> 
+ <unittitle> 162</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.1</container> 
+ <unittitle> 202</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.2</container> 
+ <unittitle> 204</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.3</container> 
+ <unittitle> 206</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.4</container> 
+ <unittitle> 207</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.5</container> 
+ <unittitle> 213</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.6</container> 
+ <unittitle> 214</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.7</container> 
+ <unittitle> 215</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.8</container> 
+ <unittitle> 216</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.9</container> 
+ <unittitle> 217</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.10</container> 
+ <unittitle> 218</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.11</container> 
+ <unittitle> 219</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.12</container> 
+ <unittitle> 221</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.13</container> 
+ <unittitle> 222</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.14</container> 
+ <unittitle> 224</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.15</container> 
+ <unittitle> 225</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.16</container> 
+ <unittitle> 226</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.17</container> 
+ <unittitle> 227</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.18</container> 
+ <unittitle> 229</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">4.19</container> 
+ <unittitle> 234</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.1</container> 
+ <unittitle> 235</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.2</container> 
+ <unittitle> 236</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.3</container> 
+ <unittitle> 237</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.4</container> 
+ <unittitle> 238</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.5</container> 
+ <unittitle> 240</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.6</container> 
+ <unittitle> 241</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.7</container> 
+ <unittitle> 242</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.8</container> 
+ <unittitle> 245</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.9</container> 
+ <unittitle> 247</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.10</container> 
+ <unittitle> 248</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.11</container> 
+ <unittitle> 249</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.12</container> 
+ <unittitle> 251</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.13</container> 
+ <unittitle> 252, 253 (combined)</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.14</container> 
+ <unittitle> 255</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.15</container> 
+ <unittitle> 257</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.16</container> 
+ <unittitle> 260</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.17</container> 
+ <unittitle> 261</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">5.18</container> 
+ <unittitle> 262</unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series2">II.</unitid> 
+ <unittitle>Field Notes</unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.1</container> 
+ <unittitle> 
+ <unitdate>August 15-August 25, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.2</container> 
+ <unittitle> 
+ <unitdate>September 8-September 14, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.3</container> 
+ <unittitle> 
+ <unitdate>September 15-September 28, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.4</container> 
+ <unittitle> 
+ <unitdate>September 29-October 5, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.5</container> 
+ <unittitle> 
+ <unitdate>October 6-October 18, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.6</container> 
+ <unittitle> 
+ <unitdate>October 19-November 1, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.7</container> 
+ <unittitle> 
+ <unitdate>November 2-November 30, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.8</container> 
+ <unittitle> 
+ <unitdate>December 1-December 15, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.9</container> 
+ <unittitle> 
+ <unitdate>December 16-December 31, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">6.10</container> 
+ <unittitle> 
+ <unitdate>January 1-31, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">7.1</container> 
+ <unittitle> 
+ <unitdate>February 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">7.2</container> 
+ <unittitle> 
+ <unitdate>March 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">7.3</container> 
+ <unittitle> 
+ <unitdate>April 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">7.4</container> 
+ <unittitle> 
+ <unitdate>May 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">7.5</container> 
+ <unittitle> 
+ <unitdate>May 17, 1979</unitdate> - LCHA by-laws</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">7.6</container> 
+ <unittitle> 
+ <unitdate>June-July 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">7.7</container> 
+ <unittitle> 
+ <unitdate>August-September 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">7.8</container> 
+ <unittitle> 
+ <unitdate>October-December 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">7.9</container> 
+ <unittitle>Gibbs chronology, 
+ <unitdate>April 1978-November 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">7.10</container> 
+ <unittitle> 
+ <unitdate>January-April 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">7.11</container> 
+ <unittitle> 
+ <unitdate>May 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.1</container> 
+ <unittitle> Gibbs chronology, 
+ <unitdate>February-May 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.2</container> 
+ <unittitle> 
+ <unitdate>June-August 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.3</container> 
+ <unittitle> 
+ <unitdate>September-October 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.4</container> 
+ <unittitle> 
+ <unitdate>November-December 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.5</container> 
+ <unittitle> Press releases 
+ <unitdate>1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.6</container> 
+ <unittitle>Thomas Report 
+ <unitdate>October 1980-January 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.7</container> 
+ <unittitle> 
+ <unitdate>January-February 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.8</container> 
+ <unittitle> 
+ <unitdate>March-December 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.9</container> 
+ <unittitle> 
+ <unitdate>1982</unitdate> </unittitle> 
+ </did> 
+ <scopecontent> 
+ <p>(includes chronology, 1940's-1979)</p> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.10</container> 
+ <unittitle> 
+ <unitdate>1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.11</container> 
+ <unittitle>Field notes . 
+ <unitdate>1984-1987</unitdate> 
+ <unitdate>(bulk 1984-1985)</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series3">III.</unitid> 
+ <unittitle>Collected Materials</unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.12</container> 
+ <unittitle>Field notes. Miscellaneous (includes newspaper article
+ indices, August 1978)</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.13</container> 
+ <unittitle>Love Canal Information Form, Allen, Lippes, and
+ Shonn</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">8.14</container> 
+ <unittitle>Property and health questionnaire, LCHA</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">9.1</container> 
+ <unittitle>Gannett survey questionnaires</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">9.2</container> 
+ <unittitle>Revitalization contracts and loan agreements</unittitle>
+ 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">9.3</container> 
+ <unittitle>Information on compounds tested at Love
+ Canal</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">9.4</container> 
+ <unittitle>Information on liver nests</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">9.5</container> 
+ <unittitle>Maps</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">9.6</container> 
+ <unittitle>Initial proposal and funding for Love Canal Study, 
+ <unitdate>August 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">9.7</container> 
+ <unittitle>Expenditures, 
+ <unitdate>1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">9.8</container> 
+ <unittitle>Funding</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">9.9</container> 
+ <unittitle>Funding. Moir Tanner Award, 
+ <unitdate>January 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">9.10</container> 
+ <unittitle>Funding. Beinecke Application, 
+ <unitdate>January 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series4">IV.</unitid> 
+ <unittitle>Levine Research</unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged in six series: 
+ <list> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series4a">IV.A. Seminar</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series4b">IV.B. Research Methods</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series4c">IV.C. Papers, Talks, Articles</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series4d">IV.D. Various</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series4e">IV.E. Book Materials</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series4f">IV.F. SUNYAB Materials</ref>.</item> 
+ </list></p> 
+ </arrangement> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series4a">IV.A.</unitid> 
+ <unittitle>Seminar</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.11</container> 
+ <unittitle> 
+ <unitdate>1978-1979</unitdate>. Course description and
+ information on class members</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.12</container> 
+ <unittitle> Meeting agendas</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.13</container> 
+ <unittitle> Papers. Hufsmith. "The Corporate Response of Hooker
+ to the Love Canal Situation" 
+ <unitdate>December 1978</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.14</container> 
+ <unittitle> Papers. Presented at 49th Annual Meeting of the
+ Eastern Sociological Society, 
+ <unitdate>March 16, 1979</unitdate>.</unittitle> 
+ <note> 
+ <p>Levine. "The Love Canal - A Man-Made Environmental
+ Disaster."</p> 
+ <p>Levine, et al. "The Love Canal: A Sociologist's
+ Perspective."</p> 
+ </note> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.15</container> 
+ <unittitle> Papers. Presented at "Love Canal: Lessons for
+ Society, University at Buffalo, 
+ <unitdate>March 21, 1979</unitdate>. Summarized by Levine.
+ "Health and Social Effects."</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.16</container> 
+ <unittitle> Papers. Presented at 50th Annual Meeting of the
+ Eastern Psychological Association, 
+ <unitdate>April 19, 1979. </unitdate></unittitle> 
+ <note> 
+ <p>Barker. "Stress and Coping at Love Canal."</p> 
+ <p> Cornwell. "Interorganizational Relationships in a Disaster
+ Setting: An Adversarial Model."</p> 
+ <p>Hufsmith. "The Response of Love Canal Residents to Their
+ Community and Government."</p> 
+ <p>Levine. "The Love Canal: Setting, History, and Methods of
+ Study."</p> 
+ <p> Ploughman. "Mass Media in Disaster: Love Canal
+ Coverage."</p> 
+ <p>Rowe. "Victim Life Stage Perceptions of Environmental
+ Crisis."</p> 
+ </note> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.17</container> 
+ <unittitle> Papers. Presented at the 10th annual Conference of
+ the Environmental Design Research Association, 
+ <unitdate>June 9, 1979</unitdate>.</unittitle> 
+ <note> 
+ <p> Hufsmith. "The Problems of Hazardous Waste Disposal: In
+ Search of a New Equilibrium."</p> 
+ <p> Rowe. "The Familial Impact of the Love Canal. Section I:
+ Life Stage Perceptions."</p> 
+ </note> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.1</container> 
+ <unittitle> Papers. Presented at 32rd Annual Meeting of the
+ Gerontological Society, 
+ <unitdate>November 29, 1979</unitdate>. </unittitle> 
+ <note> 
+ <p>Rowe. "Life Stage Responses to Environmental Disaster."</p> 
+ </note> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.2</container> 
+ <unittitle> Papers. Masters project proposal. Brennan. "The
+ Emergence and Persistence of Citizens Groups at the Love Canal." 
+ <unitdate>1980-1981</unitdate>.</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.3</container> 
+ <unittitle> Newsletter, Environmental Sociology Section of
+ American Sociological Association, 
+ <unitdate>Winter 1979</unitdate>.</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.4</container> 
+ <unittitle> Correspondence, 
+ <unitdate>October 1978-September 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.5</container> 
+ <unittitle> Miscellaneous</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series4b">IV.B.</unitid> 
+ <unittitle>Research Methods</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.10.7</container> 
+ <unittitle>Materials for J. Feather's class on evaluation, 
+ <unitdate>January 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.8</container> 
+ <unittitle>Bulletin board materials (includes address lists,
+ articles, announcements, correspondence)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.9</container> 
+ <unittitle>Requests for papers</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.10</container> 
+ <unittitle>Public Health Conference, NYS Public Health
+ Association, Buffalo, 
+ <unitdate>June 8-11, 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.11</container> 
+ <unittitle> Readings and creative conversation</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.12</container> 
+ <unittitle> Articles</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.13</container> 
+ <unittitle> Bertell on DOE study, 
+ <unitdate>January 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.14</container> 
+ <unittitle> Shackman. "Accuracy of interview self-reports in
+ estimating prevalence of health problems."</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">11.1</container> 
+ <unittitle> Speech at Fredonia, 
+ <unitdate>March 26, 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">11.2</container> 
+ <unittitle> Speech at Beaver College, 
+ <unitdate>May 2, 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series4c">IV.C.</unitid> 
+ <unittitle>Levine Papers, Talks, Articles</unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged in three sections: 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series4c1">Papers</ref>, 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series4c2">Talks</ref>, and 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series4c3">Articles</ref>.</p> 
+ </arrangement> 
+ <c03 level="subseries" id="series4c1"> 
+ <did> 
+ <unittitle>Papers</unittitle> 
+ </did> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">11.3</container> 
+ <unittitle>"The Philosophical Contribution of Thomas Huxley" 
+ <unitdate>November 30, 1961</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">11.4</container> 
+ <unittitle>"Scientific Decision Making in a Politicized
+ Setting" 
+ <unitdate>August 24-27, 1979</unitdate>, SSSP.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">11.5</container> 
+ <unittitle>"Science and Politics at Love Canal: The Use of
+ Scientists, the Non-Use of Science" 
+ <unitdate>March 1981</unitdate>, Nazareth
+ College.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">11.6</container> 
+ <unittitle>"The Psycho/Social Impact of Toxic Chemical Waste
+ Dumps" 
+ <unitdate>October 27-28, 1981</unitdate>, NIEHS.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">11.7</container> 
+ <unittitle>"Key Findings and Methodological Issues in the Study
+ of Communities Exposed to Toxic Pollution" 
+ <unitdate>April 18, 1982</unitdate>, EDRA.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">11.8</container> 
+ <unittitle>"The Citizens Organization as a Countervailing
+ Force," and "The Psycho/Social Impact of the Toxic Chemical Waste Dump at the
+ Love Canal" 
+ <unitdate>October 24-27, 1982</unitdate>. Conference on
+ social Impact Assessment. </unittitle> 
+ <physdesc>[3 folders]</physdesc> 
+ <note> 
+ <p> Includes other papers and reports from conference:
+ Edelstein: "Social Impacts of A1 Turi Landfill, Inc."; Third Annual Report.
+ Technical Advisory Committee on the Nuclear Fuel Waste Management Program, June
+ 1982; Krawetz. "Hazardous Waste Management: A Review of Social Concerns and
+ Aspects of Public Involvement." (Dept. of Environment, Alberta)</p> 
+ </note> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">11.9</container> 
+ <unittitle>Conference on Social Impact Assessment, continued.
+ Conference materials.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.l</container> 
+ <unittitle>Conference on Social Impact Assessment, continued.
+ Correspondence.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.2</container> 
+ <unittitle>"Love Canal: Scientific Controversy and Policy
+ Dilemma" 
+ <unitdate> April 19, 1983</unitdate>, University of
+ Cincinnati.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.3</container> 
+ <unittitle>"Scientific Decisions and Public Policy: Love Canal"
+ 
+ <unitdate>April 22, 1983</unitdate>, SUNY/McHaster. Also
+ includes paper by Nossal. "Environmental Management and Canadian-American
+ Relations: The Role Of the International Joint Commission."</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.4</container> 
+ <unittitle>"Who Does What to Whom? The Media and Science at
+ Love Canal" 
+ <unitdate>September 2, 1983</unitdate>, ASS.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.5-12.6</container> 
+ <unittitle>"Statement for the Committee on Public Awareness,
+ Illinois Hazardous Waste Task Force" 
+ <unitdate>October 19, 1983</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.7</container> 
+ <unittitle>"Trust Me Trust He! Chromosomes and Credibility at
+ Love Canal" 
+ <unitdate>April 12, 1984</unitdate>, AAPA</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.8</container> 
+ <unittitle>"A Comment on 'A study of cytogenetic patterns in
+ persons living near the Love Canal'" 
+ <unitdate>June 20, 1984</unitdate>.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.9</container> 
+ <unittitle>"Love Canal: Ethical and Methodological Problems in
+ Field Research" 
+ <unitdate>August 26, 1984</unitdate>, SSSP.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.10</container> 
+ <unittitle>Levine and Stone. "Reactions to Collective Stress:
+ Correlates of Active Citizen Participation at Love Canal" 
+ <unitdate>August 1984</unitdate>, APA.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.11</container> 
+ <unittitle>Levine and Stone. "Residents' Perceptions of the
+ Hazard of Love Canal: Problems and Changes to Self and Family" 
+ <unitdate>August 1984</unitdate>, APA.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.12</container> 
+ <unittitle>Levine and Stone. "The Question of the Habitability
+ of Love Canal: The Role of Scientific Expertise and Technical Data in
+ Establishing Criteria (Making New Science with Immediate Policy Implications)" 
+ <unitdate>March 19, 1988</unitdate>, SUNY.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.13</container> 
+ <unittitle>"Love Canal, 1989: Still Seeking a Solution" 
+ <unitdate>May 19, 1989</unitdate>, Johns Hopkins.</unittitle>
+ 
+ </did> 
+ </c04> 
+ </c03> 
+ <c03 level="subseries" id="series4c2"> 
+ <did> 
+ <unittitle>Levine Talks</unittitle> 
+ </did> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.14</container> 
+ <unittitle>"The Love Canal: Living on a Toxic Waste Dump Site" 
+ <unitdate>May 10, 1979</unitdate>, Rochester Industrial
+ Engineers Society.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.15</container> 
+ <unittitle> "Science and Politics at Love Canal" 
+ <unitdate>January 22, 1981</unitdate>, UC Berkeley. 
+ <unitdate>February 27, 1981</unitdate>, Siena
+ College.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.1</container> 
+ <unittitle> "The Love Canal: Controversies and Dilemmas" 
+ <unitdate>January 11, 1982</unitdate>, UC Davis. 
+ <unitdate>January 13 1983</unitdate>, UC
+ Berkeley.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.2</container> 
+ <unittitle> "Psycho/Social Impact" 
+ <unitdate>March 10, March 12 and April 2,
+ 1982</unitdate>.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.3</container> 
+ <unittitle> "Key Findings and Methodological Issues in the
+ Study of Communities Exposed to Toxic Pollution" 
+ <unitdate>April and August, 1982</unitdate>.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.4</container> 
+ <unittitle> "The Love Canal: Controversies and Costs" 
+ <unitdate>December 3, 1982</unitdate>, SUNY.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.5</container> 
+ <unittitle> "Love Canal Before and After: Dilemmas and
+ Controversies" 
+ <unitdate>March 15, 1983</unitdate>, Cornell.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.6</container> 
+ <unittitle> "Scientific Decisions and Public Policy" 
+ <unitdate>April 27, 1983</unitdate>, SUNY.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.7</container> 
+ <unittitle> "Scientific Controversy and Policy Dilemma" 
+ <unitdate>May 12, 1983</unitdate>, Buffalo Area Studies
+ Group.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.8</container> 
+ <unittitle> "Love Canal: Science, Politics, And People" 
+ <unitdate>August 2, 1983</unitdate>," SUNY.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.9</container> 
+ <unittitle> ASA talk, 
+ <unitdate>1983.</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.10</container> 
+ <unittitle> "Who Does What to Whom? The Media and Science at
+ Love Canal" 
+ <unitdate>January 5, 1984</unitdate>, UC San
+ Francisco.</unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.11</container> 
+ <unittitle> Notes and materials from speaking engagements, 
+ <unitdate>1980-1982</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.12</container> 
+ <unittitle> Notes and materials from speaking engagements, 
+ <unitdate>1983-1984</unitdate>, 
+ <unitdate>undated</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ </c03> 
+ <c03 level="subseries" id="series4c3"> 
+ <did> 
+ <unittitle>Levine Articles</unittitle> 
+ </did> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.13</container> 
+ <unittitle>Articles published by Levine, 
+ <unitdate>1970-1989</unitdate>:</unittitle> 
+ <note> 
+ <list type="simple"> 
+ <item>Levine and Levine. "The Social Context of Evaluative
+ Research: A Case Study." 
+ <title type="journal">Evaluation Quarterly</title> 1(4),
+ November 1977, 515-542.</item> 
+ <item>Levine and Levine. "Editorial Opinion: Science and
+ Politics: a Dangerous Mix." 
+ <title type="journal">Journal of Community
+ Psychology</title> 8 ( 1980), 189-90. Reprinted from 
+ <title type="journal">Buffalo Evening News</title>,
+ December 23, 1979.</item> 
+ <item>"The Psycho/Social Impact of Toxic Waste Dumps." 
+ <title type="journal">Congressional Record</title>,
+ Extensions of Remarks, December 16, 1981, E5894-5896.</item> 
+ <item>Book review of 
+ <title type="book">Reflections on Science and the
+ Media</title>, by June Greenfield. 
+ <title type="journal">Contemporary Sociology</title>
+ 14(3), May 1985, 368-369.</item> 
+ <item>Levine and Stone. "Reactions to Collective Stress:
+ Correlates of Active Citizen Participation at Love Canal." Beyond the
+ Individual: Environmental Approaches and Prevention, 
+ <title type="journal"> Prevention in Human
+ Services</title> 4(½), Fall 1985/Winter 1986, 153-177.</item> 
+ <item>"Love Canal: Ethical and Methodological Problems in
+ Field Work." 
+ <title type="journal">International Journal of Mass
+ Emergencies and Disasters</title> 4(1), March 1986, 79-84.</item> 
+ <item>"Love Canal and the Limits of Scientific Proof." 
+ <title type="journal">Natural Resources and
+ Environment</title> 2(2), Fall 1986, 21-23, 59-61.</item> 
+ <item>"Love Canal: An Update." 
+ <title type="book">Impact Assessment Today</title>,
+ Volume II. Edited by Becker and Porter. 
+ <title type="article">Interventions in the Welfare State,
+ Part I</title>. Utrecht: Uitgeverij Jan can Arkel, 1986, 817-824.</item> 
+ <item>Levine and Stone. "Threats to People and What They
+ Value: Residents' Perceptions of the Hazards of Love Canal." 
+ <title type="journal">Advances in Environmental
+ Psychology</title> Vol. 6: 
+ <title type="book">Exposure to Hazardous Substances:
+ Psychological Parameters</title>. Edited by Lebovits, Baum, and Singer.
+ Hillsdale, NJ: Lawrence Erlbaum Associates, 1986, 109-130.</item> 
+ <item>"Psychological Impact of Toxic Chemical Waste Dumps."
+ 
+ <title type="journal">Environmental Health
+ Perspectives</title> 78 (1988), 15-17.</item> 
+ <item>Levine and Stone. "The Question of Habitability of
+ Love Canal: The Role of Scientific Expertise and Technical Data in Establishing
+ Criteria (Making New Science with Immediate Policy Implications)." : A Critical
+ Appraisal 
+ <title type="book">Environmental Dispute Resolution in
+ the Great Lakes Region</title>. Edited by Bankert and Flint. Great Lakes
+ Monograph No. 1. Great Lakes Program, SUNY, Buffalo, NY, November 1988,
+ 132-146.</item> 
+ <item>"Communications and Preparedness for Chemical
+ Accidents." 
+ <title type="book">Methods for Assessing and Reducing
+ Injury from Chemical Accidents</title>. Edited by Bourdeau and Green. SCOPE,
+ Published by John Wiley and Sons, Ltd., 1989.</item> 
+ </list> 
+ </note> 
+ </did> 
+ </c04> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">13.14</container> 
+ <unittitle>Levine notes for extended interviews</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series4d">VI.D.</unitid> 
+ <unittitle>Various</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">14.1</container> 
+ <unittitle>Slide show scripts and identification
+ cards</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">14.2</container> 
+ <unittitle>Notebooks. 
+ <unitdate>September 1978-February 1979</unitdate>; 
+ <unitdate>February-May 1979</unitdate>; 
+ <unitdate>May 1979-October 1980</unitdate>; and 
+ <unitdate>August 18, 1988</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">14.3</container> 
+ <unittitle>Correspondence, 
+ <unitdate>1979-1990</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series4e">VI.E.</unitid> 
+ <unittitle>Book Materials</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">14.4</container> 
+ <unittitle> Outline</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">14.5</container> 
+ <unittitle> Correspondence with Lexington Books, 
+ <unitdate>January 1980-December 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">14.6</container> 
+ <unittitle> Correspondence with Lexington Books, 
+ <unitdate>1982</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">14.7</container> 
+ <unittitle> Correspondence with Lexington Books, 
+ <unitdate>1983-1985</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">14.8</container> 
+ <unittitle> Correspondence with other publishers, 
+ <unitdate> May 1979-June 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">15.1</container> 
+ <unittitle> Publicity. Endorsements, 
+ <unitdate>December 1981, November-December
+ 1982</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">15.2</container> 
+ <unittitle> Publicity. Close, Goldsen, 
+ <unitdate>1982-1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">15.3</container> 
+ <unittitle> Publicity. Other than publisher, 
+ <unitdate>December 1981-March 1982</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">15.4</container> 
+ <unittitle> Publicity. Other than publisher, 
+ <unitdate>April-August 1982</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">15.5</container> 
+ <unittitle> Publicity. Other than publisher, 
+ <unitdate>September 1982-Summer 1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">15.6</container> 
+ <unittitle>Slide show ("Love Canal: The Issues and
+ Controversies"). Publicity. 
+ <unitdate>1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">15.7</container> 
+ <unittitle>Slide show. Publicity. 
+ <unitdate>1984-1986</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series4f">VI.F</unitid> 
+ <unittitle>SUNYAB Archives</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">16.1</container> 
+ <unittitle>Correspondence with UB Archives, 
+ <unitdate>1981-1982</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">16.2</container> 
+ <unittitle>Copies of documents donated to UB, by correspondent,
+ A-K</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">16.3</container> 
+ <unittitle>Copies of documents donated to UB, L-N</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">16.4</container> 
+ <unittitle>Copies of documents donated to UB, P-W</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series5">V.</unitid> 
+ <unittitle>Citizens Groups</unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged in three series: 
+ <list> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series5a">V.A. Love Canal Homeowners
+ Association</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series5b">V.B. Citizen's Clearinghouse for Hazardous
+ Wastes, Inc.</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series5c">V.C. Various</ref></item> 
+ </list></p> 
+ </arrangement> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series5a">V.A.</unitid> 
+ <unittitle>Love Canal Homeowners Association</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">16.5</container> 
+ <unittitle>Love Canal Homeowners Association (LCHA)
+ materials</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">16.6</container> 
+ <unittitle>LCHA/Gibbs correspondence, 
+ <unitdate>September 1978-August 6, 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">16.7</container> 
+ <unittitle>LCHA/Gibbs correspondence, 
+ <unitdate>August 10-December 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">17.1</container> 
+ <unittitle> LCHA/Gibbs correspondence, 
+ <unitdate>January-July 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">17.2</container> 
+ <unittitle> LCHA/Gibbs correspondence, 
+ <unitdate>August-December 1980, June-July, November
+ 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">17.3</container> 
+ <unittitle> LCHA/Gibbs and United Way, 
+ <unitdate>1979-1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series5b">V.B.</unitid> 
+ <unittitle>Citizen's Clearinghouse for Hazardous Wastes,
+ Inc.</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">17.4</container> 
+ <unittitle> Citizen's Clearinghouse for Hazardous Wastes, Inc.
+ (CCHN). Constitution and bylaws, articles of incorporation, minutes ( 
+ <unitdate>December 27, 1983 and April 13, 1984</unitdate>),
+ reports, financial statements</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">17.5</container> 
+ <unittitle>CCHW correspondence, 
+ <unitdate>1981-1988</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">17.6</container> 
+ <unittitle>CCHW 
+ <title type="journal">Action Bulletin</title>, no. 1-8, 12, 13,
+ 15, 18, 19, 21 ( 
+ <unitdate>1983-1989</unitdate>)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">17.7</container> 
+ <unittitle>CCHW 
+ <title type="journal">Everyone's Backyard</title> (Quarterly),
+ v. 1-3, 4(2)-5(2), 6(2), 7(2) ( 
+ <unitdate>1982-1989</unitdate>)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">18.1</container> 
+ <unittitle>Manuals. "Experts: A User's Guide" ( 
+ <unitdate>1985</unitdate>) and "Environmental Testing??" ( 
+ <unitdate>undated</unitdate>)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">18.2</container> 
+ <unittitle>CCHW manuals (drafts). "How Important Are Community
+ Organizations and Can Citizens Really Fight Major Corporations and Government?"
+ and untitled (law).</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">18.3</container> 
+ <unittitle>CCHN. Gibbs speech, "Impacts of Environmental
+ Disasters on Communities," 
+ <unitdate>April 13, 1985</unitdate>; press release, 
+ <unitdate>March 1, 1985</unitdate>; catalog of publications and
+ materials; publication, 
+ <title type="book">Love Canal: A Chronology of Events that
+ Shaped a Movement</title>, 
+ <unitdate>1984</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">18.4</container> 
+ <unittitle>CCHN. Health survey questionnaires; internship program
+ information </unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series5c">V.C.</unitid> 
+ <unittitle>Various</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">18.5</container> 
+ <unittitle>Ecumenical Task-Force (ETF). Information and Progress
+ Report, 
+ <unitdate>November 12, 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">18.6</container> 
+ <unittitle>ETF. Reports, 
+ <unitdate>March 20, 1979-August 1, 1980; August 1, 1980-January
+ 31, 1981; June 23, 1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">18.7</container> 
+ <unittitle>Environmental Defense Fund (EDF), guidelines for
+ public participation in Superfund programs, 
+ <unitdate>1982</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">18.8</container> 
+ <unittitle>Other grass roots organizations and environmental
+ newsletters</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series6">VI.</unitid> 
+ <unittitle>Hooker and Chemical Manufacturers Association</unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">19.1</container> 
+ <unittitle>Hooker. Includes Levine notes, correspondence, deed,
+ clippings, Occidental/Hooker financial statements, miscellaneous</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">19.2</container> 
+ <unittitle>Hooker. 
+ <title type="journal">Factline</title>, n. 1-13; "Chemical Fact
+ File"; 
+ <title type="journal">Oxy Today</title>, n. 9 ( 
+ <unitdate>1977</unitdate>)</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">19.3</container> 
+ <unittitle>Hooker. Thomas. 
+ <title type="article">Salt and Water, Power and People</title>, 
+ <unitdate>1955</unitdate>; "The Other Side of Love Canal," 
+ <unitdate>1980</unitdate>; Zeusse, "Love Canal: The Truth Seeps
+ Out," 
+ <unitdate>1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">19.4</container> 
+ <unittitle>Hooker. Urban Development Corporation (UDC) deal, 
+ <unitdate>1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">19.5</container> 
+ <unittitle>Hooker. Sultz report, 
+ <title>1983</title></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">19.6</container> 
+ <unittitle>Chemical Manufacturers Association (CMA), pamphlets and
+ advertisements</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">19.7</container> 
+ <unittitle>CMA, information on dioxin</unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series7">VII.</unitid> 
+ <unittitle>Niagara Falls and William Love</unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">19.8</container> 
+ <unittitle>Niagara Falls census information</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">19.9</container> 
+ <unittitle>Niagara Falls Board of Education materials</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">19.10</container> 
+ <unittitle>Deed for Love Canal land, Hooker to Niagara Falls Board
+ of Education</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">19.11</container> 
+ <unittitle>William Love and a Model City in Lewiston, N.Y. Parry;
+ "William T. Love and the Development of a Model City," 1976; 
+ <title type="book">Description and Plan of the Model City Located
+ at Lewiston, Niagara County, N.Y. Chartered by Special Act of the New York
+ Legislature, Designed to be the Most Perfect City in Existence</title>.
+ Lewiston: The Model Town Co., 1893</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">19.12</container> 
+ <unittitle>Niagara Falls. Levine notes with City Engineers;
+ clipping on gorge history, 
+ <unitdate>1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series8">VIII.</unitid> 
+ <unittitle>Legal Aspects</unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged in three series: 
+ <list> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series8a">VIII.A. Hearings</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series8b">VIII.B. Lawsuits</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series8c">VIII.C. Various</ref></item> 
+ </list></p> 
+ </arrangement> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series8a">VIII.A.</unitid> 
+ <unittitle>Hearings</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">20.1</container> 
+ <unittitle> State. 
+ <unitdate>December 14, 1982</unitdate> (Abrams)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">20.2</container> 
+ <unittitle> State. 
+ <unitdate>February 17, 1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">20.3</container> 
+ <unittitle> State. 
+ <unitdate>September 21, 1983</unitdate> (Axelrod)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">20.4</container> 
+ <unittitle> State and congressional. Residents' testimonies.
+ Gibbs, Hillis, McCoulf, Grenzy, Noak.</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">20.5</container> 
+ <unittitle> Congressional. 
+ <unitdate>October 30, 1978</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">20.6</container> 
+ <unittitle> Congressional. 
+ <unitdate>March-June 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">20.7</container> 
+ <unittitle>Hearings Congressional. 
+ <unitdate>March 21, 1979</unitdate> (Paigen)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">20.8</container> 
+ <unittitle> Congressional, 
+ <unitdate>March 27, 1979</unitdate> (LaFalce)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.1</container> 
+ <unittitle> Congressional. 
+ <unitdate>May 22, 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.2</container> 
+ <unittitle> Congressional, 
+ <unitdate>March 31, 1982</unitdate> (Florio)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.3</container> 
+ <unittitle> Congressional. 
+ <unitdate>August 9, 1982</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.4</container> 
+ <unittitle>Hinchey, Pillittere, et. al. Bill, 
+ <unitdate>May 1983</unitdate></unittitle> 
+ <note> 
+ <p>"Act to amend the environmental conservation law and the
+ general municipal law, in relation to providing for certification of completion
+ of the Love Canal remedial program..."</p> 
+ </note> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.5</container> 
+ <unittitle>LaFalce on Love Canal (press releases,
+ correspondence)</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series8b">VIII.B</unitid> 
+ <unittitle>Lawsuits</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.6</container> 
+ <unittitle>US v. Hooker (four versions, 
+ <unitdate>undated</unitdate>)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.7</container> 
+ <unittitle>US v. Hooker. Hooker counterclaim, 
+ <unitdate>1980</unitdate>; partial decision ( 
+ <unitdate>1994</unitdate>); Levine notes; clippings</unittitle>
+ 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.8</container> 
+ <unittitle>Harry and Lois Gibbs v. City of Niagara Falls, et al.,
+ 
+ <unitdate>October 26, 1978</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.9</container> 
+ <unittitle>Stephen J. Mervak, et al. v. City of Niagara Falls, et
+ al., 
+ <unitdate>1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.10</container> 
+ <unittitle>Residents of Love Canal v. Hooker, 
+ <unitdate>1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series8c">VIII.C.</unitid> 
+ <unittitle>Various</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.11</container> 
+ <unittitle>ETF, CCHW, et al. Motion v. LCARA (Love Canal Area
+ Revitalization Agency)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.12</container> 
+ <unittitle>House Resolutions 1048 and 1049, 
+ <unitdate>January 18, 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">21.13</container> 
+ <unittitle>Executive Law, Section 10 (relocation)</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series9">IX.</unitid> 
+ <unittitle>Government Documents</unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged in three series: 
+ <list> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series9a">IX.A. Various</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series9b">IX.B. United States Environmental Protection
+ Agency</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series9c">IX.C. New York State Department of
+ Health</ref></item> 
+ </list></p> 
+ </arrangement> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series9a">IX.A.</unitid> 
+ <unittitle>Various</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">22.1</container> 
+ <unittitle>NYSDOT. Love Canal Task Force (evacuation and
+ relocation)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">22.2</container> 
+ <unittitle>NYS December 
+ <title type="article">Study and Clean Up Program Update. Love
+ Canal Landfill</title>, no. 1-9, 11, 14, 15, and 
+ <unitdate>January 1995</unitdate> (unnumbered); Hyde Park
+ Landfill, no. 6</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series9b">IX.B.</unitid> 
+ <unittitle>United States Environmental Protection
+ Agency</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">22.3</container> 
+ <unittitle>Costs of Love Canal, EPA, DOT, DOH, HHS,
+ FEMA</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">22.4</container> 
+ <unittitle>EPA. Brochure, "Everybody's Problem: Hazardous Waste,"
+ 
+ <unitdate>1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">22.5</container> 
+ <unittitle>EPA. Materials received 
+ <unitdate>November 1981</unitdate> re decisions made in 
+ <unitdate>Spring 1980</unitdate> -- materials dated 
+ <unitdate>1978-1979</unitdate>; US v. Hooker
+ complaint</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">22.6</container> 
+ <unittitle>EPA. Materials received 
+ <unitdate>November 1981</unitdate> re decisions made in 
+ <unitdate>Spring 1980</unitdate> -- materials dated 
+ <unitdate>March-May 17, 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">22.7</container> 
+ <unittitle>EPA. Materials received 
+ <unitdate>Nov 1981 </unitdate>re decisions made in 
+ <unitdate>Spring 1980</unitdate> -- materials dated 
+ <unitdate>May 19-October 8, 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">22.8</container> 
+ <unittitle>EPA. Materials received by Gibbs, as per FOIA request,
+ 
+ <unitdate>August 1982</unitdate> -- materials dated 
+ <unitdate>February 22, 1980-July 28,
+ 1982</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">22.9</container> 
+ <unittitle>EPA. Cooperative agreement with NYSDEC, 
+ <unitdate>July 1982</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">22.10</container> 
+ <unittitle>EPA. Materials, 
+ <unitdate>July 1982</unitdate> ( 
+ <title type="article">Environmental Monitoring at Love
+ Canal</title>)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">22.11</container> 
+ <unittitle>EPA. Reactions to report. Environmental Monitoring at
+ Love Canal, and congressional action, 
+ <unitdate>1982-1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">23.1</container> 
+ <unittitle>EPA and NYSDOH. Report of Meetings Between Scientists
+ from HEW and EPA, and Paigen and Scientists of NYSDOH Concerning Love Canal," 
+ <unitdate>July 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">23.2</container> 
+ <unittitle>EPA and NYSDOH. Levine correspondence, 
+ <unitdate>January-March 1981</unitdate>; DOH materials dated 
+ <unitdate> November 1979, May-June 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series9c">IX.C.</unitid> 
+ <unittitle>New York State Department of Health</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">23.3</container> 
+ <unittitle> Materials dated 
+ <unitdate>April 25, 1978</unitdate>; 
+ <unitdate> August 2, 1978</unitdate>; 
+ <unitdate> February 8, 1979</unitdate>; 
+ <unitdate> August 13, 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">23.4</container> 
+ <unittitle>Questionnaire (Vianna)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">23.5</container> 
+ <unittitle>Collected Documents, Tabs 1-8 (table of contents, tab
+ 1)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">23.6</container> 
+ <unittitle>Collected Documents, Tabs 9-14 </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">23.7</container> 
+ <unittitle>Collected Documents, Tabs 15-21 </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">23.8</container> 
+ <unittitle>Collected Documents, Tabs 22-24</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">24.1</container> 
+ <unittitle>Collected Documents, Tabs 25-31A</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">24.2</container> 
+ <unittitle>Collected Documents, Tabs 33-36</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">24.3</container> 
+ <unittitle>Collected Documents, Tabs 37-40</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">24.4</container> 
+ <unittitle>Collected Documents, Tabs 41-47</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">24.5</container> 
+ <unittitle>Collected Documents, Tabs 48-66</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series10">X.</unitid> 
+ <unittitle>Research and Reports</unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged in six series: 
+ <list> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series10a">X.A. Center for Disease Control/SUNYAB
+ Proposed Health Study, 1980</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series10b">X.B. Paigen, Beverly</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series10c">X.C. Reports</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series10d">X.D. Papers</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series10e">X.E. Articles</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series10f">X.F. Various</ref></item> 
+ </list></p> 
+ </arrangement> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series10a">X.A.</unitid> 
+ <unittitle>Center for Disease Control/SUNYAB Proposed Health Study,
+ 
+ <unitdate normal="1980"
+ type="inclusive">1980</unitdate></unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">25.1</container> 
+ <unittitle> Materials, 
+ <unitdate>August 20-September 22, 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">25.2</container> 
+ <unittitle> Materials, 
+ <unitdate>October 3-October 23, 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">25.3</container> 
+ <unittitle>Materials, 
+ <unitdate>October 24-November 7, 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">25.4</container> 
+ <unittitle>Materials, 
+ <unitdate>November 11-November 24, 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">25.5</container> 
+ <unittitle>Materials, 
+ <unitdate>December 10, 1980 and February 12,
+ 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">25.6</container> 
+ <unittitle>Budget</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">25.7</container> 
+ <unittitle>Levine notes, clippings</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">25.8</container> 
+ <unittitle>Prospectuses from other institutions to
+ CDC</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series10b">X.B.</unitid> 
+ <unittitle>Paigen, Beverly</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">26.1</container> 
+ <unittitle>"Notebook Prepared for Roswell Park Memorial Institute
+ Board of Visitors," 
+ <unitdate>March 7, 1980</unitdate>, Sections 1-23</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">26.2</container> 
+ <unittitle>"Notebook Prepared for Roswell Appendices
+ 1-5</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">26.3</container> 
+ <unittitle>Studies, 
+ <unitdate>1978-1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">26.4</container> 
+ <unittitle>Studies, 
+ <unitdate>1983-1984</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">26.5</container> 
+ <unittitle>Studies, 
+ <unitdate>1984-1988</unitdate>,undated</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">26.6</container> 
+ <unittitle>Materials, 
+ <unitdate>October 1978-November 1980, July
+ 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">26.7</container> 
+ <unittitle>Nomination for AAAS Award for Scientific Freedom and
+ Responsibility, 
+ <unitdate>1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series10c">X.C.</unitid> 
+ <unittitle>Reports</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">27.1</container> 
+ <unittitle> 
+ <title type="article">Policies and Poisons: The Containment of
+ Long-Term Hazards to Human Health in the Environment and in the
+ Workplace</title>. Science Council of Canada Report No. 28, 
+ <unitdate>October 1977</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">27.2</container> 
+ <unittitle> 
+ <title type="article">Love Canal: Public Health Time Bomb: A
+ Special Report to the Governor and Legislature</title>. NYSDOH, Office of
+ Public Health, 
+ <unitdate>September 1978</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">27.3</container> 
+ <unittitle> Ebert. "Comments on The Love Canal Pollution
+ Abatement Plan", 
+ <unitdate>September 1978</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">27.4</container> 
+ <unittitle> 
+ <title type="chapter">Environmental Quality, the Ninth Annual
+ Report of the Council on Environmental Quality</title>, Chapter 4, "Toxic
+ Substances," 
+ <unitdate>December 1978</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">27.5</container> 
+ <unittitle> 
+ <title type="article">Draft Report on Hazardous Waste Disposal
+ in Erie And Niagara Counties, New York</title>. Interagency Task Force on
+ Hazardous Wastes, 
+ <unitdate>March 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">27.6</container> 
+ <unittitle> 
+ <title type="article">Toxic Substances in New York's
+ Environment: an Interim Report</title>. NYSDEC and NYSDOH, 
+ <unitdate>May 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">27.7</container> 
+ <unittitle> 
+ <title type="article">Long-Term Hazards of Polychlorinated
+ Dibenzodioxins and Polychlorinated Dibenzofurans</title>. IARC Internal
+ Technical Report No. 78/001, 
+ <unitdate>June 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">27.8</container> 
+ <unittitle> 
+ <title type="article">Industrial Hazardous Waste Generation in
+ New York State: an Inventory</title>. NYSDEC, 
+ <unitdate>June 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">27.9</container> 
+ <unittitle> 
+ <title type="article">Hearings on: Inactive Hazardous Waste
+ Disposal Sites and the Report of the Interagency Task Force on Hazardous
+ Wastes</title>. Interagency Task Force on Hazardous Wastes, NYSDEC, 
+ <unitdate>October 1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">27.10</container> 
+ <unittitle> Barron. "Report of Pilot Project: Nerve Conduction
+ Determinations at Love Canal," 
+ <unitdate>January 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">27.11</container> 
+ <unittitle> 
+ <title type="article">Report of the Subcommittee on the
+ Potential Health Effects of Toxic Chemical Dumps of the DHEW Committee to
+ Coordinate Environmental and Related Programs</title>. HEW, 
+ <unitdate>February 1, 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">28.1</container> 
+ <unittitle> Thomas Report, 
+ <title type="article">Report of the Governor's Panel to Review
+ Scientific Studies and the Development of Public Policy on Problems Resulting
+ From Hazardous Wastes</title>, 
+ <unitdate>June 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">28.2-28.3</container> 
+ <unittitle> Thomas Report. Dowling. "Materials distributed to the
+ Thomas Panel on 
+ <unitdate>June 6, 1980</unitdate>."</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">28.4</container> 
+ <unittitle> Thomas Report. Copy of executive order, 
+ <unitdate>June 4, 1980</unitdate>; lists of Sloan-Kettering
+ Board members, Thomas Panel members; attendance record of Thomas Panel
+ members</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">28.5</container> 
+ <unittitle> Thomas Report. Correspondence. 
+ <unitdate> July 1978-June 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">28.6</container> 
+ <unittitle> Thomas Report. Correspondence. FOIA requests, with
+ information on FOIA, health laws, and public officers laws</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">28.7</container> 
+ <unittitle> Thomas Report. Correspondence. National Academy of
+ Science</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">28.8</container> 
+ <unittitle> Thomas Report. Correspondence. 
+ <title type="article">Science</title></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">28.9</container> 
+ <unittitle> Thomas Report. Articles by/about Thomas</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">28.10</container> 
+ <unittitle> Thomas Report. Articles</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">29.1</container> 
+ <unittitle> Bartosiewicz. 
+ <title type="article">609...and counting: Hazardous Wastes and
+ the Public's Health in New York State</title>, 
+ <unitdate>Spring 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">29.2</container> 
+ <unittitle> Vianna. 
+ <title type="article">Adverse Pregnancy Outcomes in the Love
+ Canal Area</title>. NYSDOH, 
+ <unitdate>April 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">29.3</container> 
+ <unittitle> Reviews of 
+ <title type="article">Pilot Cytogenetic Study on Residents of
+ Love Canal</title>, 
+ <unitdate>May 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">29.4</container> 
+ <unittitle> Hinchey Report, 
+ <title type="article">Preliminary Report of New York State
+ Assembly Task Force on Toxic Substances: Inquiry into the Love Canal and
+ Related Matters</title>, 
+ <unitdate>May 29, 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">29.5</container> 
+ <unittitle> 
+ <title type="article">The Remedial Construction Project at Love
+ Canal, Niagara Falls, New York: Findings and Comments</title>. Clement
+ Associates for NYSDOT, 
+ <unitdate>August 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">29.6</container> 
+ <unittitle> "..Assessment of the Threat to Public Health Posed by
+ Toxic Chemicals in the United States," Surgeon General/HHS to US Senate, 
+ <unitdate>September 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">29.7</container> 
+ <unittitle> 
+ <title type="article">Organic Chemicals and Drinking
+ Water</title>. NYSDOH, 
+ <unitdate>1980</unitdate>?</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">29.8</container> 
+ <unittitle> Shaw and Milbrath. 
+ <title type="article">Final Report on a Study of Citizen
+ Participation in Governmental Decision Making with Respect to the Toxic Waste
+ Threat at Love Canal, Niagara Falls, New York</title>. EPA, 
+ <unitdate>January 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">29.9</container> 
+ <unittitle> 
+ <title type="article">Cancer Mortality Trends,
+ 1950-1975</title>. New Jersey DEP, 
+ <unitdate>March 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">29.10</container> 
+ <unittitle> 
+ <title type="article"> Love Canal</title>. A Special Report to
+ the Governor and Legislature. NYSDOH, Office of Public Health, 
+ <unitdate>April 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">30.1</container> 
+ <unittitle> 
+ <title type="article">Hazardous Waste Facilities with Interim
+ Status May Be Endangering Public Health and the Environment</title>.
+ Comptroller General, GAO, 
+ <unitdate>September 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">30.2</container> 
+ <unittitle> 
+ <title type="article">Health Effects of "Agent Orange" and
+ Polychlorinated Dioxin Contaminants</title>. AMA, 
+ <unitdate>October 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">30.3</container> 
+ <unittitle> 
+ <title type="article">Overview of Environmental Pollution in
+ the Niagara Frontier, New York</title>. EPA, 
+ <unitdate>March 1982</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">30.4</container> 
+ <unittitle> 
+ <title type="article">Environmental Monitoring at Love
+ Canal</title>. EPA, 
+ <unitdate>May 1982</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">30.5</container> 
+ <unittitle> 
+ <title type="article">Love Canal: The Social Construction of a
+ Disaster</title>. FEMA, 
+ <unitdate>October 1982</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">30.6</container> 
+ <unittitle> 
+ <title type="article">A Study of Cytogenetic Patterns in
+ Persons Living Near the Love Canal</title>. CDC et al., 
+ <unitdate>May 1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">30.7</container> 
+ <unittitle> Health. "Assessment of Health Risks at Love Canal."
+ CDC, 
+ <unitdate> May 1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">30.8</container> 
+ <unittitle> 
+ <title type="article">Siting of Hazardous Waste Landfills and
+ Their Correlation with Racial and Economic Status of Surrounding
+ Communities</title>. GAO, 
+ <unitdate>June 1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.1</container> 
+ <unittitle> 
+ <title type="article">Habitability of the Love Canal Area: An
+ Analysis of the Technical Basis for the Decision on the Habitability of the
+ Emergency Declaration Area</title>. OTA, 
+ <unitdate>June 1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.2</container> 
+ <unittitle> 
+ <title type="article">National Survey of Hazardous Waste
+ Generators and Treatment, Storage, and Disposal Facilities Regulated under RCRA
+ in 1981: Preliminary Highlights of Findings</title>. EPA, 
+ <unitdate>August 1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series10d">X.D.</unitid> 
+ <unittitle>Papers</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.3</container> 
+ <unittitle>Farrell. "Phases of Group Development." 
+ <unitdate>March 1979</unitdate>, Rice University</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.4</container> 
+ <unittitle>Fisher. "Insurance Program for the Toxic Waste Dump
+ Problem," 
+ <unitdate>1979</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.5</container> 
+ <unittitle>Cornwell. "Organizations in a Disaster Setting: an
+ Adversarial Model," 
+ <unitdate>July 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.6</container> 
+ <unittitle>Masters. "Life Stage Responses to Environmental
+ Crisis: the Case of the Love Canal, Niagara Falls, New York," 
+ <unitdate>August 20, 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.7</container> 
+ <unittitle>Nazario. "Disaster Perpetrated by Man: A Call for
+ Research Methodology for Investigation of Potential Effects of Toxic Waste
+ Sites,: 
+ <unitdate>November 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.8</container> 
+ <unittitle>Lester. "The Problems of Cleaning Up Uncontrolled
+ Hazardous Waste Sites," 
+ <unitdate>Jan 3-8, 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.9</container> 
+ <unittitle>Walsh. "A Micromobilization Process in a
+ Non-Metropolitan Community: Middletown (Pa.) in the Wake of the TMI Accident," 
+ <unitdate>February 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.10</container> 
+ <unittitle>Essays from the 11th Annual ATLA Environmental Law
+ Essay Contest, 
+ <unitdate>1981</unitdate>. Topic: "Love Canal et al.: The
+ Federal Government's Rights, Responsibilities, and Liability for the Damage
+ from Chemical Dumps."</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.11</container> 
+ <unittitle>Beeson. "Criminal Enforcement at the EPA: a Review of
+ the Past Year." 
+ <unitdate>November 1983</unitdate>, American Society of
+ Criminology.</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.12</container> 
+ <unittitle>Auerbach. "Sociology of 
+ <title type="article">Science</title>,"undated</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.13</container> 
+ <unittitle>Holt. "A Selective Review of Research on Health
+ Effects of the Accident at Three Mile Island,"undated</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series10e">X.E.</unitid> 
+ <unittitle>Articles</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">31.14</container> 
+ <unittitle>General sociology</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">32.1</container> 
+ <unittitle>Medical sociology, environmental health</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">32.2</container> 
+ <unittitle>Sociology of science</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">32.3</container> 
+ <unittitle>Science and ethics</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">32.4</container> 
+ <unittitle>Whistle-blowing</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">32.5</container> 
+ <unittitle>Science and politics, science and the law</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">32.6</container> 
+ <unittitle>Science and politics. "Science Court"</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">32.7</container> 
+ <unittitle>Science and politics. "Science Court," materials and
+ correspondence</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">32.8</container> 
+ <unittitle>Science and politics. "Science Court," Paigen-Havender
+ Court, 
+ <unitdate>1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">32.9</container> 
+ <unittitle>Science and politics. Picciano- 
+ <title type="journal">Science</title> suit
+ correspondence</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">32.10</container> 
+ <unittitle>Science and politics. Materials on suing 
+ <title type="journal">Science</title></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">32.11</container> 
+ <unittitle>Risk assessment</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.1</container> 
+ <unittitle>Regulation and legislation</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.2</container> 
+ <unittitle>Environmental pollution</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.3</container> 
+ <unittitle>Toxic waste</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.4</container> 
+ <unittitle>Materials compiled on hazardous wastes and community
+ environmental health services</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.5</container> 
+ <unittitle>Genetics and birth defects </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.6</container> 
+ <unittitle>Cancer and carcinogens</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.7</container> 
+ <unittitle>Dioxin</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.8</container> 
+ <unittitle>Articles, Chemical testing</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.9</container> 
+ <unittitle>Love Canal, Gibbs</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.10</container> 
+ <unittitle>Paigen </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.11</container> 
+ <unittitle>Miscellaneous</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series10f">X.F.</unitid> 
+ <unittitle>Various</unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.12</container> 
+ <unittitle>Transcript. "Donahue," 
+ <unitdate>June 20, 1980</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.13</container> 
+ <unittitle>Transcript. "Nightline," 
+ <unitdate>May 21, 1981</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.14</container> 
+ <unittitle>Bibliographies. Abortion</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.15</container> 
+ <unittitle>Bibliographies. Environmental movement</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.16</container> 
+ <unittitle>Bibliographies. Love Canal ( 
+ <unitdate>1979</unitdate>)</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">33.17</container> 
+ <unittitle>Lists of publications. OSHA, 
+ <unitdate>June 1972</unitdate>; OTA, 
+ <unitdate>March 1983</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series11">XI.</unitid> 
+ <unittitle>Photographs, negatives, and slides</unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">34.1</container> 
+ <unittitle>Photographs, 
+ <unitdate>September 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">34.2</container> 
+ <unittitle>Photographs, 
+ <unitdate>October 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">34.3</container> 
+ <unittitle>Photographs, 
+ <unitdate>December 1978-1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">34.4</container> 
+ <unittitle>Photographs, 
+ <unitdate>1980-1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">34.5</container> 
+ <unittitle>Photographs, 
+ <unitdate>1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">34.6</container> 
+ <unittitle>Photographs, 
+ <unitdate>1988-1989</unitdate> and 
+ <unitdate>undated</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">34.7</container> 
+ <unittitle>Negatives</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">34.8</container> 
+ <unittitle>Slides. "Love Canal: The Issues and
+ Controversies"</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">34.9</container> 
+ <unittitle>Slides. "Primary set"</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">35.1</container> 
+ <unittitle>Slides. "1-140"</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">35.2</container> 
+ <unittitle>Slides. "Love Canal A-V she, with word
+ slides"</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">35.3</container> 
+ <unittitle>Slides. "Duplicates"</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">35.4</container> 
+ <unittitle>Slides. Miscellaneous</unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series12">XII.</unitid> 
+ <unittitle>Newspaper Clippings</unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.1</container> 
+ <unittitle> 
+ <unitdate>undated</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.2</container> 
+ <unittitle> 
+ <unitdate>January 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.3</container> 
+ <unittitle> 
+ <unitdate>August 1-3, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.4</container> 
+ <unittitle> 
+ <unitdate>August 4, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.5</container> 
+ <unittitle> 
+ <unitdate>August 5-6, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.6</container> 
+ <unittitle> 
+ <unitdate>August 7-9, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.7</container> 
+ <unittitle> 
+ <unitdate>August 10-11, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.8</container> 
+ <unittitle> 
+ <unitdate>August 12-13, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.9</container> 
+ <unittitle> 
+ <unitdate>August 14-16, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.10</container> 
+ <unittitle> 
+ <unitdate>August 17-19, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.11</container> 
+ <unittitle> 
+ <unitdate>August 20-22, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.12</container> 
+ <unittitle> 
+ <unitdate>August 23-26, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.13</container> 
+ <unittitle> 
+ <unitdate>August 27-29, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.14</container> 
+ <unittitle> 
+ <unitdate>August 30-31, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.15</container> 
+ <unittitle> 
+ <unitdate>September 1-4, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.16</container> 
+ <unittitle> 
+ <unitdate>September 5-9, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.17</container> 
+ <unittitle> 
+ <unitdate>September 10-12, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.18</container> 
+ <unittitle> 
+ <unitdate>September 13-16, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.19</container> 
+ <unittitle> 
+ <unitdate>September 17-20, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.20</container> 
+ <unittitle> 
+ <unitdate> September 21-25, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.21</container> 
+ <unittitle> 
+ <unitdate>September 26-30, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.22</container> 
+ <unittitle> 
+ <unitdate>October 1-4, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.23</container> 
+ <unittitle> 
+ <unitdate>October 5-11, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.24</container> 
+ <unittitle> 
+ <unitdate>October 12-17, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.25</container> 
+ <unittitle> 
+ <unitdate>October 18-20, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.26</container> 
+ <unittitle> 
+ <unitdate>October 21-25, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.27</container> 
+ <unittitle> 
+ <unitdate>October 26-29, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.28</container> 
+ <unittitle> 
+ <unitdate>October 30-31, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.29</container> 
+ <unittitle> 
+ <unitdate>November 1-15, 1978 </unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">36.30</container> 
+ <unittitle> 
+ <unitdate>November 16-30, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.1</container> 
+ <unittitle> 
+ <unitdate>December 1-8, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.2</container> 
+ <unittitle> 
+ <unitdate>December 9-15, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.3</container> 
+ <unittitle> 
+ <unitdate>December 16-26, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.4</container> 
+ <unittitle> 
+ <unitdate>December 27-31, 1978</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.5</container> 
+ <unittitle> 
+ <unitdate>January 1-18, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.6</container> 
+ <unittitle> 
+ <unitdate>January 29-31, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.7</container> 
+ <unittitle> 
+ <unitdate>February 1-10, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.8</container> 
+ <unittitle> 
+ <unitdate>February 11-19, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.9</container> 
+ <unittitle> 
+ <unitdate>February 20-28, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.10</container> 
+ <unittitle> 
+ <unitdate>March 1-13, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.11</container> 
+ <unittitle> 
+ <unitdate>March 14-21, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.12</container> 
+ <unittitle> 
+ <unitdate>March 22-27, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.13</container> 
+ <unittitle> 
+ <unitdate>March 28-32, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.14</container> 
+ <unittitle> 
+ <unitdate>April 1-7, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.15</container> 
+ <unittitle> 
+ <unitdate>April 8-11, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.16</container> 
+ <unittitle> 
+ <unitdate>April 12-27, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.17</container> 
+ <unittitle> 
+ <unitdate>April 18-24, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.18</container> 
+ <unittitle> 
+ <unitdate>April 25-30, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.19</container> 
+ <unittitle> 
+ <unitdate>May 1-9, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">37.20</container> 
+ <unittitle> 
+ <unitdate>May 10-29, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.1</container> 
+ <unittitle> 
+ <unitdate>May 20-31, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.2</container> 
+ <unittitle> 
+ <unitdate>June 1-17, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.3</container> 
+ <unittitle> 
+ <unitdate>June 18-29, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.4</container> 
+ <unittitle> 
+ <unitdate>July 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.5</container> 
+ <unittitle> 
+ <unitdate>August 1-21, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.6</container> 
+ <unittitle> 
+ <unitdate>August 22-31, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.7</container> 
+ <unittitle> 
+ <unitdate>September 1-9, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.8</container> 
+ <unittitle> 
+ <unitdate>September 10-17, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.9</container> 
+ <unittitle> 
+ <unitdate>September 18-30, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.10</container> 
+ <unittitle> 
+ <unitdate>October 1-24, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.11</container> 
+ <unittitle> 
+ <unitdate>October 15-19, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.12</container> 
+ <unittitle> 
+ <unitdate>October 20-31, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.13</container> 
+ <unittitle> 
+ <unitdate>November 1-8, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.14</container> 
+ <unittitle> 
+ <unitdate>November 9-18, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.15</container> 
+ <unittitle> 
+ <unitdate>November 19-30, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.16</container> 
+ <unittitle> 
+ <unitdate>December 1-10, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.17</container> 
+ <unittitle> 
+ <unitdate>December 11-18, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">38.18</container> 
+ <unittitle> 
+ <unitdate>December 19-31, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.1</container> 
+ <unittitle> 
+ <unitdate>January 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.2</container> 
+ <unittitle> 
+ <unitdate>February 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.3</container> 
+ <unittitle> 
+ <unitdate>March 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.5</container> 
+ <unittitle> 
+ <unitdate>April 7-12, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.6</container> 
+ <unittitle> 
+ <unitdate>April 13-18, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.7</container> 
+ <unittitle> 
+ <unitdate>April 19-22, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.8</container> 
+ <unittitle> 
+ <unitdate>April 23-27, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.9</container> 
+ <unittitle> 
+ <unitdate> April 28-30, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.10</container> 
+ <unittitle> 
+ <unitdate>May 1-15, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.11</container> 
+ <unittitle> 
+ <unitdate>May 16, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.12</container> 
+ <unittitle> 
+ <unitdate>May 18, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.13</container> 
+ <unittitle> 
+ <unitdate>May 19, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.14</container> 
+ <unittitle> 
+ <unitdate>May 20, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.15</container> 
+ <unittitle> 
+ <unitdate>May 21, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.16</container> 
+ <unittitle> 
+ <unitdate>May 22, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.17</container> 
+ <unittitle> 
+ <unitdate>May 23-24, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.18</container> 
+ <unittitle> 
+ <unitdate>May 25, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.19</container> 
+ <unittitle> 
+ <unitdate>May 26-28, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.20</container> 
+ <unittitle> 
+ <unitdate>May 29-31, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.21</container> 
+ <unittitle> 
+ <unitdate>June 1, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.22</container> 
+ <unittitle> 
+ <unitdate>June 2-4, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.23</container> 
+ <unittitle> 
+ <unitdate>June 5-6, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.24</container> 
+ <unittitle> 
+ <unitdate>June 7, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.25</container> 
+ <unittitle> 
+ <unitdate>June 8, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.26</container> 
+ <unittitle> 
+ <unitdate>June 9-11, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.27</container> 
+ <unittitle> 
+ <unitdate>June 12-14, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.28</container> 
+ <unittitle> 
+ <unitdate>June 15-16, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.29</container> 
+ <unittitle> 
+ <unitdate>June 17-18, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">39.30</container> 
+ <unittitle> 
+ <unitdate>June 19-20, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.1</container> 
+ <unittitle> 
+ <unitdate>June 21-22, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.2</container> 
+ <unittitle> 
+ <unitdate>June 23-24, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.3</container> 
+ <unittitle> 
+ <unitdate> June 25-27, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.4</container> 
+ <unittitle> 
+ <unitdate>June 28-30, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.5</container> 
+ <unittitle> 
+ <unitdate>July 1-6, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.6</container> 
+ <unittitle> 
+ <unitdate>July 7-16, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.7</container> 
+ <unittitle> 
+ <unitdate>July 17-20, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.8</container> 
+ <unittitle> 
+ <unitdate>July 22-27, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.9</container> 
+ <unittitle> 
+ <unitdate>July 28-31, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.10</container> 
+ <unittitle> 
+ <unitdate>August l, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.11</container> 
+ <unittitle> 
+ <unitdate>August 2, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.12</container> 
+ <unittitle> 
+ <unitdate> August 3, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.13</container> 
+ <unittitle> 
+ <unitdate>August 4, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.14</container> 
+ <unittitle> 
+ <unitdate>August 5-6, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.15</container> 
+ <unittitle> 
+ <unitdate>August 7-9, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.16</container> 
+ <unittitle> 
+ <unitdate>August 10-22, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.17</container> 
+ <unittitle> 
+ <unitdate>August 13-16, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.18</container> 
+ <unittitle> 
+ <unitdate>August 17-22, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.19</container> 
+ <unittitle> 
+ <unitdate>August 23-25, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.20</container> 
+ <unittitle> 
+ <unitdate>August 26-31, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.21</container> 
+ <unittitle> 
+ <unitdate>September 2-11, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.22</container> 
+ <unittitle> 
+ <unitdate>September 12-19, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.23</container> 
+ <unittitle> 
+ <unitdate>September 20-30, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.24</container> 
+ <unittitle> 
+ <unitdate>October 1-9, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.25</container> 
+ <unittitle> 
+ <unitdate>October 10-19, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.26</container> 
+ <unittitle> 
+ <unitdate>October 20-31, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.27</container> 
+ <unittitle> 
+ <unitdate>November 1-16, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">40.28</container> 
+ <unittitle> 
+ <unitdate>November 17-30, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.1</container> 
+ <unittitle> 
+ <unitdate>December 1-10, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.2</container> 
+ <unittitle> 
+ <unitdate>December 11-31, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.3</container> 
+ <unittitle> 
+ <unitdate>January 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.4</container> 
+ <unittitle> 
+ <unitdate>February 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.5</container> 
+ <unittitle> 
+ <unitdate>May 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.6</container> 
+ <unittitle> 
+ <unitdate>April 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.7</container> 
+ <unittitle> 
+ <unitdate>May 2-26, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.8</container> 
+ <unittitle> 
+ <unitdate>May 27-31, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.9</container> 
+ <unittitle> 
+ <unitdate>June 1-14, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.10</container> 
+ <unittitle> 
+ <unitdate>June 15-30, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.11</container> 
+ <unittitle> 
+ <unitdate>July 1-8, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.12</container> 
+ <unittitle> 
+ <unitdate>July 9-31, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.13</container> 
+ <unittitle> 
+ <unitdate>August 1-9, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.14</container> 
+ <unittitle> 
+ <unitdate>August 10-31, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.15</container> 
+ <unittitle> 
+ <unitdate>September 1-9, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.16</container> 
+ <unittitle> 
+ <unitdate> September 10-30, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.17</container> 
+ <unittitle> 
+ <unitdate>October 1-14, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.18</container> 
+ <unittitle> 
+ <unitdate>October 15-31, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.19</container> 
+ <unittitle> 
+ <unitdate>November 1-19, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.20</container> 
+ <unittitle> 
+ <unitdate>November 20-30, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.21</container> 
+ <unittitle> 
+ <unitdate>December 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.22</container> 
+ <unittitle> 
+ <unitdate>January 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.23</container> 
+ <unittitle> 
+ <unitdate>February 1-16, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.24</container> 
+ <unittitle> 
+ <unitdate>February 17-28, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.25</container> 
+ <unittitle> 
+ <unitdate>March 1-17, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">41.26</container> 
+ <unittitle> 
+ <unitdate>March 18-31, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.1</container> 
+ <unittitle> 
+ <unitdate>April 1-14, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.2</container> 
+ <unittitle> 
+ <unitdate>April 15-30, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.3</container> 
+ <unittitle> 
+ <unitdate>May 1-14, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.4</container> 
+ <unittitle> 
+ <unitdate>May 15-31, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.5</container> 
+ <unittitle> 
+ <unitdate>June 1-17, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.6</container> 
+ <unittitle> 
+ <unitdate>June 18-30, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.7</container> 
+ <unittitle> 
+ <unitdate>July 1-13, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.8</container> 
+ <unittitle> 
+ <unitdate>July 14-15, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.9</container> 
+ <unittitle> 
+ <unitdate>July 16-31, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.10</container> 
+ <unittitle> 
+ <unitdate>August 1-14, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.11</container> 
+ <unittitle> 
+ <unitdate>August 15-31, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.12</container> 
+ <unittitle> 
+ <unitdate>September 1-5, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.13</container> 
+ <unittitle> 
+ <unitdate>September 6-30, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.14</container> 
+ <unittitle> 
+ <unitdate>October 1-14, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.15</container> 
+ <unittitle> 
+ <unitdate>October 15-31, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.16</container> 
+ <unittitle> 
+ <unitdate>November 1-20, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.17</container> 
+ <unittitle> 
+ <unitdate>November 21-30, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.18</container> 
+ <unittitle> 
+ <unitdate>December 1-4, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.19</container> 
+ <unittitle> 
+ <unitdate>December 5-8, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.20</container> 
+ <unittitle> 
+ <unitdate>December 9-11, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.21</container> 
+ <unittitle> 
+ <unitdate>December 12-15, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.22</container> 
+ <unittitle> 
+ <unitdate>December 16-18, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.23</container> 
+ <unittitle> 
+ <unitdate>December 20-22, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.24</container> 
+ <unittitle> 
+ <unitdate>December 23-26, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">42.25</container> 
+ <unittitle> 
+ <unitdate>December 27-31, 1982</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.1</container> 
+ <unittitle> 
+ <unitdate>January 1-6, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.2</container> 
+ <unittitle> 
+ <unitdate>January 7-9, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.3</container> 
+ <unittitle> 
+ <unitdate>January 10-12, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.4</container> 
+ <unittitle> 
+ <unitdate>January 13-23, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.5</container> 
+ <unittitle> 
+ <unitdate>January 24-31, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.6</container> 
+ <unittitle> 
+ <unitdate>February 1-9, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.7</container> 
+ <unittitle> 
+ <unitdate>February 10-13, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.8</container> 
+ <unittitle> 
+ <unitdate>February 14-17, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.9</container> 
+ <unittitle> 
+ <unitdate>February 18-20, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.10</container> 
+ <unittitle> 
+ <unitdate>February 21-23, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.11</container> 
+ <unittitle> 
+ <unitdate>February 24-25, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.12</container> 
+ <unittitle> 
+ <unitdate>February 26-28, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.13</container> 
+ <unittitle> 
+ <unitdate>March l-10, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.14</container> 
+ <unittitle> 
+ <unitdate>March 11-19, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.15</container> 
+ <unittitle> 
+ <unitdate>March 20-30, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.16</container> 
+ <unittitle> 
+ <unitdate>April 1-18, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.17</container> 
+ <unittitle> 
+ <unitdate>April 17-22, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">43.18</container> 
+ <unittitle> 
+ <unitdate>April 22-31, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.1</container> 
+ <unittitle> 
+ <unitdate>May 1-15, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.2</container> 
+ <unittitle> 
+ <unitdate>May 26-32, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.3</container> 
+ <unittitle> 
+ <unitdate>June 1-8, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.4</container> 
+ <unittitle> 
+ <unitdate>June 9-21, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.5</container> 
+ <unittitle> 
+ <unitdate>June 22-30, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.6</container> 
+ <unittitle> 
+ <unitdate>July 1-10, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.7</container> 
+ <unittitle> 
+ <unitdate>July 11-31, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.8</container> 
+ <unittitle> 
+ <unitdate>August 2-18, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.9</container> 
+ <unittitle> 
+ <unitdate>August 20-31, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.10</container> 
+ <unittitle> 
+ <unitdate>September 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.11</container> 
+ <unittitle> 
+ <unitdate> October 1-14, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.12</container> 
+ <unittitle> 
+ <unitdate>October 16-32, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.13</container> 
+ <unittitle> 
+ <unitdate>November 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.14</container> 
+ <unittitle> 
+ <unitdate>December 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.15</container> 
+ <unittitle> 
+ <unitdate>January 1-18, 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.16</container> 
+ <unittitle> 
+ <unitdate> January 17-31, 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.17</container> 
+ <unittitle> 
+ <unitdate>February 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.18</container> 
+ <unittitle> 
+ <unitdate>March 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.19</container> 
+ <unittitle> 
+ <unitdate>April 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.20</container> 
+ <unittitle> 
+ <unitdate>May 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">44.21</container> 
+ <unittitle> 
+ <unitdate>June 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.1</container> 
+ <unittitle> 
+ <unitdate>July 1-20, 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.2</container> 
+ <unittitle> 
+ <unitdate>July 21-31, 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.3</container> 
+ <unittitle> 
+ <unitdate>August 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.4</container> 
+ <unittitle> 
+ <unitdate>September 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.5</container> 
+ <unittitle> 
+ <unitdate>October 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.6</container> 
+ <unittitle> 
+ <unitdate>November 1-18, 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.7</container> 
+ <unittitle> 
+ <unitdate>November 19-30, 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.8</container> 
+ <unittitle> 
+ <unitdate>December 1984</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.9</container> 
+ <unittitle> 
+ <unitdate>January 1985</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.10</container> 
+ <unittitle> 
+ <unitdate>February 1985</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.11</container> 
+ <unittitle> 
+ <unitdate>March 1985</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.13</container> 
+ <unittitle> 
+ <unitdate>May 1985</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.14</container> 
+ <unittitle> 
+ <unitdate>June 1985</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.15</container> 
+ <unittitle> 
+ <unitdate>July 1985</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.16</container> 
+ <unittitle> 
+ <unitdate>August 1985</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.17</container> 
+ <unittitle> 
+ <unitdate>September 1985</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.18</container> 
+ <unittitle> 
+ <unitdate> October 1988</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.19</container> 
+ <unittitle> 
+ <unitdate>November-December 1985</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.20</container> 
+ <unittitle> 
+ <unitdate>January-February 1986</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.21</container> 
+ <unittitle> 
+ <unitdate>March-April 1986</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.22</container> 
+ <unittitle> 
+ <unitdate>May-June 1986</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.23</container> 
+ <unittitle> 
+ <unitdate>July-August 1986</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.24</container> 
+ <unittitle> 
+ <unitdate>September-October 1986</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.25</container> 
+ <unittitle> 
+ <unitdate>November-December 1986</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.26</container> 
+ <unittitle> 
+ <unitdate>January-February 1987</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.27</container> 
+ <unittitle> 
+ <unitdate>March-April 1987</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">45.28</container> 
+ <unittitle> 
+ <unitdate>May-June 1987</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder"> 46.1</container> 
+ <unittitle> 
+ <unitdate>July-August 1987</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.2</container> 
+ <unittitle> 
+ <unitdate>September 1987</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.3</container> 
+ <unittitle> 
+ <unitdate>October 1987</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.4</container> 
+ <unittitle> 
+ <unitdate>November 1987</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.5</container> 
+ <unittitle> 
+ <unitdate>December 1987</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.6</container> 
+ <unittitle> 
+ <unitdate> January 1988</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.7</container> 
+ <unittitle> 
+ <unitdate>February-March 1988</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.8</container> 
+ <unittitle> 
+ <unitdate>April-May 1988</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.9</container> 
+ <unittitle> 
+ <unitdate>June-July 1988</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.10</container> 
+ <unittitle> 
+ <unitdate>August 1988</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.11</container> 
+ <unittitle> 
+ <unitdate>September-October 1988</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.12</container> 
+ <unittitle> 
+ <unitdate>November-December 1988</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.13</container> 
+ <unittitle> 
+ <unitdate>January-February 1989</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.14</container> 
+ <unittitle> 
+ <unitdate>March-May 1989</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.15</container> 
+ <unittitle> 
+ <unitdate>June-August 1989</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.16</container> 
+ <unittitle> 
+ <unitdate>September-December 1989</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.17</container> 
+ <unittitle> 
+ <unitdate>January-April 1990</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.18</container> 
+ <unittitle> 
+ <unitdate>May-July 1990</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.19</container> 
+ <unittitle> 
+ <unitdate>August-September 1990</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.20</container> 
+ <unittitle> 
+ <unitdate>October 1990</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.21</container> 
+ <unittitle> 
+ <unitdate>November-December 1990</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.22</container> 
+ <unittitle> 
+ <unitdate>January-February 1991</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.23</container> 
+ <unittitle> 
+ <unitdate>March-April 1991</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.24</container> 
+ <unittitle> 
+ <unitdate>May 1991</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.25</container> 
+ <unittitle> 
+ <unitdate>June-August 1991</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.26</container> 
+ <unittitle> 
+ <unitdate>September-December 1991</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.27</container> 
+ <unittitle> 
+ <unitdate>January-March 1992</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.28</container> 
+ <unittitle> 
+ <unitdate>April-July, December 1992</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.29</container> 
+ <unittitle> 1993</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">46.30</container> 
+ <unittitle> 1994-1995</unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box">47</container> 
+ <unittitle>Newspaper article index, 
+ <unitdate>undated through 1977</unitdate>, 
+ <unitdate>January-July 1978</unitdate>, 
+ <unitdate>August 1978-February 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box">48</container> 
+ <unittitle>Newspaper article index, 
+ <unitdate>March 1979-October 14, 1979</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box">49</container> 
+ <unittitle>Newspaper article index, 
+ <unitdate>October 15, 1979-June 5, 1980</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box">50</container> 
+ <unittitle>Newspaper article index, 
+ <unitdate>June 6, 1980-April 3, 1981</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box">51</container> 
+ <unittitle>Newspaper article index, 
+ <unitdate>May 1981-February 17, 1983</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box">52</container> 
+ <unittitle>Newspaper article index, 
+ <unitdate>February 18, 1983-August 1984</unitdate> </unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box">53</container> 
+ <unittitle>Newspaper article index, 
+ <unitdate>September 1984-1990</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box">54</container> 
+ <unittitle>Newspaper article index, 
+ <unitdate>1991-1995</unitdate>. Levine bibliographic cards
+ </unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series13">XIII.</unitid> 
+ <unittitle>Audio and Video Cassettes</unittitle> 
+ </did> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.1</container> 
+ <unittitle> Lois and Debbie address psych meeting, 
+ <unitdate>November 16, 1978</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.2-55.4</container> 
+ <unittitle> Paigen, 
+ <unitdate>November 26, 1978</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.5-55.6</container> 
+ <unittitle> Judy Keys at seminar, 
+ <unitdate>December 15, 1978</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.7-55.8</container> 
+ <unittitle> Seminar, 
+ <unitdate>January 31: 1979</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.9</container> 
+ <unittitle> Speech, engineers, 
+ <unitdate>May 10, 1979</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.10-55.11</container> 
+ <unittitle> Paigen, 
+ <unitdate>June 18, 1979</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.12-55.13</container> 
+ <unittitle> Gibbs, Lester, Levine re health, United Way, 
+ <unitdate>June 25, 1979</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.14</container> 
+ <unittitle> "Challenge" program, Ch. 7 - Gibbs and Pat Pino, 
+ <unitdate>1979 or 1980</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.15</container> 
+ <unittitle> Psychiatric Grand Rounds - Levine, "A
+ Participant-Observer Study of Love Canal", 
+ <unitdate>October 3, 1980</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.16</container> 
+ <unittitle> SUNYAB, community health, 
+ <unitdate>October 23, 1980 and November 6,
+ 1980</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.17</container> 
+ <unittitle> Nazareth College, confrontation with Doherty, 
+ <unitdate>March 27, 1981</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.18</container> 
+ <unittitle> American University, talk to environmental law group,
+ "Assessing Liability and Damage at Love Canal", 
+ <unitdate>January 28, 1982</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.19</container> 
+ <unittitle> 101 class, 
+ <unitdate>November 11, 1982</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.20</container> 
+ <unittitle> NPR, "All Things Considered", report on St. Louis, 
+ <unitdate>December 7, 1982</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.21</container> 
+ <unittitle> Paigen, presentation to community, 
+ <unitdate>April 29, 1983</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.22</container> 
+ <unittitle>Abrams re Love Canal land use, 
+ <unitdate>1985-1988?</unitdate></unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">55.23-55.24</container> 
+ <unittitle>"Love Canal: The Issues and The Controversies" slide
+ show narration</unittitle> 
+ <physdesc>[audio cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">56.1</container> 
+ <unittitle> "Love Canal", 
+ <unitdate>February 17, 1982</unitdate></unittitle> 
+ <physdesc>[video cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">56.2</container> 
+ <unittitle> ABC-TV, program on toxic waste, acceptable risk, 
+ <unitdate>March 9, 1986</unitdate></unittitle> 
+ <physdesc>[video cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">56.3</container> 
+ <unittitle>"Love Canal", 
+ <unitdate>undated</unitdate></unittitle> 
+ <physdesc>[video cassette]</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">56.4</container> 
+ <unittitle>"In Our Own Backyard: A Videotape by Lynn
+ Corcoran"</unittitle> 
+ <physdesc>[video cassette]</physdesc> 
+ </did> 
+ </c02> 
+ </c01> 
+ </dsc> 
+ <controlaccess> 
+ <head>Search Terms</head> 
+ <note> 
+ <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p> 
+ </note> 
+ <controlaccess> 
+ <head>Contributors</head> 
+ <persname encodinganalog="700" source="lcnaf">Gibbs, Lois Marie</persname> 
+ <persname rules="aacr2" encodinganalog="700">Paigen, Beverly</persname>
+ 
+ <corpname source="lcnaf" encodinganalog="710">Citizen's Clearinghouse for Hazardous Wastes (Arlington, Va.)</corpname> 
+ <corpname source="lcnaf" encodinganalog="710">Center for Health, Environment and Justice (Falls Church, Va.)</corpname> 
+ <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum</corpname> 
+ <corpname source="lcnaf" encodinganalog="710">State University of New York at Buffalo. University Archives</corpname> 
+ </controlaccess> 
+ <controlaccess> 
+ <head>Subject Terms</head> 
+ <subject encodinganalog="650" source="lcsh">Hazardous waste sites--New York (State)--Niagara Falls</subject> 
+ <subject encodinganalog="650" source="lcsh">Environmental health--New York (State)--Niagara Falls</subject> 
+ <corpname encodinganalog="610" source="lcnaf" role="subject">Love Canal Chemical Waste Landfill (Niagara Falls, N.Y.)</corpname> 
+ <corpname source="lcnaf" encodinganalog="610" role="subject">Hooker Chemicals &amp; Plastics Corp</corpname> 
+ </controlaccess> 
+ <controlaccess> 
+ <head>Genre Terms</head> 
+ <genreform source="aat" encodinganalog="655">Audiovisual materials</genreform> 
+ <genreform source="aat" encodinganalog="655">Clippings files</genreform> 
+ <genreform source="aat" encodinganalog="655">Field notes</genreform> 
+ <genreform source="aat" encodinganalog="655">Interviews</genreform> 
+ <genreform source="aat" encodinganalog="655">Photographs</genreform> 
+ </controlaccess> 
+ </controlaccess> 
+ <descgrp type="add"> 
+ <head>Associated Material</head> 
+ <relatedmaterial encodinganalog="544 1"> 
+ <head>Related Resources at the University Archives, The State
+ University of New York at Buffalo</head> 
+ <p> 
+ <list type="simple"> 
+ <item>The University Archives at the State University of New York
+ at Buffalo have the world's largest collection of Love Canal Materials. Their
+ website for the collections 
+ <archref actuate="onrequest" role="text/html" show="new"
+ href="http://library.buffalo.edu/specialcollections/lovecanal/">http://library.buffalo.edu/specialcollections/lovecanal</archref>
+ describe each collection, most have online finding aids. Also included are a
+ glossary of names, organizations, and buildings related to Love Canal;
+ chronologies; newspaper clipping citation database; digital image collection
+ and related links.</item> 
+ <item> 
+ <archref actuate="onrequest" show="new"
+ href="http://purl.org/net/findingaids/view?docId=ead/archives/ubar_1113.xml">
+ 22/3F/0634</archref> Adeline Levine Love Canal Research Materials (Part I),
+ 1953-1981 (1978-1981 bulk) </item> 
+ <item> 
+ <archref actuate="onrequest" show="new"
+ href="http://purl.org/net/findingaids/view?docId=ead/archives/ubar_1113.xml">
+ 22/3F/1113</archref> Adeline Levine Love Canal Research Materials (Part II),
+ 1980-1991 </item> 
+ </list></p> 
+ </relatedmaterial> 
+ </descgrp> 
+ </archdesc> 
+</ead>

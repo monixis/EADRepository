@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+ <eadheader audience="external" countryencoding="iso3166-1"
+ dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"
+ relatedencoding="DC" scriptencoding="iso15924"> 
+ <eadid countrycode="us"
+ publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::B00-15::War of 1812 Papers)//EN"
+ mainagencycode="NBuHi" encodinganalog="identifier">bechs_b00_15</eadid> 
+ <filedesc> 
+ <titlestmt> 
+ <titleproper encodinganalog="title">Finding Aid for the War of 1812
+ Papers, 
+ <date type="inclusive" normal="1810/1953" era="ce"
+ calendar="gregorian" encodinganalog="date">1810-1953</date> 
+ <date type="bulk" normal="1812/1875" era="ce" calendar="gregorian"
+ encodinganalog="date">(bulk 1812-1875)</date> </titleproper> 
+ <titleproper altrender="nodisplay" type="filing">War of 1812
+ Papers</titleproper> 
+ <author encodinganalog="contributor">Finding aid prepared by Peter
+ Nelson.</author> 
+ <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor> 
+ </titlestmt> 
+ <publicationstmt> 
+ <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher> 
+ <address> 
+ <addressline>1 Museum Court</addressline> 
+ <addressline>Buffalo, NY 14216</addressline> 
+ <addressline>Phone: 716-873-9644 ext. 306</addressline> 
+ <addressline>Fax: 716-873-8754</addressline> 
+ <addressline>Email: <emph render="bold"> 
+ <extref actuate="onrequest" show="new"
+ href="mail-to:library@buffalohistory.org">library@buffalohistory.org</extref></emph></addressline>
+ 
+ <addressline>URI: <emph render="bold"> 
+ <extref actuate="onrequest" show="new"
+ href="http://www.buffalohistory.org">http://www.buffalohistory.org</extref></emph></addressline>
+ 
+ </address> 
+ <p>© 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p> 
+ </publicationstmt> 
+ </filedesc> 
+ <profiledesc> 
+ <creation>Finding aid encoded in EAD by Karen Morse, March
+ 2008.</creation> 
+ <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English</language>.
+ </langusage> 
+ <descrules>Finding aid prepared using local best practices. </descrules> 
+ </profiledesc> 
+ </eadheader> 
+ <archdesc level="collection" type="inventory" relatedencoding="MARC21"> 
+ <did> 
+ <head>Collection Overview</head> 
+ <unittitle encodinganalog="245$a" label="Title">War of 1812 Papers, 
+ <unitdate type="inclusive" encodinganalog="245$f" normal="1810/1953"
+ datechar="creation">1810-1953</unitdate> 
+ <unitdate type="bulk" normal="1812/1875" encodinganalog="245$g"
+ datechar="creation">(bulk 1812-1875)</unitdate> </unittitle> 
+ <unitid encodinganalog="099" label="Collection Number"
+ repositorycode="NBuHi" countrycode="US">Mss. B00-15</unitid> 
+ <origination label="Creator"> 
+ <corpname encodinganalog="110" source="lcnaf" role="creator">Buffalo History Museum. <subarea>Research
+ Library</subarea></corpname> </origination> 
+ <physdesc label="Extent"><extent unit="box" encodinganalog="300">2 boxes
+ </extent><extent encodinganalog="300" unit="linear foot"> (1 linear
+ foot)</extent></physdesc> 
+ <langmaterial label="Language of Material"
+ encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language>.
+ </langmaterial> 
+ <repository label="Repository" encodinganalog="852"> 
+ <corpname>Buffalo History Museum.<subarea>Research
+ Library</subarea></corpname> </repository> 
+ <abstract encodinganalog="520" label="Abstract">Papers pertaining to the
+ War of 1812.</abstract> 
+ </did> 
+ <descgrp type="admininfo"> 
+ <head>Administrative Information</head>  
+ <prefercite encodinganalog="524"> 
+ <head>Preferred Citation</head> 
+ <p>[Description and dates], Box/folder number, Mss. B00-15, War of 1812
+ Papers, 1810-1953 (bulk 1812-1875), Research Library, Buffalo History Museum.</p> 
+ </prefercite> 
+ <accessrestrict encodinganalog="506"> 
+ <head>Terms of Access</head> 
+ <p>The War of 1812 Papers are open for research.</p> 
+ </accessrestrict> 
+ <userestrict encodinganalog="540"> 
+ <head>Copyright</head> 
+ <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p> 
+ </userestrict> 
+ </descgrp> 
+ <descgrp type="admininfo"> 
+ <head>Administrative Information</head> 
+ <acqinfo encodinganalog="541"> 
+ <head>Acquisition Information</head> 
+ <p> The manuscripts in this collection were acquired or received by the
+ Buffalo History Museum from many sources between 1865 and
+ 1953. Provenance information for most items has been lost, but whenever
+ possible, items of like provenance have been kept together. The series
+ groupings outlined below reflect subjects or types of documents.</p> 
+ </acqinfo> 
+ <accruals encodinganalog="584"> 
+ <head>Accruals and Additions</head> 
+ <p>No further accruals are expected to this collection.</p> 
+ </accruals> 
+ <processinfo encodinganalog="583"> 
+ <head>Processing Information</head> 
+ <p>Collection reprocessed and retroconverted by Peter Nelson, November
+ 1992.</p> 
+ </processinfo> 
+ </descgrp> 
+ <bioghist encodinganalog="545"> 
+ <head>Historical Note</head> 
+ <p>Located close to the U.S./Canadian border, Buffalo's role in the War
+ of 1812 is historically significant to the Western New York area.</p> 
+ </bioghist> 
+ <scopecontent encodinganalog="520"> 
+ <head>Scope and Content Note</head> 
+ <p>General orders, proclamations, newspaper reports and letters
+ concerning military campaigns, including papers of Maj. John G. Camp;
+ letterbook of Sir Phineas Riall, 1813-1814; minutes and subscription lists,
+ 1814, of the Committee of Safety and Relief at Canandaigua, and other documents
+ of property losses on the Niagara Frontier; rough draft of a treaty arranging
+ for indemnification for slaves and property seized by British forces, 1822;
+ military commissions and papers related to bounty and pension claims of
+ soldiers and their descendants, 1810-1934; an account of Buffalo's role in the
+ War of 1812 by Laila F. Culbertson, 1899; and ms. catalogs, bibliographies, and
+ an inventory of the A. Conger Goodyear War of 1812 collection.</p> 
+ </scopecontent> 
+ <arrangement encodinganalog="351"> 
+ <head>Arrangement</head> 
+ <p>Organized into four series: 
+ <list> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series1">I. Military Campaigns and Treaties, 1812-1925</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series2">II. Losses, Claims and Payments to Niagara Frontier War
+ Victims, 1813-1842</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series3">III. Commission, Bounty and Pension Papers, 1810-1934</ref>
+ </item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series4">IV. Reminiscences, Catalogs and Bibliographies, 1899-circa
+ 1953</ref>.</item> 
+ </list> Chronological arrangement within series.</p> 
+ </arrangement> 
+ <dsc type="combined"> 
+ <head>Container List</head> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series1">I.</unitid> 
+ <unittitle>Military Campaigns and Treaties, 
+ <unitdate normal="1812/1925"
+ type="inclusive">1812-1925</unitdate></unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged chronologically.</p> 
+ </arrangement> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.1</container> 
+ <unittitle>Military activities, 
+ <unitdate>1812-1925</unitdate>, 
+ <unitdate>undated</unitdate> </unittitle> 
+ </did> 
+ <scopecontent> 
+ <p>(Includes letters, lists of provisions, commissions, newspaper
+ articles, and reminiscences on various campaigns in the war) </p> 
+ </scopecontent> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.2</container> 
+ <unittitle> Letters of Sir Phineas Riall, copied by his secretary, 
+ <unitdate>1813-1814</unitdate> </unittitle> 
+ <physdesc>(Bound volume)</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.3</container> 
+ <unittitle>General orders, proclamations, and letters, 
+ <unitdate>1813-1835</unitdate>, 
+ <unitdate>undated</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.4</container> 
+ <unittitle>Major John G. Camp papers (including papers of Jonathan
+ Davis, Robert Haven, Daniel Stanton and Nathan Stoddard), 
+ <unitdate>1811-1912</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.6</container> 
+ <unittitle>Rough draft of treaty arranging for indemnification for
+ slaves and private property stolen by British forces, agreed to by Henry
+ Middleton (Minister Plenipotentiary to Russia) and Sir C. Bagot (British
+ Ambassador to Russia), 
+ <unitdate>1 June 1822</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series2">II.</unitid> 
+ <unittitle>Losses, Claims and Payments to Niagara Frontier War
+ Victims, 
+ <unitdate normal="1813/1842"
+ type="inclusive">1813-1842</unitdate></unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged chronologically.</p> 
+ </arrangement> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.6</container> 
+ <unittitle>War losses, claims and payments (including papers of the
+ Committee of Safety and Relief at Canandaigua), 
+ <unitdate>1814-1842</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.7</container> 
+ <unittitle>Itemized lists of losses of Niagara Frontier war
+ victims, 
+ <unitdate>undated</unitdate></unittitle> 
+ <physdesc>(typed transcripts of originals)</physdesc> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.8</container> 
+ <unittitle> Committee of Safety and Relief at Canandaigua:
+ contribution and subscription lists, 
+ <unitdate>1814</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.9</container> 
+ <unittitle>Committee of Safety and Relief at Canandaigua: minute
+ book, list of sufferers and relief records, 
+ <unitdate>1814</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.10</container> 
+ <unittitle>Manuscripts related to losses on the Niagara Frontier, 
+ <unitdate>1813-1819</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">1.11</container> 
+ <unittitle>Letters describing conditions on the Niagara Frontier, 
+ <unitdate>1814</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series3">III.</unitid> 
+ <unittitle>Commission, Bounty and Pension Papers, 
+ <unitdate normal="1810/1934"
+ type="inclusive">1810-1934</unitdate></unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged chronologically.</p> 
+ </arrangement> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.1</container> 
+ <unittitle>Commission, bounties, pensions, 
+ <unitdate>1810-1934</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series4">IV.</unitid> 
+ <unittitle>Reminiscences, Catalogs and Bibliographies, 
+ <unitdate normal="1899/1953" type="inclusive"
+ certainty="approximate">1899-circa 1953</unitdate></unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged chronologically.</p> 
+ </arrangement> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.2</container> 
+ <unittitle>Läila F. Culbertson, 
+ <title type="article">Buffalo in the War of 1812</title>:
+ reminiscence, read before the Graduates' Association, 
+ <unitdate>10 November 1899</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.3</container> 
+ <unittitle> ALS, Louis Knapp (Buffalo) to Frank H. Severance
+ (Buffalo), re: site of War 1812 mortar found at Massachusetts St. 
+ <unitdate>19 Jan. 1901,</unitdate> </unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.4</container> 
+ <unittitle>William Banker, Jr.: 
+ <title type="article">The Battle of Queenstown</title> (poem); 
+ <title type="article"> Prodigal Daughter; &amp;c.</title>
+ (broadside verses ), 
+ <unitdate>undated</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.5</container> 
+ <unittitle>Catalogs and bibliographies of War of 1812 materials, 
+ <unitdate>circa 1938</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ <c02 level="file"> 
+ <did> 
+ <container type="box-folder">2.6</container> 
+ <unittitle>Catalogs and bibliographies of War of 1812 materials, 
+ <unitdate>circa 1938</unitdate></unittitle> 
+ </did> 
+ </c02> 
+ </c01> 
+ </dsc> 
+ <controlaccess> 
+ <head>Search Terms</head> 
+ <note> 
+ <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p> 
+ </note> 
+ <controlaccess> 
+ <head>Contributors</head> 
+ <persname rules="aacr2" encodinganalog="700">Riall, Phineas, Sir, 1775-1850</persname> 
+ <persname source="lcnaf" encodinganalog="700">Camp, John G.</persname>
+ 
+ <persname encodinganalog="700" rules="aacr2">Culbertson, Laila F. </persname> 
+ <corpname encodinganalog="710" rules="aacr2">Committee of Safety and Relief at Canandaigua (N.Y.)</corpname> 
+ </controlaccess> 
+ <controlaccess> 
+ <head>Subject Terms</head> 
+ <subject source="lcsh" encodinganalog="650">United States--History--War of 1812</subject> 
+ <subject source="lcsh" encodinganalog="650">United States--History--War of 1812--Reparations</subject> 
+ <subject source="lcsh" encodinganalog="650">Military Pensions</subject>
+ 
+ </controlaccess> 
+ <controlaccess> 
+ <head>Genre Terms</head> 
+ <genreform source="aat" encodinganalog="655">Treaties</genreform> 
+ <genreform source="aat" encodinganalog="655">Military commissions</genreform> 
+ <genreform source="aat" encodinganalog="655">Pensions</genreform> 
+ <genreform source="aat" encodinganalog="655">Proclamations</genreform> 
+ <genreform source="aat" encodinganalog="655">Reminiscences</genreform> 
+ </controlaccess> 
+ </controlaccess> 
+ </archdesc> 
+</ead>
