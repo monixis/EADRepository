@@ -45,7 +45,7 @@ Imported into EADitor. Some normalization has occurred to apply EAD 2002 schema 
 <did>
 <repository>
 <corpname>
-M.E. Grenander Department of Special Collections &amp; Archives
+M.E. Grenander Department of Special Collections &amp;amp; Archives
 </corpname>
 </repository>
 <unittitle>Preservation League of New York State Records</unittitle>
@@ -82,7 +82,7 @@ The researcher assumes full responsibility for conforming with the laws of copyr
 <acqinfo id="aspace_6ee604dd55e0e89dac08c90f9786418b">
 <head>Acquisition Information</head>
 <p>
-Michele Patterson, an employee of the Preservation League of New York State, donated the records to the M.E. Grenander Department of Special Collections & Archives in
+Michele Patterson, an employee of the Preservation League of New York State, donated the records to the M.E. Grenander Department of Special Collections &amp; Archives in
 <date normal="2002">2002</date>
 .
 </p>
@@ -161,7 +161,7 @@ Historic buildings--conservation and restoration--New York (State)
 <unittitle>
 <title>
 <emph render="italic">
-Access & Authenticity…Historic Library Buildings Resolving Physical Access & Historic Preservation Issues in Public Library Buildings
+Access &amp; Authenticity…Historic Library Buildings Resolving Physical Access &amp; Historic Preservation Issues in Public Library Buildings
 </emph>
 </title>
 </unittitle>
@@ -564,7 +564,7 @@ New York State Office of Parks, Recreation and Historic Preservation -- Historic
 <c id="aspace_1a5026f88feccc128e4273d8fcaecae7" level="file">
 <did>
 <unittitle>
-Preservation Calendar & Statewide Preservation News
+Preservation Calendar &amp; Statewide Preservation News
 </unittitle>
 <unitdate normal="1988/1992" type="inclusive">1988-1992</unitdate>
 <container id="aspace_c8eb45e2545676f76d55b46deff6e540" label="Mixed Materials" type="box">2 (Preservation League of New York State Records)</container>
