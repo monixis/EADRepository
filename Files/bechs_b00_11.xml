@@ -69,8 +69,7 @@
    </origination>
    <physdesc label="Extent"><extent unit="box" encodinganalog="300">4 boxes</extent>
     <extent encodinganalog="300" unit="linear foot">(2 linear feet)</extent></physdesc>
-   <langmaterial label="Language of Material" encodinganalog="546">Collection material in <language
-     encodinganalog="041" langcode="eng">English</language>.</langmaterial>
+   <langmaterial label="Language of Material" encodinganalog="546">Collection material in <language>English</language>.</langmaterial>
    <repository label="Repository" encodinganalog="852">
     <corpname>Buffalo History Museum. <subarea>Research Library</subarea></corpname>
    </repository>
