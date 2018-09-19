@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "Y:/EAD/commonfiles/eadrules/shared/ead/ead.dtd">
+<ead> 
+ <eadheader audience="external" countryencoding="iso3166-1"
+ dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"
+ relatedencoding="DC" scriptencoding="iso15924"> 
+ <eadid countrycode="us"
+ publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::C68-3:: Richard Z. Goehle Personal Papers and Esenwein &amp; Johnson Records)//EN"
+ mainagencycode="NBuHi" encodinganalog="identifier">bechs_c68_3</eadid> 
+ <filedesc> 
+ <titlestmt> 
+ <titleproper encodinganalog="title">Finding Aid for Richard Z. Goehle
+ Personal Papers and Esenwein and Johnson Records, 
+ <date type="inclusive" normal="1852/1942" encodinganalog="date">
+ 1852-1942</date> 
+ <date normal="1882/1942" type="bulk" encodinganalog="date">(bulk
+ 1882-1942)</date> </titleproper> 
+ <titleproper altrender="nodisplay" type="filing">Goehle (Richard Z.)
+ Personal Papers and Esenwein &amp; Johnson Records</titleproper> 
+ <author encodinganalog="contributor">Finding aid prepared by Peter
+ Nelson.</author> 
+ <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor> 
+ </titlestmt> 
+ <publicationstmt> 
+ <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher> 
+ <address> 
+ <addressline>1 Museum Court</addressline> 
+ <addressline>Buffalo, NY 14216</addressline> 
+ <addressline>Phone: 716-873-9644 ext. 306</addressline> 
+ <addressline>Fax: 716-873-8754</addressline> 
+ <addressline>Email: <emph render="bold"> 
+ <extref actuate="onrequest" show="new"
+ href="mail-to:library@buffalohistory.org">library@buffalohistory.org</extref></emph></addressline>
+ 
+ <addressline>URI: <emph render="bold"> 
+ <extref actuate="onrequest" show="new"
+ href="http://www.buffalohistory.org">http://www.buffalohistory.org</extref></emph></addressline>
+ 
+ </address> 
+ <p>© 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p> 
+ </publicationstmt> 
+ </filedesc> 
+ <profiledesc> 
+ <creation>Finding aid encoded in EAD by Kuniko Simon, March
+ 2008.</creation> 
+ <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English</language>.
+ </langusage> 
+ <descrules>Finding aid prepared using local best practices. </descrules> 
+ </profiledesc> 
+ </eadheader> 
+ <archdesc level="collection" type="inventory" relatedencoding="MARC21"> 
+ <did> 
+ <head>Collection Overview</head> 
+ <unittitle encodinganalog="245$a" label="Title">Richard Z. Goehle
+ Personal Papers and Esenwein &amp; Johnson Records 
+ <unitdate type="inclusive" encodinganalog="245$f"
+ normal="1852/1942">1852-1942</unitdate> 
+ <unitdate type="bulk" encodinganalog="245$g" normal="1882/1942">(bulk
+ 1882-1942)</unitdate> </unittitle> 
+ <unitid encodinganalog="099" label="Collection Number"
+ repositorycode="NBuHi" countrycode="US">Mss. C68-3</unitid> 
+ <origination label="Creator"> 
+ <persname encodinganalog="100" role="creator" rules="aacr2">Goehle,
+ Richard Z. (Richard Zacharias)</persname> </origination> 
+ <physdesc label="Extent"><extent unit="box" encodinganalog="300">17
+ boxes</extent> <extent unit="linear foot" encodinganalog="300">(8.5 linear
+ feet)</extent> </physdesc> 
+ <langmaterial label="Language of Material"
+ encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language> and
+ <language encodinganalog="041" langcode="ger">German</language>.
+ </langmaterial> 
+ <repository label="Repository" encodinganalog="852"> 
+ <corpname>Buffalo History Museum.<subarea>Research
+ Library</subarea></corpname> </repository> 
+ <abstract encodinganalog="520" label="Abstract">The records of personal
+ papers of Richard Z. Goehle and family between 1852-1966, and the architectural
+ firm of Esenwein &amp; Johnson represents the accumulated archives of the firm
+ between 1891 and 1966.</abstract> 
+ </did> 
+ <descgrp type="admininfo"> 
+ <head>Administrative Information</head>  
+ <prefercite encodinganalog="524"> 
+ <head>Preferred Citation</head> 
+ <p>[Description and dates], Box/folder number, Mss. C68-3, Richard Z.
+ Goehle Personal Papers and Esenwein &amp; Johnson Records, 1852-1942 (bulk
+ 1882-1942), Research Library, Buffalo History Museum.</p> 
+ </prefercite> 
+ <accessrestrict encodinganalog="506"> 
+ <head>Terms of Access</head> 
+ <p>The Richard Z. Goehle Personal Papers and Esenwein &amp; Johnson
+ Records, 1852-1942 (bulk 1882-1942), are open for research.</p> 
+ </accessrestrict> 
+ <userestrict encodinganalog="540"> 
+ <head>Copyright</head> 
+ <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p> 
+ </userestrict> 
+ </descgrp> 
+ <descgrp type="admininfo"> 
+ <head>Administrative Information</head> 
+ <acqinfo encodinganalog="541"> 
+ <head>Acquisition Information</head> 
+ <p>Dolce, Joseph S.; unknown; 1968/03/22; 68-765 </p> 
+ </acqinfo> 
+ <accruals encodinganalog="584"> 
+ <head>Accruals and Additions</head> 
+ <p>No further accruals are expected to this collection.</p> 
+ </accruals> 
+ <processinfo encodinganalog="583"> 
+ <head>Processing Information</head> 
+ <p>Collection reprocessed and retroconverted by Peter Nelson, January
+ 1993.</p> 
+ </processinfo> 
+ </descgrp> 
+ <bioghist encodinganalog="545"> 
+ <head>Biographical Note</head> 
+ <p>Richard Z. Goehle was the business manager of the Buffalo
+ architectural firm of Esenwein &amp; Johnson. He was the son of Carl August
+ Goehle (1836-1917), a teacher and musician who emigrated from Germany in the
+ 1850's and settled in Buffalo, where he resided for many years on Genesee
+ Street. The elder Goehle and his wife Augusta had ten children besides Richard.
+ Much family correspondence in Series I/Subseries A contains letters by those
+ family members or references to them. The children of Carl and Augusta are
+ listed below: 
+ <list> 
+ <item>Mrs. John Knuebel (husband of Rev. John Knuebel)</item> 
+ <item>Thelma (Mrs. Henry C. Gram; husband employed by Coca-Cola
+ Company, Cleveland, Ohio)</item> 
+ <item>Hulda (Mrs. Peter Maul; husband was a judge)</item> 
+ <item>Hugo (Cedarburg, Wisconsin)</item> 
+ <item>Alfred (Principal , Buffalo School 15)</item> 
+ <item>Otto (physician, Cleveland, Ohio; wife, Mary after 1941</item> 
+ <item>Richard Z. (Business manager, Esenwein &amp; Johnson)</item> 
+ <item>August E.</item> 
+ <item>Agnes</item> 
+ <item>Hedwig</item> 
+ <item>Emma.</item> 
+ </list></p> 
+ <p>Richard Z. Goehle's personal papers, which make up over half of this
+ collection, indicate that he lived on Main Street in Ebenezer (in the town of
+ West Seneca) and owned property in that area as well as in Canada. Kathleen F.
+ Bell, a secretary at Esenwein &amp; Johnson, became Richard Z. Goehle's wife.
+ </p> 
+ </bioghist> 
+ <bioghist encodinganalog="545"> 
+ <head>Historical Note</head> 
+ <p>Esenwein &amp; Johnson was a Buffalo architectural firm of
+ international repute. It was formed in 1897 with the partnership of August Carl
+ Esenwein (1856-1926) and James Addison Johnson (1865-1939), and had its main
+ offices in the Ellicott Square Building in Buffalo.</p> 
+ <p>Records indicate that the early years of the firm were indeed
+ prosperous, but in the 1930's, after the death of Esenwein and the onset of the
+ depression, commissions and revenues declined. In 1932 Johnson entered into a
+ new partnership with B. Frank Kelly, though the firm continued under the former
+ name of Esenwein &amp; Johnson. Generally, growing debts and unpaid salaries
+ were the rule during the 1930's and early 1940's until June 1942, when records
+ of the firm cease.</p> 
+ <bioghist encodinganalog="545"> 
+ <head>August Carl Esenwein</head> 
+ <p>August Carl Esenwein was born in Wuerttemberg, Germany in 1856 and
+ was educated in architecture and engineering at Stuttgart Polytechnic
+ University, receiving his degree in 1879. After working in Paris as a draftsman
+ for two years, he immigrated to the United States and served an architectural
+ apprenticeship as a draftsman for a Buffalo firm. Subsequently he was employed
+ by the engineering department of the Delaware and Lackawanna Railroad. During
+ that time he entered a design contest for the Music Hall and won first prize;
+ he later supervised construction of that building. Upon leaving the railroad,
+ he worked as an independent architect until November 27, 1897, when he formed
+ the partnership with Johnson.</p> 
+ <p>Esenwein was a member of the board of eight architects for the
+ Pan-American Exposition; he himself designed the Temple of Music (1901). Other
+ notable accomplishments from the firm of Esenwein &amp; Johnson are the Harlow
+ Curtiss mansion on Delaware Avenue (1897, later housing the International
+ Institute); Lafayette High School (1903); the Calumet Building, with its
+ intricate terra cotta ornamentation (1906); the General Electric Tower (1912);
+ later the Niagara Mohawk Building), said to have been inspired by the electric
+ tower at the Pan-American Exposition; the Elephant House at the Buffalo Zoo
+ (1912); and the Buffalo Museum of Science (1929).</p> 
+ </bioghist> 
+ <bioghist encodinganalog="545"> 
+ <head>James A. Johnson</head> 
+ <p>James A. Johnson was an assistant in the firm of McKim, Mead &amp;
+ White before joining Esenwein; his specialty became ornament. Two architectural
+ projects that most Powerfully demonstrate Johnson's skills in that area are the
+ Niagara Mohawk Building (1912), with its unusual external motifs featuring
+ electric motors and generators, said to be precursors of Art Deco
+ ornamentation; and the spectacular marble mosaic floor of the Ellicott Square
+ Building, installed in 1929. (Plans and contracts for the floor can be found in
+ the present collection, box 10, folder 5.)</p> 
+ </bioghist> 
+ </bioghist> 
+ <scopecontent encodinganalog="520"> 
+ <head>Scope and Content Note</head> 
+ <p>Personal correspondence and financial records of Richard Z. Goehle,
+ including bills, receipts, bank records and papers concerning Canadian
+ property; Goehle family papers, including correspondence, notes, and account
+ books of Carl A. Goehle, 1852-1917, and notebooks of Hulda and August Goehle,
+ ca. 1882-1894; and financial records of Camp Acres Poultry Farm (Ebenezer,
+ N.Y.). Also, records of the architectural firm of Esenwein &amp; Johnson,
+ including job contracts, specifications and plans, 1898-1940; records
+ concerning lease of office space in Ellicott Square Building, 1897-1926;
+ partnership with B. Frank Kelly, 1932; and bank records, employee tax records,
+ account books and ledgers, 1910-1942. Includes plan of marble mosaic floor for
+ Ellicott Square Building, designed by James A. Johnson and W.W. Kent, 1930.</p>
+ 
+ </scopecontent> 
+ <arrangement encodinganalog="351"> 
+ <head>Arrangement</head> 
+ <p>This collection is arranged in two series: 
+ <list> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series1">I. Papers of Richard Z. Goehle and Family</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series2">II. Esenwein &amp; Johnson Records</ref>.</item> 
+ </list> Within each series the files are subdivided into subseries.</p>
+ 
+ </arrangement> 
+ <dsc type="combined"> 
+ <head>Container List </head> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series1">I.</unitid> 
+ <unittitle>Papers of Richard Z. Goehle and Family 
+ <unitdate normal="1852/1966"
+ type="inclusive">1852-1966</unitdate></unittitle> 
+ </did> 
+ <arrangement encodinganalog="351"> 
+ <p>Series I is divided into six subseries: 
+ <list> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series1a">I.A. Correspondence</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series1b">I.B. Financial Records</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series1c">I.C. Camp Acres Poultry Farm</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series1d">I.D. Records Concerning Canadian
+ Property</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series1e">I.E. Goehle Family Papers</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series1f">I.F. Photographs, Plans, and Personal
+ papers</ref>.</item> 
+ </list></p> 
+ </arrangement> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series1a">I.A.</unitid> 
+ <unittitle>Correspondence, 
+ <unitdate normal="1894/1966"
+ type="inclusive">1894-1966</unitdate></unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged chronologically</p> 
+ </arrangement> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.1</container> 
+ <unittitle>Miscellaneous family correspondence, 
+ <unitdate>1894-1905</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.2</container> 
+ <unittitle>R. Z. Goehle correspondence, 
+ <unitdate>1911-15</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.3</container> 
+ <unittitle>R. Z. Goehle correspondence, 
+ <unitdate>1916-17</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.4</container> 
+ <unittitle>R. Z. Goehle correspondence, 
+ <unitdate>1918-19</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.5</container> 
+ <unittitle>R. Z. Goehle correspondence, 
+ <unitdate>1920</unitdate>, 
+ <unitdate>1922</unitdate>, 
+ <unitdate>1926-1927</unitdate>, 
+ <unitdate>1929</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.6</container> 
+ <unittitle>R. Z. Goehle correspondence, 
+ <unitdate>1931-1933</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.7</container> 
+ <unittitle>Correspondence re: investment in Precious Metals
+ Production Syndicate, 
+ <unitdate>1934</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.8</container> 
+ <unittitle>R. Z. Goehle correspondence, 
+ <unitdate>1935-1936</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.9</container> 
+ <unittitle>R. Z. Goehle correspondence, 
+ <unitdate>1937-1938</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.10</container> 
+ <unittitle>R. Z. Goehle correspondence, 
+ <unitdate>1939-1940</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.11</container> 
+ <unittitle>R. Z. Goehle correspondence, 
+ <unitdate>1941-1942</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.12</container> 
+ <unittitle>Correspondence re: Peter Maul monument, Holy Rest
+ Cemetery, Pine Hill, 
+ <unitdate>1941</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">1.13</container> 
+ <unittitle>R. Z. Goehle correspondence, 
+ <unitdate>1954</unitdate>, 
+ <unitdate>1965-1966</unitdate> and 
+ <unitdate>undated</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries" id="Series1B"> 
+ <did> 
+ <unitid id="series1b">I.B.</unitid> 
+ <unittitle>Financial Records, 
+ <unitdate normal="1894/1950"
+ type="inclusive">1894-1950</unitdate></unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged alphabetically within chronological periods.</p> 
+ </arrangement> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.1</container> 
+ <unittitle>A, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.2</container> 
+ <unittitle>B, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.3</container> 
+ <unittitle>C-E, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.4</container> 
+ <unittitle>F, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.5</container> 
+ <unittitle>G-H, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.6</container> 
+ <unittitle>I-L, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.7</container> 
+ <unittitle>M-P, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.8</container> 
+ <unittitle>R-V, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.9</container> 
+ <unittitle>W-Z, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.10</container> 
+ <unittitle>A-B, 
+ <unitdate> 1915-1919</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.12</container> 
+ <unittitle>C-F, 
+ <unitdate> 1915-1919</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">2.13</container> 
+ <unittitle>G-I, 
+ <unitdate> 1915-1919</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.1</container> 
+ <unittitle>J-M, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.2</container> 
+ <unittitle>N-O, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.3</container> 
+ <unittitle>P-S, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.4</container> 
+ <unittitle>T-V, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.5</container> 
+ <unittitle>W, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.6</container> 
+ <unittitle>X-Z, 
+ <unitdate>1894-1914</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.7</container> 
+ <unittitle>A-D, 
+ <unitdate>1920-1924</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.8</container> 
+ <unittitle>E-I, 
+ <unitdate>1920-1924</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">3.9</container> 
+ <unittitle>J-N, 
+ <unitdate>1920-1924</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.1</container> 
+ <unittitle>P-T, 
+ <unitdate>1920-1924</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.2</container> 
+ <unittitle>U-Z, 
+ <unitdate>1920-1924</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.3</container> 
+ <unittitle>A-F, 
+ <unitdate>1925-1929</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.4</container> 
+ <unittitle>G-L, 
+ <unitdate>1925-1929</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.5</container> 
+ <unittitle>M-Z, 
+ <unitdate>1925-1929</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.6</container> 
+ <unittitle>A-I, 
+ <unitdate>1930-1934</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.7</container> 
+ <unittitle>M-Z, 
+ <unitdate>1930-1934</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.8</container> 
+ <unittitle>A-F, 
+ <unitdate>1935-1939</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.9</container> 
+ <unittitle>G-L, 
+ <unitdate>1935-1939</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.10</container> 
+ <unittitle>M-O, 
+ <unitdate>1935-1939</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">4.11</container> 
+ <unittitle>P-U, 
+ <unitdate>1935-1939</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">5.1</container> 
+ <unittitle>A-I, 
+ <unitdate>1940-1944</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">5.2</container> 
+ <unittitle>J-O, 
+ <unitdate>1940-1944</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">5.3</container> 
+ <unittitle>P-Z, 
+ <unitdate>1940-1944</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <head>Other Financial Papers:</head> 
+ <container type="box-folder">5.4</container> 
+ <unittitle>Bills and receipts, 
+ <unitdate>undated</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">5.5</container> 
+ <unittitle>Checkbook registers, 
+ <unitdate>1938-1939</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">5.6</container> 
+ <unittitle>Checkbook stubs, 
+ <unitdate>1894-1905</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">5.7</container> 
+ <unittitle>Checkbook stubs, 
+ <unitdate>May 8, 1946-Nov. 9, 1949</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">5.8</container> 
+ <unittitle>Bank statements, 
+ <unitdate>Jan.-Sep. 1939 and Oct. 1947-Jan. 1950 </unitdate>
+ </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">5.9</container> 
+ <unittitle>Cancelled checks, 
+ <unitdate>1939</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">5.10</container> 
+ <unittitle>Cancelled checks, 
+ <unitdate>1947-1948</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">5.11</container> 
+ <unittitle>Cancelled checks, 
+ <unitdate>1949-1950</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box">6</container> 
+ <unittitle>Cancelled checks, 
+ <unitdate>1949-1950</unitdate> </unittitle> 
+ <physdesc>[Bound Volume]</physdesc> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series1c">I.C.</unitid> 
+ <unittitle>Camp Acres Poultry Farm Records, 
+ <unitdate normal="1919/1920"
+ type="inclusive">1919-1920</unitdate></unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Arranged alphabetically by payee.</p> 
+ </arrangement> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">6.1</container> 
+ <unittitle>A</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">6.2</container> 
+ <unittitle>B</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">6.3</container> 
+ <unittitle>C</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">6.4</container> 
+ <unittitle>D</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">6.5</container> 
+ <unittitle>F</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">6.6</container> 
+ <unittitle>G </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">6.7</container> 
+ <unittitle>H </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">6.8</container> 
+ <unittitle>I-K </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">7.1</container> 
+ <unittitle>L </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">7.2</container> 
+ <unittitle>M</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">7.3 </container> 
+ <unittitle>N-O</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">7.4</container> 
+ <unittitle>P</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">7.5</container> 
+ <unittitle>Q-R</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">7.6</container> 
+ <unittitle>S</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">7.7</container> 
+ <unittitle>T-V</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">7.8</container> 
+ <unittitle>W</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">7.9</container> 
+ <unittitle>Cancelled checks and bank statements, 
+ <unitdate> 1919</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">7.10</container> 
+ <unittitle> Account book, 
+ <unitdate>1919 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">7.11</container> 
+ <unittitle> Water contract, 
+ <unitdate>1919</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series1d">I.D.</unitid> 
+ <unittitle>Records Concerning Canadian Property, 
+ <unitdate normal="1927/1939"
+ type="inclusive">1927-1939</unitdate></unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">7.12-7.13</container> 
+ <unittitle>Records Concerning Canadian Property</unittitle> 
+ <unitdate>1927-1939</unitdate> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series1e">I.E.</unitid> 
+ <unittitle>Goehle Family Papers</unittitle> 
+ <unitdate type="inclusive" normal="1856/1930">1856-1930</unitdate> 
+ </did> 
+ <scopecontent> 
+ <p>Some items in German.</p> 
+ </scopecontent> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box">8</container> 
+ <unittitle>Carl A. Goehle: Account book, 
+ <unitdate>1884-1901</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">8.1</container> 
+ <unittitle>[Carl A. Goehle?]: expense account book, 
+ <unitdate>1883-1886</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">8.2</container> 
+ <unittitle>[Carl A. Goehle?]: autograph album, 
+ <unitdate>1856-1860</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">8.3</container> 
+ <unittitle>Carl A. Goehle: teaching notes and other papers, 
+ <unitdate>1862-1863</unitdate> and 
+ <unitdate>undated</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">8.4</container> 
+ <unittitle>Carl A. Goehle: insurance policy, 
+ <unitdate>1863</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">8.5</container> 
+ <unittitle>Carl A. Goehle: correspondence and notes, 
+ <unitdate>1882-1917</unitdate> and 
+ <unitdate>undated</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">8.6</container> 
+ <unittitle>3 Miscellaneous date books, 
+ <unitdate>1887-1888 </unitdate>and 
+ <unitdate>undated</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">8.7</container> 
+ <unittitle>Biology notes and drawings, 
+ <unitdate>circa 1906</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">8.8</container> 
+ <unittitle>Travelog of the Five Beach-Nuts (anonymous
+ typescript), 
+ <unitdate>August 9th to 23rd, 1930 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <unittitle>School attendance book, 
+ <unitdate>1852-1863</unitdate></unittitle> 
+ <physdesc>[Located between boxes 8 and 9]</physdesc> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.1</container> 
+ <unittitle>August E. Goehle: notebooks, 
+ <unitdate>[1890-1893]</unitdate>, [ 
+ <unitdate>1894</unitdate>] and [ 
+ <unitdate>1904</unitdate>?] </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.2</container> 
+ <unittitle>August E. Goehle: Public School 47 grade reports, 
+ <unitdate>1895-1897</unitdate> German lesson notes, 
+ <unitdate>1930 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.3</container> 
+ <unittitle> Hulda Goehle: autograph book, 
+ <unitdate>ca. 1882</unitdate> notebooks, 
+ <unitdate>circa 1885</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.4</container> 
+ <unittitle> Hulda Goehle: notebook on Rhetoric, State Normal
+ School (Buffalo), 
+ <unitdate>1889-1890 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.5</container> 
+ <unittitle>Hulda Goehle: 4 notebooks, 
+ <unitdate>undated</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.6</container> 
+ <unittitle>[Hulda Goehle?]: notebook on physiology, 
+ <unitdate> undated</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.7</container> 
+ <unittitle>Wm. Weinbach: notebook on Old Testament history, 
+ <unitdate>undated</unitdate> (in German) </unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries" id="Series1F"> 
+ <did> 
+ <unitid id="series1f">I.F.</unitid> 
+ <unittitle>Photographs, Plans, and Personal Papers, 
+ <unitdate normal="1913/1944" type="inclusive">circa
+ 1918-1939</unitdate></unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.8</container> 
+ <unittitle> Miscellaneous building plans, 
+ <unitdate>undated</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.9</container> 
+ <unittitle>Unidentified photographs, 
+ <unitdate> undated</unitdate> (one small portrait labeled
+ "Christian Grossberger") </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.10</container> 
+ <unittitle> K.F. Bell: signed note re The Whistle Bottling Co.,
+ Cleveland, Ohio, 
+ <unitdate>undated </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">9.11</container> 
+ <unittitle>Papers pertaining to World War I bond drive, 
+ <unitdate>1918</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ </c01> 
+ <c01 level="series"> 
+ <did> 
+ <unitid id="series2">II.</unitid> 
+ <unittitle>Esenwein &amp; Johnson records, 
+ <unitdate normal="1891/1942"
+ type="inclusive">1891-1942</unitdate></unittitle> 
+ </did> 
+ <arrangement encodinganalog="351"> 
+ <p>Series II is divided into five subseries: 
+ <list> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series2a">II.A. Job Specifications, Contracts, and
+ Plans</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series2b">II.B. Legal Papers</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series2c">II.C. Financial Records</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series2d">II.D. Correspondence , Printed Matter, and
+ Financial Reports</ref></item> 
+ <item> 
+ <ref actuate="onrequest" role="text/html"
+ show="replace" target="series1">II.E.Subseries E. Job Card Files.</ref></item> 
+ </list> </p> 
+ </arrangement> 
+ <c02 level="subseries" id="Series2A"> 
+ <did> 
+ <unitid id="series2a">II.A.</unitid> 
+ <unittitle>Job Specifications, Contracts, and Plans, 
+ <unitdate normal="1898/1940"
+ type="inclusive">1898-1940</unitdate></unittitle> 
+ </did> 
+ <arrangement> 
+ <p>Alphabetical by job name.</p> 
+ </arrangement> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.1</container> 
+ <unittitle>Lists of job numbers, 
+ <unitdate> undated</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.2</container> 
+ <unittitle>Calihan, Leo (apt. bldg., Rochester): specifications, 
+ <unitdate>1940 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.3</container> 
+ <unittitle>City Bank Building: TLS and invoices, 
+ <unitdate>1898</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.4</container> 
+ <unittitle>[Elk Place and First Street]: field notes, 
+ <unitdate>1928-1929</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.5</container> 
+ <unittitle> Ellicott Square Building {mosaic floor):
+ specifications, contract and plan, 
+ <unitdate>1930</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.6</container> 
+ <unittitle>Ellicott Square Building (elevators, building and
+ electrical changes): contracts, 
+ <unitdate>1933 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.7</container> 
+ <unittitle>Erie County (miscellaneous jobs): payment receipts, 
+ <unitdate>1907</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.8</container> 
+ <unittitle>Masten Park High School: contract, 
+ <unitdate>1912</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.9</container> 
+ <unittitle>Metzger, Alfred J. (house, Ebenezer, NY):
+ specifications, 
+ <unitdate>1914 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.10</container> 
+ <unittitle> Nagel, Fred C. (roller skating rink, Evans, NY):
+ specifications, 
+ <unitdate>1938</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.11</container> 
+ <unittitle>Portage Hotel (Akron, OH): specifications, 
+ <unitdate>1926</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.12</container> 
+ <unittitle>Prince Edward Hotel (Windsor, Ont.) : specifications, 
+ <unitdate>1920-1921 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.13</container> 
+ <unittitle>Sagamore Hotel (Rochester): specifications for
+ alterations, 
+ <unitdate>1939 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.14</container> 
+ <unittitle>Summer-Linwood Medical Building: Financial and
+ contract booklet (9 cc.) </unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.15</container> 
+ <unittitle>Summer-Linwood Medical Building: contracts 
+ <unitdate>1932- 1934 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">10.16</container> 
+ <unittitle>Builders uniform subcontract (blank), 
+ <unitdate>1906</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series2b">II.B.</unitid> 
+ <unittitle>Legal papers 
+ <unitdate type="inclusive"
+ normal="1897/1939">1897-1939</unitdate></unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">11.1</container> 
+ <unittitle>Records pertaining to lease of Ellicott Square Bldg.
+ office space, 
+ <unitdate>1897-1926 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">11.2</container> 
+ <unittitle> Miscellaneous papers pertaining to the partners, 
+ <unitdate>1897-1931</unitdate> and 
+ <unitdate>undated</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">11.3</container> 
+ <unittitle>Partnership agreement (J.A. Johnson and B.F. Kelly), 
+ <unitdate> 1932</unitdate> (2 cc.)7 and certificate of
+ continued use of partnership "Esenwein &amp; Johnson," 
+ <unitdate>1939</unitdate> </unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries" id="Series2C"> 
+ <did> 
+ <unitid id="series2c">II.C.</unitid> 
+ <unittitle>Financial Records, 
+ <unitdate normal="1891/1941"
+ type="inclusive">1891-1941</unitdate></unittitle> 
+ </did> 
+ <arrangement encodinganalog="351"> 
+ <p>The files in subseries C are further divided into
+ four categories: 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series2c1">Bank records</ref>, 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series2c2">Tax and Social Security records</ref>, 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series2c3"> Ledgers and account books</ref>, and 
+ <ref actuate="onrequest" role="text/html" show="replace"
+ target="series2c4">Time books</ref>.</p> 
+ </arrangement> 
+ <c03 level="subseries" id="series2c1"> 
+ <did> 
+ <unittitle>Bank records</unittitle> 
+ </did> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">11.4</container> 
+ <unittitle>Bank account records, 
+ <unitdate>1891-1901</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">11.5</container> 
+ <unittitle>Cancelled checks, 
+ <unitdate>1898-1904; </unitdate>checkbook stubs, 
+ <unitdate>1903- 1904</unitdate> </unittitle> 
+ </did> 
+ </c04> 
+ </c03> 
+ <c03 level="subseries" id="series2c2"> 
+ <did> 
+ <unittitle>Tax and Social Security records</unittitle> 
+ </did> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">11.6</container> 
+ <unittitle>Social Security payroll book, 
+ <unitdate>1937-1938</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">11.7</container> 
+ <unittitle> Employee tax records, 
+ <unitdate>1937-1941</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ </c03> 
+ <c03 level="subseries" id="series2c3"> 
+ <did> 
+ <unittitle>Ledgers and account books</unittitle> 
+ </did> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box">11</container> 
+ <unittitle>Office account ledger, 
+ <unitdate>1910-1931</unitdate></unittitle> 
+ <physdesc>[Bound Volume]</physdesc> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.1</container> 
+ <unittitle> Check account book, 
+ <unitdate>1921-1928</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.2</container> 
+ <unittitle> Check record book, 
+ <unitdate>Nov. 1931-Sept. 1933</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.3</container> 
+ <unittitle> Check record book, 
+ <unitdate>Oct. 1933-Aug. 1935</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.4</container> 
+ <unittitle> Check record book, 
+ <unitdate>Sept. 1935-Dec. 1936</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.5</container> 
+ <unittitle>Statements of expenses and receipts, 
+ <unitdate>1933-1937</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.6</container> 
+ <unittitle>Ledger of checks received and paid, 
+ <unitdate> 1937-1938</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">12.7</container> 
+ <unittitle>Ledger of checks received and paid, 
+ <unitdate>1939-1942</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.1</container> 
+ <unittitle> 1: Office account book, 
+ <unitdate>1931-1942</unitdate> (A-O) </unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.2</container> 
+ <unittitle> 1: Office account book, 
+ <unitdate>1931-1942</unitdate> (P-Z) </unittitle> 
+ </did> 
+ </c04> 
+ </c03> 
+ <c03 level="subseries" id="series2c4"> 
+ <did> 
+ <unittitle>Time books</unittitle> 
+ </did> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.3</container> 
+ <unittitle>Employee time book, 
+ <unitdate>1897</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.4</container> 
+ <unittitle>Job time book, 
+ <unitdate>1910-1931 </unitdate>(with index and schedule of
+ wages) </unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.5</container> 
+ <unittitle>Employee time book, 
+ <unitdate>1939-1942</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ <c04 level="file"> 
+ <did> 
+ <container type="box-folder">13.6</container> 
+ <unittitle>Time book and payroll, 
+ <unitdate>1940-1942</unitdate></unittitle> 
+ </did> 
+ </c04> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series2d">II.D.</unitid> 
+ <unittitle>Correspondence, Printed Matter, and Financial
+ reports,</unittitle> 
+ <unitdate type="inclusive" normal="1925/1930">1925-1930</unitdate> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">13.7</container> 
+ <unittitle>Charles H. Kimpel: correspondence re hotel
+ construction, 
+ <unitdate>1929 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">13.8</container> 
+ <unittitle>Specifications of Steelcrete Vault by Consolidated
+ Expanded Metal Cos., 
+ <unitdate> ca. 1925</unitdate></unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box-folder">13.9</container> 
+ <unittitle> Associated Buffalo Architects, Inc.: Report on audit
+ and financial statements, 
+ <unitdate> 1927-1930 </unitdate></unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ <c02 level="subseries"> 
+ <did> 
+ <unitid id="series2e">II.E.</unitid> 
+ <unittitle>Job Card Files, 
+ <unitdate normal="1897/1942" type="inclusive"
+ certainty="approximate">ca.1897-1942</unitdate></unittitle> 
+ </did> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box">14</container> 
+ <unittitle>Job files, alphabetical by job name; cards record job
+ descriptions and charges for architectural services.</unittitle> 
+ </did> 
+ </c03> 
+ <c03 level="file"> 
+ <did> 
+ <container type="box">15-17</container> 
+ <unittitle>Contractor files, alphabetical by job name; cards
+ record contractors involved and their charges (and sometimes office costs). Two
+ alphabetical series.</unittitle> 
+ </did> 
+ </c03> 
+ </c02> 
+ </c01> 
+ </dsc> 
+ <controlaccess> 
+ <head>Search Terms</head> 
+ <note> 
+ <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p> 
+ </note> 
+ <controlaccess> 
+ <head>Contributors</head> 
+ <persname encodinganalog="700" rules="aacr2">Goehle, Carl A. (Carl
+ August), 1836-1917</persname> 
+ <persname encodinganalog="700" rules="aacr2">Johnson, James A.,
+ 1865-1939</persname> 
+ <persname source="lcnaf" encodinganalog="700">Kent, William Winthrop,
+ 1860-1955</persname> 
+ <corpname encodinganalog="710" rules="aacr2">Esenwein &amp; Johnson
+ (Buffalo, N.Y.)</corpname> 
+ <corpname encodinganalog="710" rules="aacr2">Camp Acres Poultry Farm
+ (Ebenezer, N.Y.)</corpname> 
+ <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum</corpname> 
+ </controlaccess> 
+ <controlaccess> 
+ <head>Subject Terms</head> 
+ <persname encodinganalog="600" rules="aacr2" role="subject">Kelly, B.
+ Frank</persname> 
+ <subject encodinganalog="650" rules="aacr2">Ellicott Square Building
+ (Buffalo, N.Y.)</subject> 
+ <subject source="lcsh" encodinganalog="650">Architects--New York
+ (State)--Buffalo</subject> 
+ </controlaccess> 
+ <controlaccess> 
+ <head>Genre Terms</head> 
+ <genreform source="aat" encodinganalog="655">Photographs</genreform> 
+ <genreform source="aat" encodinganalog="655">Diaries</genreform> 
+ </controlaccess> 
+ </controlaccess> 
+ </archdesc> 
+</ead>
