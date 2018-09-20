@@ -4,7 +4,7 @@
  <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601"
   langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC"
   scriptencoding="iso15924">
-  <eadid countrycode="us" mainagencycode="NBuHi" encodinganalog="identifier"
+  <eadid countrycode="us" mainagencycode="NBuHi.xml" encodinganalog="identifier"
    publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::B00-11::A. Conger Goodyear War of 1812 Manuscripts)//EN"
    >bechs_b00_11</eadid>
 
